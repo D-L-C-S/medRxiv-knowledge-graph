@@ -1,1 +1,84 @@
-# medRxiv-knowledge-graph
+# 🧠 medRxiv Knowledge Graph
+
+This project constructs a **knowledge graph from medRxiv abstracts** using NLP and relation extraction techniques. It enables exploration of connections between biomedical entities such as drugs, diseases, proteins, and more.
+
+---
+
+## 📚 Project Overview
+
+The pipeline extracts entities and relations from medRxiv abstracts and constructs a structured knowledge graph. The goal is to help researchers **visualize and explore relationships** in biomedical literature.
+
+**Key Steps:**
+
+1. **Data Collection** – Download and clean medRxiv abstracts.
+2. **Entity Extraction** – Identify biomedical entities (drugs, diseases, proteins, etc.) using NLP.
+3. **Relation Extraction** – Identify candidate relationships between entities within sentences.
+4. **Graph Construction** – Convert entities and relations into a structured knowledge graph.
+5. **Visualization** – Explore the graph interactively with PyVis or export for analysis in Neo4j or CSV.
+6. **Export Results** – Save nodes and edges for downstream tasks.
+
+---
+
+## 🗂️ Project Structure
+
+medrxiv_knowledge_graph/
+│
+├── 1_data_collection.ipynb # Collect raw abstracts from medRxiv
+├── 2_relation_extraction.ipynb # Extract candidate relations between entities
+├── 3_graph_construction.ipynb # Convert entities and relations to a graph
+├── 4_export_results.ipynb # Export nodes and edges for analysis
+│
+├── data/
+│ ├── abstracts_raw.json # Collected abstracts
+│ ├── entities_extracted.csv # Extracted entities
+│ ├── relations.csv # Extracted relations
+│
+└── README.md # Project documentation
+
+---
+
+## ⚙️ Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/medrxiv-knowledge-graph.git
+cd medrxiv-knowledge-graph
+
+2. Create a Python virtual environment:
+python -m venv venv
+source venv/bin/activate  # Linux/Mac
+venv\Scripts\activate     # Windows
+
+3. Install required packages:
+pip install -r requirements.txt
+
+4. Download any NLP model:
+python -m spacy download en_core_web_sm
+
+## Usage
+
+1. Data Collection
+
+Run 1_data_collection.ipynb to fetch abstracts from medRxiv and store them in data/abstracts_raw.json.
+
+2. Entity Extraction
+
+Run 2_entity_extraction.ipynb to extract entities. Outputs are saved in data/entities_extracted.csv.
+
+3. Relation Extraction
+
+Run 3_relation_extraction.ipynb to identify relations between entities in sentences. Outputs are saved in data/relations.csv.
+
+4. Graph Construction
+
+Run 4_graph_construction.ipynb to convert entities and relations into a network graph.
+
+5. Visualization
+
+Run 5_visualization.ipynb to interactively explore the graph using PyVis.
+
+6. Export Results
+
+Run 6_export_results.ipynb to save the graph nodes and edges for downstream analysis or Neo4j import.
+```
