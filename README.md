@@ -76,31 +76,16 @@ python -m spacy download en_core_web_sm
 
 Run `1_data_collection.ipynb` to fetch abstracts from medRxiv and store them in `data/abstracts_raw.json`.
 
-### 2. Entity Extraction
+### 2. Relation Extraction
 
-Run `2_entity_extraction.ipynb` to extract entities. Outputs are saved in `data/entities_extracted.csv`.
+Run `2_relation_extraction.ipynb` to identify relations between entities in sentences. Outputs are saved in `data/relations.csv`.
 
-### 3. Relation Extraction
+### 3. Graph Construction
 
-Run `3_relation_extraction.ipynb` to identify relations between entities in sentences. Outputs are saved in `data/relations.csv`.
+Run `3_graph_construction.ipynb` to convert entities and relations into a network graph.
 
-### 4. Graph Construction
+### 4. Export Results
 
-Run `4_graph_construction.ipynb` to convert entities and relations into a network graph.
-
-### 5. Visualization
-
-Run `5_visualization.ipynb` to interactively explore the graph using PyVis.
-
-### 6. Export Results
-
-Run `6_export_results.ipynb` to save the graph nodes and edges for downstream analysis or Neo4j import.
+Run `4_export_results.ipynb` to save the graph nodes and edges for downstream analysis or Neo4j import.
 
 ---
-
-## 🛠️ Technologies
-
-- **NLP**: spaCy
-- **Graph Processing**: NetworkX
-- **Visualization**: PyVis
-- **Data Processing**: Pandas, NumPy
