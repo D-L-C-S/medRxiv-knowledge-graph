@@ -1,31 +1,164 @@
-id,label,title,site,date
-10.1101/2025.10.16.682669,Article,An unconventional HxD motif orchestrates coatomer-dependent coronavirus morphogenesis,bioRxiv,2025-10-17
-10.1101/2025.10.16.682991,Article,A funnel approach to enable analyses of epitope-specific human CD4 T cells specific for influenza and SARS-CoV-2.,bioRxiv,2025-10-17
-10.1101/2025.10.15.682635,Article,Genome-wide Screening Identifies Unique Host-Directed Drugs and Pro-viral Signalling Pathways for SARS-CoV-2,bioRxiv,2025-10-17
-10.1101/2025.10.17.682775,Article,Serological evidence of SARS-CoV-2 infection in red and fallow deer in Great Britain.,bioRxiv,2025-10-17
-10.1101/2025.10.17.683077,Article,Targeting the host factor HGS-viral membrane protein interaction in coronavirus infection,bioRxiv,2025-10-17
-10.1101/2025.10.15.682549,Article,Durability of DNA-LNP and mRNA-LNP Vaccine-Induced Immunity Against SARS-CoV-2 XBB.1.5,bioRxiv,2025-10-15
-10.1101/2025.10.12.681938,Article,Effective repurposed antivirals against an emerging virus,bioRxiv,2025-10-14
-10.1101/2025.10.11.681833,Article,"Discovery of AVI-6451, a Potent and Selective Inhibitor of the SARS-CoV-2 ADP-Ribosylhydrolase Mac1 with Oral Efficacy in vivo",bioRxiv,2025-10-14
-10.1101/2025.10.13.682008,Article,"Circular mRNA against Clean Cap linear mRNA vectors comprehensive comparison, expression, active and passive immunization",bioRxiv,2025-10-14
-10.1101/2025.10.13.682101,Article,Mechanisms of sex differences in acute and long COVID sequelae in mice,bioRxiv,2025-10-14
-10.1101/2025.10.13.682000,Article,The hyaluronan receptor CD44 drives COVID-19 severity through its regulation of neutrophil migration,bioRxiv,2025-10-14
-10.1101/2025.10.13.681985,Article,"Role of zinc in growth, stress response and virulence gene expression of pathogenic Mucorale Rhizopus arrhizus",bioRxiv,2025-10-14
-10.1101/2025.10.09.681538,Article,Clustering of SARS-CoV-2 membrane proteins in lipid bilayer membranes,bioRxiv,2025-10-10
-10.1101/2025.10.09.680815,Article,mRNA poly(A)-tail length is a battleground for coronavirus-host competition,bioRxiv,2025-10-10
-10.1101/2025.10.09.681330,Article,Predicting enhancer-gene links from single-cell multi-omics data by integrating prior Hi-C information,bioRxiv,2025-10-09
-10.1101/2025.10.09.681417,Article,A novel vaccination strategy induces vaccine-specific mucosal responses at port of viral entry and exit: using systemic SARS-CoV-2 vaccination as a test case,bioRxiv,2025-10-09
-10.1101/2025.10.07.25337492,Article,"Phase 1 Study of Safety, Reactogenicity, and Immunogenicity of a Novel MVA-SARS-2-ST Vaccine Candidate Administered as Inhalation Boost in SARS-CoV-2 Immunized Adults",medRxiv,2025-10-08
-10.1101/2025.10.07.25337497,Article,Evaluating Rural/Urban HPV Vaccine Completion Rates in Iowa After the COVID-19 Pandemic,medRxiv,2025-10-08
-10.1101/2025.10.07.25337449,Article,First-in-Human Study of a First-in-Class AI-Designed Monoclonal Antibody (GB-0669) Against the Conserved SARS-CoV-2 Spike S2 Stem Helix,medRxiv,2025-10-08
-10.1101/2025.09.30.679586,Article,Identification and characterization of a SARS-CoV-2 Mpro G23 deletion ensitrelvir-resistant mutant,bioRxiv,2025-10-07
-10.1101/2025.10.05.25337392,Article,Spatiotemporal variation of COVID-19 case time series in the United Kingdom: a dynamic time warping analysis,medRxiv,2025-10-07
-10.1101/2025.10.02.25337223,Article,Nontuberculous Mycobacteria Species in Patients with Concurrent COVID-19 and Mycobacterial Disease,medRxiv,2025-10-07
-10.1101/2025.10.03.679858,Article,Re-infection with SARS-CoV-2 is associated with increased antibody breadth and potency against diverse sarbecovirus strains,bioRxiv,2025-10-06
-10.1101/2025.10.03.680419,Article,Template switching by coronavirus polymerase requires helicase activity and is stimulated by remdesivir and molnupiravir,bioRxiv,2025-10-06
-10.1101/2025.10.03.680220,Article,Investigation of anti-SARS CoV-2 multimeric bicyclic peptide inhibitors in a range of pre-clinical therapeutic settings,bioRxiv,2025-10-05
-10.1101/2025.09.27.25336412,Article,Epidemiology and Cluster Predictions on Prevention Strategies of SARS CoV-2 Cases from 2019-2024 in Selected Districts of Zambia.,medRxiv,2025-10-05
-10.1101/2025.10.02.25337138,Article,TACO: TabPFN Augmented Causal Outcomes for Early Detection of Long COVID,medRxiv,2025-10-05
-10.1101/2025.09.28.25336743,Article,SARS-CoV-2 cross-reactive B-cells outnumber seasonal coronavirus spike-specific clones at the end of the COVID-19 pandemic,medRxiv,2025-10-05
-10.1101/2025.09.30.679491,Article,Oral Microbiota Composition in Children and Adults During Spanish COVID-19 Lockdown: Impact of Home Self-Confinement and SARS-CoV-2 infection,bioRxiv,2025-10-04
-10.1101/2025.09.22.677528,Article,Computational Analysis of Silent Mutation Effects on SARS-CoV-2 RNA-Host RNA-Binding Protein Interactome,bioRxiv,2025-10-03
+,id,entity,entity_type
+0,10.1101/2025.10.16.682669,dibasic,CHEMICAL
+1,10.1101/2025.10.16.682669,OC43,DISEASE
+2,10.1101/2025.10.16.682991,infection,DISEASE
+3,10.1101/2025.10.16.682991,viral infections,DISEASE
+4,10.1101/2025.10.15.682635,trametinib,CHEMICAL
+5,10.1101/2025.10.15.682635,sorafenib,CHEMICAL
+6,10.1101/2025.10.15.682635,coronavirus infections,DISEASE
+7,10.1101/2025.10.17.682775,SARS-CoV-2 infection,DISEASE
+8,10.1101/2025.10.17.683077,Tyrosine,CHEMICAL
+9,10.1101/2025.10.17.683077,pan-coronaviruses infection,DISEASE
+10,10.1101/2025.10.17.683077,HGS deficiency,DISEASE
+11,10.1101/2025.10.17.683077,riboflavin tetrabutyrate,CHEMICAL
+12,10.1101/2025.10.17.683077,RTB,CHEMICAL
+13,10.1101/2025.10.17.683077,RTB,CHEMICAL
+14,10.1101/2025.10.17.683077,RTB,CHEMICAL
+15,10.1101/2025.10.15.682549,nucleic acid,CHEMICAL
+16,10.1101/2025.10.15.682549,weight loss,DISEASE
+17,10.1101/2025.10.12.681938,nilotinib,CHEMICAL
+18,10.1101/2025.10.12.681938,tecovirimat,CHEMICAL
+19,10.1101/2025.10.12.681938,ST-246,CHEMICAL
+20,10.1101/2025.10.11.681833,SARS-CoV-2 infection,DISEASE
+21,10.1101/2025.10.11.681833,urea,CHEMICAL
+22,10.1101/2025.10.11.681833,hydrogen bond donor,CHEMICAL
+23,10.1101/2025.10.11.681833,urea,CHEMICAL
+24,10.1101/2025.10.11.681833,once-daily,CHEMICAL
+25,10.1101/2025.10.11.681833,SARS-CoV-2 infection,DISEASE
+26,10.1101/2025.10.13.682008,uridine,CHEMICAL
+27,10.1101/2025.10.13.682008,ARCA,DISEASE
+28,10.1101/2025.10.13.682101,PASC,CHEMICAL
+29,10.1101/2025.10.13.682101,infection,DISEASE
+30,10.1101/2025.10.13.682101,PASC,CHEMICAL
+31,10.1101/2025.10.13.682101,infected with SARS-CoV-2 and viral,DISEASE
+32,10.1101/2025.10.13.682101,infection,DISEASE
+33,10.1101/2025.10.13.682101,PASC,CHEMICAL
+34,10.1101/2025.10.13.682101,infection,DISEASE
+35,10.1101/2025.10.13.682101,neurocognitive and behavioral impairments,DISEASE
+36,10.1101/2025.10.13.682101,neuroinflammation,DISEASE
+37,10.1101/2025.10.13.682101,inflammation,DISEASE
+38,10.1101/2025.10.13.682101,PASC,CHEMICAL
+39,10.1101/2025.10.13.682101,neuroinflammation,DISEASE
+40,10.1101/2025.10.13.682101,PASC,CHEMICAL
+41,10.1101/2025.10.13.682101,inflammation,DISEASE
+42,10.1101/2025.10.13.682101,chronic disease,DISEASE
+43,10.1101/2025.10.13.682000,respiratory disease,DISEASE
+44,10.1101/2025.10.13.682000,infection,DISEASE
+45,10.1101/2025.10.13.682000,COVID-19 disease,DISEASE
+46,10.1101/2025.10.13.682000,anti-CD44,CHEMICAL
+47,10.1101/2025.10.13.682000,weight loss,DISEASE
+48,10.1101/2025.10.13.682000,infection,DISEASE
+49,10.1101/2025.10.13.682000,anti-CD44,CHEMICAL
+50,10.1101/2025.10.13.682000,anti-CD44,CHEMICAL
+51,10.1101/2025.10.13.682000,anti-CD44,CHEMICAL
+52,10.1101/2025.10.13.682000,pulmonary infection,DISEASE
+53,10.1101/2025.10.13.681985,mucormycosis,DISEASE
+54,10.1101/2025.10.13.681985,diabetes,DISEASE
+55,10.1101/2025.10.13.681985,zinc,CHEMICAL
+56,10.1101/2025.10.13.681985,mucormycosis,DISEASE
+57,10.1101/2025.10.13.681985,zinc,CHEMICAL
+58,10.1101/2025.10.13.681985,Rhizopus arrhizus,DISEASE
+59,10.1101/2025.10.13.681985,mucormycosis,DISEASE
+60,10.1101/2025.10.13.681985,hydrogen peroxide,CHEMICAL
+61,10.1101/2025.10.13.681985,sodium chloride,CHEMICAL
+62,10.1101/2025.10.13.681985,zinc,CHEMICAL
+63,10.1101/2025.10.13.681985,amphotericin B,CHEMICAL
+64,10.1101/2025.10.13.681985,posaconazole,CHEMICAL
+65,10.1101/2025.10.13.681985,ergosterol,CHEMICAL
+66,10.1101/2025.10.13.681985,chitosan,CHEMICAL
+67,10.1101/2025.10.13.681985,iron,CHEMICAL
+68,10.1101/2025.10.13.681985,iron,CHEMICAL
+69,10.1101/2025.10.13.681985,Candida albicans,DISEASE
+70,10.1101/2025.10.13.681985,zinc,CHEMICAL
+71,10.1101/2025.10.13.681985,zinc,CHEMICAL
+72,10.1101/2025.10.13.681985,mucormycosis,DISEASE
+73,10.1101/2025.10.13.681985,fungal infection,DISEASE
+74,10.1101/2025.10.13.681985,mucormycosis,DISEASE
+75,10.1101/2025.10.13.681985,zinc,CHEMICAL
+76,10.1101/2025.10.13.681985,iron,CHEMICAL
+77,10.1101/2025.10.13.681985,Candida albicans,DISEASE
+78,10.1101/2025.10.13.681985,zinc,CHEMICAL
+79,10.1101/2025.10.09.680815,coronavirus infection,DISEASE
+80,10.1101/2025.10.09.680815,infection,DISEASE
+81,10.1101/2025.10.09.680815,coronavirus infection,DISEASE
+82,10.1101/2025.10.09.681330,ATAC,CHEMICAL
+83,10.1101/2025.10.09.681417,Respiratory infectious diseases,DISEASE
+84,10.1101/2025.10.09.681417,upper respiratory tract,DISEASE
+85,10.1101/2025.10.09.681417,infection,DISEASE
+86,10.1101/2025.10.09.681417,infection,DISEASE
+87,10.1101/2025.10.09.681417,respiratory disease,DISEASE
+88,10.1101/2025.10.09.681417,infection,DISEASE
+89,10.1101/2025.10.07.25337492,infection,DISEASE
+90,10.1101/2025.10.07.25337492,Ankara-(MVA)-SARS-2-ST,CHEMICAL
+91,10.1101/2025.10.07.25337492,140,CHEMICAL
+92,10.1101/2025.10.07.25337492,methacholine,CHEMICAL
+93,10.1101/2025.10.07.25337492,cough,DISEASE
+94,10.1101/2025.10.07.25337492,headache,DISEASE
+95,10.1101/2025.10.07.25337492,fatigue,DISEASE
+96,10.1101/2025.10.07.25337492,methacholine,CHEMICAL
+97,10.1101/2025.10.07.25337497,cancer,DISEASE
+98,10.1101/2025.10.07.25337497,HPV-associated cancer,DISEASE
+99,10.1101/2025.10.07.25337497,ResultsOverall,DISEASE
+100,10.1101/2025.10.07.25337449,PD,DISEASE
+101,10.1101/2025.10.07.25337449,"nirmatrelvir, and molnupiravir",DISEASE
+102,10.1101/2025.10.07.25337449,toxicities,DISEASE
+103,10.1101/2025.10.07.25337449,PK,CHEMICAL
+104,10.1101/2025.09.30.679586,Respiratory Syndrome,DISEASE
+105,10.1101/2025.09.30.679586,coronavirus disease 2019,DISEASE
+106,10.1101/2025.09.30.679586,{Delta}3a7b-Nluc,CHEMICAL
+107,10.1101/2025.09.30.679586,"nirmatrelvir or remdesivir, suggesting the feasibility of treating",DISEASE
+108,10.1101/2025.09.30.679586,infections,DISEASE
+109,10.1101/2025.09.30.679586,nirmatrelvir) and RdRp (remdesivir) inhibitors.,DISEASE
+110,10.1101/2025.09.30.679586,{Delta}3a7b-Nluc,CHEMICAL
+111,10.1101/2025.10.05.25337392,COVID-19 disease activity,DISEASE
+112,10.1101/2025.10.05.25337392,LTLAs,CHEMICAL
+113,10.1101/2025.10.05.25337392,LTLAs,CHEMICAL
+114,10.1101/2025.10.05.25337392,LTLAs,CHEMICAL
+115,10.1101/2025.10.05.25337392,LTLAs,CHEMICAL
+116,10.1101/2025.10.05.25337392,infectious diseases,DISEASE
+117,10.1101/2025.10.02.25337223,nontuberculous mycobacterial,DISEASE
+118,10.1101/2025.10.02.25337223,NTM,CHEMICAL
+119,10.1101/2025.10.02.25337223,NTM,CHEMICAL
+120,10.1101/2025.10.02.25337223,infection,DISEASE
+121,10.1101/2025.10.02.25337223,NTM,CHEMICAL
+122,10.1101/2025.10.02.25337223,NTM-associated diseases,DISEASE
+123,10.1101/2025.10.02.25337223,Mycobacterium avium,CHEMICAL
+124,10.1101/2025.10.02.25337223,avium,DISEASE
+125,10.1101/2025.10.02.25337223,terrae,DISEASE
+126,10.1101/2025.10.02.25337223,NTM-associated diseases,DISEASE
+127,10.1101/2025.10.03.679858,infection,DISEASE
+128,10.1101/2025.10.03.679858,infection,DISEASE
+129,10.1101/2025.10.03.680419,CoVs,DISEASE
+130,10.1101/2025.10.03.680419,nucleotide,CHEMICAL
+131,10.1101/2025.10.03.680220,SARS,DISEASE
+132,10.1101/2025.09.27.25336412,Respiratory Syndrome,DISEASE
+133,10.1101/2025.09.27.25336412,SARS,DISEASE
+134,10.1101/2025.09.27.25336412,SARS,DISEASE
+135,10.1101/2025.09.27.25336412,infection,DISEASE
+136,10.1101/2025.09.27.25336412,infection,DISEASE
+137,10.1101/2025.10.02.25337138,TACO,DISEASE
+138,10.1101/2025.10.02.25337138,TACO,DISEASE
+139,10.1101/2025.10.02.25337138,DCE,CHEMICAL
+140,10.1101/2025.10.02.25337138,TACO,DISEASE
+141,10.1101/2025.10.02.25337138,TACO,DISEASE
+142,10.1101/2025.10.02.25337138,CDKN1A,CHEMICAL
+143,10.1101/2025.10.02.25337138,TACO,DISEASE
+144,10.1101/2025.09.28.25336743,OC43,DISEASE
+145,10.1101/2025.09.28.25336743,sHCoVs,CHEMICAL
+146,10.1101/2025.09.28.25336743,OC43,DISEASE
+147,10.1101/2025.09.28.25336743,NL63,DISEASE
+148,10.1101/2025.09.28.25336743,OC43,DISEASE
+149,10.1101/2025.09.28.25336743,OC43,DISEASE
+150,10.1101/2025.09.28.25336743,OC43,DISEASE
+151,10.1101/2025.09.28.25336743,OC43,DISEASE
+152,10.1101/2025.09.28.25336743,OC43,DISEASE
+153,10.1101/2025.09.28.25336743,NL63,DISEASE
+154,10.1101/2025.09.30.679491,SARS-CoV-2 infection,DISEASE
+155,10.1101/2025.09.30.679491,infection,DISEASE
+156,10.1101/2025.09.30.679491,SARS-CoV-2 infection,DISEASE
+157,10.1101/2025.09.30.679491,infection,DISEASE
+158,10.1101/2025.09.22.677528,K,CHEMICAL
+159,10.1101/2025.09.22.677528,DTLVardef@1696837_HPS_FORMAT_FIGEXP M_FIG,DISEASE
+160,10.1101/2025.09.22.677528,U/A,CHEMICAL
+161,10.1101/2025.09.22.677528,G/C,CHEMICAL
+162,10.1101/2025.09.22.677528,nucleotide,CHEMICAL
