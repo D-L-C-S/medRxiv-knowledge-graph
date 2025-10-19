@@ -1,0 +1,1029 @@
+entity_1,relation,entity_2,confidence
+trametinib,identify,sorafenib,0.17857142857142855
+trametinib,identify,coronavirus infections,0.053571428571428555
+sorafenib,identify,coronavirus infections,0.06190476190476191
+Tyrosine,perform,pan-coronaviruses infection,0.053571428571428555
+riboflavin tetrabutyrate,identify,RTB,0.1607142857142857
+riboflavin tetrabutyrate,identify,RTB,0.1607142857142857
+riboflavin tetrabutyrate,identify,RTB,0.1607142857142857
+RTB,identify,RTB,0.5714285714285714
+RTB,identify,RTB,0.5714285714285714
+RTB,identify,RTB,0.5714285714285714
+RTB,bind,RTB,0.5357142857142857
+RTB,bind,RTB,0.5357142857142857
+RTB,bind,RTB,0.5357142857142857
+RTB,identify,RTB,0.5714285714285714
+RTB,identify,RTB,0.5714285714285714
+RTB,identify,RTB,0.5714285714285714
+nilotinib,show,tecovirimat,0.03968253968253965
+nilotinib,show,ST-246,0.033643892339544505
+tecovirimat,show,ST-246,0.0952380952380952
+SARS-CoV-2 infection,demonstrate,SARS-CoV-2 infection,0.5119047619047619
+urea,replace,hydrogen bond donor,0.12380952380952381
+urea,replace,urea,0.5119047619047619
+urea,replace,hydrogen bond donor,0.12380952380952381
+urea,deliver,urea,0.5119047619047619
+once-daily,lead,SARS-CoV-2 infection,0.07936507936507936
+SARS-CoV-2 infection,lead,SARS-CoV-2 infection,0.5119047619047619
+once-daily,lead,SARS-CoV-2 infection,0.07936507936507936
+uridine,contain,ARCA,0.0952380952380952
+PASC,develop,infection,0.24999999999999997
+PASC,develop,PASC,0.6190476190476191
+PASC,develop,infection,0.24999999999999997
+PASC,develop,PASC,0.6190476190476191
+PASC,develop,infection,0.24999999999999997
+PASC,develop,PASC,0.6190476190476191
+PASC,develop,PASC,0.6190476190476191
+PASC,develop,infection,0.24999999999999997
+infection,develop,infection,0.5357142857142857
+PASC,develop,infection,0.24999999999999997
+infection,develop,infection,0.5357142857142857
+PASC,develop,infection,0.24999999999999997
+PASC,develop,infection,0.24999999999999997
+PASC,develop,infection,0.24999999999999997
+PASC,develop,PASC,0.6190476190476191
+PASC,develop,infection,0.24999999999999997
+PASC,develop,PASC,0.6190476190476191
+PASC,develop,PASC,0.6190476190476191
+PASC,develop,infection,0.24999999999999997
+infection,develop,infection,0.5357142857142857
+PASC,develop,infection,0.24999999999999997
+PASC,develop,infection,0.24999999999999997
+PASC,develop,infection,0.24999999999999997
+PASC,develop,PASC,0.6190476190476191
+PASC,develop,PASC,0.6190476190476191
+PASC,develop,infection,0.24999999999999997
+PASC,develop,infection,0.24999999999999997
+PASC,develop,PASC,0.6190476190476191
+PASC,infect,infection,0.20129870129870128
+PASC,identify,PASC,0.6190476190476191
+PASC,identify,infected with SARS-CoV-2 and viral,0.1595238095238095
+PASC,infect,infection,0.20129870129870128
+PASC,identify,PASC,0.6190476190476191
+PASC,infect,infection,0.20129870129870128
+PASC,identify,PASC,0.6190476190476191
+PASC,identify,PASC,0.6190476190476191
+PASC,infect,infection,0.20129870129870128
+infected with SARS-CoV-2 and viral,identify,infection,0.06349206349206346
+infection,evaluate,infection,0.5357142857142857
+PASC,infect,infection,0.20129870129870128
+infection,evaluate,infection,0.5357142857142857
+PASC,infect,infection,0.20129870129870128
+PASC,infect,infection,0.20129870129870128
+PASC,identify,infected with SARS-CoV-2 and viral,0.1595238095238095
+PASC,infect,infection,0.20129870129870128
+PASC,identify,PASC,0.6190476190476191
+PASC,infect,infection,0.20129870129870128
+PASC,identify,PASC,0.6190476190476191
+PASC,identify,PASC,0.6190476190476191
+infected with SARS-CoV-2 and viral,identify,infection,0.06349206349206346
+PASC,identify,infected with SARS-CoV-2 and viral,0.1595238095238095
+infected with SARS-CoV-2 and viral,identify,infection,0.06349206349206346
+PASC,identify,infected with SARS-CoV-2 and viral,0.1595238095238095
+PASC,identify,infected with SARS-CoV-2 and viral,0.1595238095238095
+PASC,infect,infection,0.20129870129870128
+infection,evaluate,infection,0.5357142857142857
+PASC,infect,infection,0.20129870129870128
+PASC,infect,infection,0.20129870129870128
+PASC,infect,infection,0.20129870129870128
+PASC,identify,PASC,0.6190476190476191
+PASC,identify,PASC,0.6190476190476191
+PASC,infect,infection,0.20129870129870128
+PASC,infect,infection,0.20129870129870128
+PASC,identify,PASC,0.6190476190476191
+PASC,observe,PASC,0.6190476190476191
+PASC,observe,PASC,0.6190476190476191
+PASC,observe,PASC,0.6190476190476191
+PASC,observe,PASC,0.6190476190476191
+PASC,observe,PASC,0.6190476190476191
+PASC,observe,PASC,0.6190476190476191
+PASC,observe,PASC,0.6190476190476191
+PASC,observe,PASC,0.6190476190476191
+PASC,observe,PASC,0.6190476190476191
+PASC,observe,PASC,0.6190476190476191
+infection,exhibit,infection,0.5357142857142857
+infection,exhibit,infection,0.5357142857142857
+infection,exhibit,neurocognitive and behavioral impairments,0.10714285714285711
+infection,exhibit,neuroinflammation,0.09523809523809523
+infection,exhibit,neuroinflammation,0.09523809523809523
+infection,exhibit,infection,0.5357142857142857
+infection,exhibit,neurocognitive and behavioral impairments,0.10714285714285711
+infection,exhibit,neuroinflammation,0.09523809523809523
+infection,exhibit,neuroinflammation,0.09523809523809523
+infection,exhibit,neurocognitive and behavioral impairments,0.10714285714285711
+infection,exhibit,neuroinflammation,0.09523809523809523
+infection,exhibit,neuroinflammation,0.09523809523809523
+neurocognitive and behavioral impairments,exhibit,neuroinflammation,0.057142857142857106
+neurocognitive and behavioral impairments,exhibit,neuroinflammation,0.057142857142857106
+neuroinflammation,exhibit,neuroinflammation,0.5119047619047619
+PASC,mediate,PASC,0.6190476190476191
+PASC,mediate,PASC,0.6190476190476191
+inflammation,mediate,PASC,0.20238095238095233
+PASC,mediate,PASC,0.6190476190476191
+PASC,mediate,PASC,0.6190476190476191
+inflammation,mediate,PASC,0.20238095238095233
+PASC,mediate,PASC,0.6190476190476191
+inflammation,mediate,PASC,0.20238095238095233
+PASC,mediate,PASC,0.6190476190476191
+PASC,mediate,PASC,0.6190476190476191
+inflammation,mediate,PASC,0.20238095238095233
+inflammation,mediate,PASC,0.20238095238095233
+PASC,mediate,PASC,0.6190476190476191
+PASC,mediate,PASC,0.6190476190476191
+inflammation,mediate,PASC,0.20238095238095233
+inflammation,mediate,PASC,0.20238095238095233
+inflammation,mediate,PASC,0.20238095238095233
+inflammation,mediate,inflammation,0.5119047619047619
+PASC,mediate,PASC,0.6190476190476191
+inflammation,mediate,PASC,0.20238095238095233
+inflammation,mediate,PASC,0.20238095238095233
+PASC,present,PASC,0.6190476190476191
+PASC,present,PASC,0.6190476190476191
+neuroinflammation,present,PASC,0.2857142857142857
+PASC,present,inflammation,0.15238095238095234
+PASC,present,PASC,0.6190476190476191
+neuroinflammation,present,PASC,0.2857142857142857
+PASC,present,PASC,0.6190476190476191
+PASC,present,inflammation,0.15238095238095234
+PASC,present,chronic disease,0.08893557422969187
+PASC,present,PASC,0.6190476190476191
+neuroinflammation,present,PASC,0.2857142857142857
+PASC,present,inflammation,0.15238095238095234
+PASC,present,PASC,0.6190476190476191
+neuroinflammation,present,PASC,0.2857142857142857
+PASC,present,PASC,0.6190476190476191
+PASC,present,inflammation,0.15238095238095234
+PASC,present,chronic disease,0.08893557422969187
+neuroinflammation,present,PASC,0.2857142857142857
+PASC,present,inflammation,0.15238095238095234
+PASC,present,PASC,0.6190476190476191
+neuroinflammation,present,PASC,0.2857142857142857
+PASC,present,PASC,0.6190476190476191
+PASC,present,inflammation,0.15238095238095234
+PASC,present,chronic disease,0.08893557422969187
+neuroinflammation,present,inflammation,0.07703081232492996
+neuroinflammation,present,PASC,0.2857142857142857
+neuroinflammation,present,neuroinflammation,0.5119047619047619
+neuroinflammation,present,PASC,0.2857142857142857
+neuroinflammation,present,inflammation,0.07703081232492996
+neuroinflammation,present,chronic disease,0.050125313283208
+PASC,present,inflammation,0.15238095238095234
+neuroinflammation,present,inflammation,0.07703081232492996
+PASC,present,inflammation,0.15238095238095234
+inflammation,regulate,inflammation,0.5119047619047619
+inflammation,regulate,chronic disease,0.19047619047619047
+neuroinflammation,present,PASC,0.2857142857142857
+PASC,present,PASC,0.6190476190476191
+PASC,present,inflammation,0.15238095238095234
+PASC,present,chronic disease,0.08893557422969187
+neuroinflammation,present,PASC,0.2857142857142857
+neuroinflammation,present,inflammation,0.07703081232492996
+neuroinflammation,present,chronic disease,0.050125313283208
+PASC,present,inflammation,0.15238095238095234
+PASC,present,chronic disease,0.08893557422969187
+inflammation,regulate,chronic disease,0.19047619047619047
+infection,unknown,infection,0.5119047619047619
+anti-CD44,confer,infection,0.11697722567287783
+weight loss,reduce,infection,0.06227106227106226
+infection,reduce,infection,0.5119047619047619
+anti-CD44,confer,infection,0.11697722567287783
+anti-CD44,confer,infection,0.11697722567287783
+anti-CD44,confer,infection,0.11697722567287783
+anti-CD44,confer,weight loss,0.09307359307359306
+anti-CD44,confer,infection,0.11697722567287783
+anti-CD44,confer,anti-CD44,0.5714285714285714
+anti-CD44,confer,anti-CD44,0.5714285714285714
+anti-CD44,confer,anti-CD44,0.5714285714285714
+weight loss,reduce,infection,0.06227106227106226
+anti-CD44,confer,weight loss,0.09307359307359306
+anti-CD44,confer,weight loss,0.09307359307359306
+anti-CD44,confer,weight loss,0.09307359307359306
+anti-CD44,confer,infection,0.11697722567287783
+anti-CD44,confer,infection,0.11697722567287783
+anti-CD44,confer,infection,0.11697722567287783
+anti-CD44,confer,anti-CD44,0.5714285714285714
+anti-CD44,confer,anti-CD44,0.5714285714285714
+anti-CD44,confer,anti-CD44,0.5714285714285714
+anti-CD44,decrease,anti-CD44,0.5714285714285714
+anti-CD44,decrease,anti-CD44,0.5714285714285714
+anti-CD44,decrease,anti-CD44,0.5714285714285714
+anti-CD44,decrease,anti-CD44,0.5714285714285714
+anti-CD44,decrease,anti-CD44,0.5714285714285714
+anti-CD44,decrease,anti-CD44,0.5714285714285714
+anti-CD44,reduce,anti-CD44,0.6428571428571428
+anti-CD44,reduce,anti-CD44,0.6428571428571428
+anti-CD44,reduce,anti-CD44,0.6428571428571428
+anti-CD44,reduce,anti-CD44,0.6428571428571428
+anti-CD44,reduce,anti-CD44,0.6428571428571428
+anti-CD44,reduce,anti-CD44,0.6428571428571428
+anti-CD44,reduce,anti-CD44,0.6428571428571428
+anti-CD44,reduce,anti-CD44,0.6428571428571428
+anti-CD44,reduce,anti-CD44,0.6428571428571428
+anti-CD44,reduce,anti-CD44,0.6428571428571428
+anti-CD44,reduce,anti-CD44,0.6428571428571428
+anti-CD44,reduce,anti-CD44,0.6428571428571428
+infection,prevent,infection,0.5119047619047619
+pulmonary infection,prevent,infection,0.27380952380952384
+pulmonary infection,prevent,infection,0.27380952380952384
+mucormycosis,increase,diabetes,0.10497835497835498
+mucormycosis,increase,mucormycosis,0.6190476190476191
+mucormycosis,increase,mucormycosis,0.6190476190476191
+mucormycosis,increase,mucormycosis,0.6190476190476191
+mucormycosis,increase,mucormycosis,0.6190476190476191
+mucormycosis,increase,diabetes,0.10497835497835498
+mucormycosis,increase,diabetes,0.10497835497835498
+mucormycosis,increase,diabetes,0.10497835497835498
+mucormycosis,increase,diabetes,0.10497835497835498
+mucormycosis,increase,mucormycosis,0.6190476190476191
+mucormycosis,increase,mucormycosis,0.6190476190476191
+mucormycosis,increase,mucormycosis,0.6190476190476191
+mucormycosis,increase,mucormycosis,0.6190476190476191
+mucormycosis,increase,mucormycosis,0.6190476190476191
+mucormycosis,increase,mucormycosis,0.6190476190476191
+zinc,associate,mucormycosis,0.4722222222222222
+mucormycosis,associate,mucormycosis,0.6190476190476191
+zinc,associate,mucormycosis,0.4722222222222222
+mucormycosis,associate,mucormycosis,0.6190476190476191
+zinc,associate,mucormycosis,0.4722222222222222
+zinc,associate,mucormycosis,0.4722222222222222
+zinc,associate,mucormycosis,0.4722222222222222
+mucormycosis,associate,mucormycosis,0.6190476190476191
+mucormycosis,associate,mucormycosis,0.6190476190476191
+zinc,associate,mucormycosis,0.4722222222222222
+zinc,associate,mucormycosis,0.4722222222222222
+zinc,associate,mucormycosis,0.4722222222222222
+zinc,associate,zinc,0.75
+zinc,associate,mucormycosis,0.4722222222222222
+zinc,associate,zinc,0.75
+zinc,associate,zinc,0.75
+zinc,associate,zinc,0.75
+zinc,associate,mucormycosis,0.4722222222222222
+zinc,associate,mucormycosis,0.4722222222222222
+zinc,associate,zinc,0.75
+zinc,associate,zinc,0.75
+zinc,associate,mucormycosis,0.4722222222222222
+mucormycosis,associate,mucormycosis,0.6190476190476191
+zinc,associate,mucormycosis,0.4722222222222222
+zinc,associate,mucormycosis,0.4722222222222222
+zinc,associate,mucormycosis,0.4722222222222222
+mucormycosis,associate,mucormycosis,0.6190476190476191
+mucormycosis,associate,mucormycosis,0.6190476190476191
+zinc,associate,mucormycosis,0.4722222222222222
+zinc,associate,mucormycosis,0.4722222222222222
+zinc,associate,mucormycosis,0.4722222222222222
+zinc,associate,zinc,0.75
+zinc,associate,zinc,0.75
+zinc,associate,zinc,0.75
+zinc,associate,mucormycosis,0.4722222222222222
+zinc,associate,mucormycosis,0.4722222222222222
+zinc,associate,zinc,0.75
+zinc,associate,zinc,0.75
+zinc,associate,mucormycosis,0.4722222222222222
+zinc,associate,mucormycosis,0.4722222222222222
+zinc,associate,mucormycosis,0.4722222222222222
+mucormycosis,associate,mucormycosis,0.6190476190476191
+mucormycosis,associate,mucormycosis,0.6190476190476191
+zinc,associate,mucormycosis,0.4722222222222222
+zinc,associate,mucormycosis,0.4722222222222222
+zinc,associate,zinc,0.75
+zinc,associate,zinc,0.75
+zinc,associate,mucormycosis,0.4722222222222222
+zinc,associate,mucormycosis,0.4722222222222222
+zinc,associate,zinc,0.75
+zinc,associate,zinc,0.75
+zinc,associate,zinc,0.75
+zinc,associate,mucormycosis,0.4722222222222222
+zinc,associate,mucormycosis,0.4722222222222222
+zinc,associate,zinc,0.75
+zinc,associate,zinc,0.75
+zinc,associate,mucormycosis,0.4722222222222222
+zinc,associate,mucormycosis,0.4722222222222222
+zinc,associate,zinc,0.75
+zinc,associate,zinc,0.75
+mucormycosis,associate,mucormycosis,0.6190476190476191
+zinc,associate,mucormycosis,0.4722222222222222
+zinc,associate,mucormycosis,0.4722222222222222
+zinc,associate,mucormycosis,0.4722222222222222
+zinc,associate,mucormycosis,0.4722222222222222
+zinc,associate,zinc,0.75
+zinc,elucidate,mucormycosis,0.4583333333333333
+mucormycosis,elucidate,mucormycosis,0.6190476190476191
+zinc,elucidate,mucormycosis,0.4583333333333333
+Rhizopus arrhizus,elucidate,mucormycosis,0.11507936507936507
+mucormycosis,elucidate,mucormycosis,0.6190476190476191
+zinc,elucidate,mucormycosis,0.4583333333333333
+zinc,elucidate,mucormycosis,0.4583333333333333
+zinc,elucidate,mucormycosis,0.4583333333333333
+mucormycosis,elucidate,mucormycosis,0.6190476190476191
+mucormycosis,elucidate,mucormycosis,0.6190476190476191
+zinc,elucidate,mucormycosis,0.4583333333333333
+zinc,elucidate,mucormycosis,0.4583333333333333
+zinc,elucidate,mucormycosis,0.4583333333333333
+zinc,elucidate,zinc,0.75
+zinc,elucidate,Rhizopus arrhizus,0.20833333333333331
+zinc,elucidate,mucormycosis,0.4583333333333333
+zinc,elucidate,zinc,0.75
+zinc,elucidate,zinc,0.75
+zinc,elucidate,zinc,0.75
+zinc,elucidate,mucormycosis,0.4583333333333333
+zinc,elucidate,mucormycosis,0.4583333333333333
+zinc,elucidate,zinc,0.75
+zinc,elucidate,zinc,0.75
+zinc,elucidate,mucormycosis,0.4583333333333333
+Rhizopus arrhizus,elucidate,mucormycosis,0.11507936507936507
+mucormycosis,elucidate,mucormycosis,0.6190476190476191
+zinc,elucidate,mucormycosis,0.4583333333333333
+zinc,elucidate,mucormycosis,0.4583333333333333
+zinc,elucidate,mucormycosis,0.4583333333333333
+mucormycosis,elucidate,mucormycosis,0.6190476190476191
+mucormycosis,elucidate,mucormycosis,0.6190476190476191
+zinc,elucidate,mucormycosis,0.4583333333333333
+zinc,elucidate,mucormycosis,0.4583333333333333
+zinc,elucidate,Rhizopus arrhizus,0.20833333333333331
+zinc,elucidate,mucormycosis,0.4583333333333333
+zinc,elucidate,zinc,0.75
+zinc,elucidate,zinc,0.75
+zinc,elucidate,zinc,0.75
+zinc,elucidate,mucormycosis,0.4583333333333333
+zinc,elucidate,mucormycosis,0.4583333333333333
+zinc,elucidate,zinc,0.75
+zinc,elucidate,zinc,0.75
+Rhizopus arrhizus,elucidate,mucormycosis,0.11507936507936507
+zinc,elucidate,Rhizopus arrhizus,0.20833333333333331
+zinc,elucidate,Rhizopus arrhizus,0.20833333333333331
+zinc,elucidate,Rhizopus arrhizus,0.20833333333333331
+Rhizopus arrhizus,elucidate,mucormycosis,0.11507936507936507
+Rhizopus arrhizus,elucidate,mucormycosis,0.11507936507936507
+zinc,elucidate,Rhizopus arrhizus,0.20833333333333331
+zinc,elucidate,Rhizopus arrhizus,0.20833333333333331
+zinc,elucidate,mucormycosis,0.4583333333333333
+zinc,elucidate,mucormycosis,0.4583333333333333
+zinc,elucidate,mucormycosis,0.4583333333333333
+mucormycosis,elucidate,mucormycosis,0.6190476190476191
+mucormycosis,elucidate,mucormycosis,0.6190476190476191
+zinc,elucidate,mucormycosis,0.4583333333333333
+zinc,elucidate,mucormycosis,0.4583333333333333
+zinc,elucidate,zinc,0.75
+zinc,elucidate,zinc,0.75
+zinc,elucidate,mucormycosis,0.4583333333333333
+zinc,elucidate,mucormycosis,0.4583333333333333
+zinc,elucidate,zinc,0.75
+zinc,elucidate,zinc,0.75
+zinc,elucidate,zinc,0.75
+zinc,elucidate,mucormycosis,0.4583333333333333
+zinc,elucidate,mucormycosis,0.4583333333333333
+zinc,elucidate,zinc,0.75
+zinc,elucidate,zinc,0.75
+zinc,elucidate,mucormycosis,0.4583333333333333
+zinc,elucidate,mucormycosis,0.4583333333333333
+zinc,elucidate,zinc,0.75
+zinc,elucidate,zinc,0.75
+mucormycosis,elucidate,mucormycosis,0.6190476190476191
+zinc,elucidate,mucormycosis,0.4583333333333333
+zinc,elucidate,mucormycosis,0.4583333333333333
+zinc,elucidate,mucormycosis,0.4583333333333333
+zinc,elucidate,mucormycosis,0.4583333333333333
+zinc,elucidate,zinc,0.75
+zinc,evaluate,zinc,1.0
+zinc,evaluate,hydrogen peroxide,0.09895833333333333
+zinc,evaluate,sodium chloride,0.09649122807017543
+zinc,evaluate,zinc,1.0
+zinc,evaluate,zinc,1.0
+zinc,evaluate,zinc,1.0
+zinc,evaluate,zinc,1.0
+zinc,evaluate,zinc,1.0
+zinc,evaluate,hydrogen peroxide,0.09895833333333333
+zinc,evaluate,sodium chloride,0.09649122807017543
+zinc,evaluate,zinc,1.0
+zinc,evaluate,zinc,1.0
+zinc,evaluate,zinc,1.0
+zinc,evaluate,zinc,1.0
+zinc,evaluate,zinc,1.0
+hydrogen peroxide,evaluate,sodium chloride,0.0833333333333333
+zinc,evaluate,hydrogen peroxide,0.09895833333333333
+zinc,evaluate,hydrogen peroxide,0.09895833333333333
+zinc,evaluate,hydrogen peroxide,0.09895833333333333
+zinc,evaluate,hydrogen peroxide,0.09895833333333333
+zinc,evaluate,hydrogen peroxide,0.09895833333333333
+zinc,evaluate,sodium chloride,0.09649122807017543
+zinc,evaluate,sodium chloride,0.09649122807017543
+zinc,evaluate,sodium chloride,0.09649122807017543
+zinc,evaluate,sodium chloride,0.09649122807017543
+zinc,evaluate,sodium chloride,0.09649122807017543
+zinc,evaluate,zinc,1.0
+zinc,evaluate,zinc,1.0
+zinc,evaluate,zinc,1.0
+zinc,evaluate,zinc,1.0
+zinc,evaluate,zinc,1.0
+zinc,evaluate,zinc,1.0
+zinc,evaluate,zinc,1.0
+zinc,evaluate,zinc,1.0
+zinc,evaluate,zinc,1.0
+zinc,evaluate,zinc,1.0
+zinc,enhance,zinc,0.75
+zinc,enhance,zinc,0.75
+zinc,enhance,zinc,0.75
+zinc,enhance,zinc,0.75
+zinc,enhance,zinc,0.75
+zinc,enhance,zinc,0.75
+zinc,enhance,zinc,0.75
+zinc,enhance,zinc,0.75
+zinc,enhance,zinc,0.75
+zinc,enhance,zinc,0.75
+zinc,enhance,zinc,0.75
+zinc,enhance,zinc,0.75
+zinc,enhance,zinc,0.75
+zinc,enhance,zinc,0.75
+zinc,enhance,zinc,0.75
+zinc,enhance,zinc,0.75
+zinc,enhance,zinc,0.75
+zinc,enhance,zinc,0.75
+zinc,enhance,zinc,0.75
+zinc,enhance,zinc,0.75
+zinc,enhance,zinc,0.75
+amphotericin B,unknown,posaconazole,0.13690476190476192
+ergosterol,associate,chitosan,0.13690476190476192
+ergosterol,associate,iron,0.07142857142857141
+ergosterol,associate,iron,0.07142857142857141
+ergosterol,associate,iron,0.07142857142857141
+chitosan,associate,iron,0.08116883116883117
+chitosan,associate,iron,0.08116883116883117
+chitosan,associate,iron,0.08116883116883117
+iron,associate,iron,0.5357142857142857
+iron,associate,iron,0.5357142857142857
+iron,associate,iron,0.5357142857142857
+Candida albicans,augment,Candida albicans,0.5119047619047619
+zinc,support,mucormycosis,0.4327956989247312
+mucormycosis,contribute,mucormycosis,0.6190476190476191
+zinc,support,mucormycosis,0.4327956989247312
+mucormycosis,contribute,mucormycosis,0.6190476190476191
+zinc,support,mucormycosis,0.4327956989247312
+zinc,support,mucormycosis,0.4327956989247312
+zinc,support,mucormycosis,0.4327956989247312
+mucormycosis,contribute,mucormycosis,0.6190476190476191
+mucormycosis,contribute,mucormycosis,0.6190476190476191
+zinc,support,mucormycosis,0.4327956989247312
+zinc,support,mucormycosis,0.4327956989247312
+zinc,support,mucormycosis,0.4327956989247312
+zinc,support,zinc,1.0
+zinc,support,mucormycosis,0.4327956989247312
+zinc,support,zinc,1.0
+zinc,support,zinc,1.0
+zinc,support,zinc,1.0
+zinc,support,mucormycosis,0.4327956989247312
+zinc,support,mucormycosis,0.4327956989247312
+zinc,support,zinc,1.0
+zinc,support,zinc,1.0
+zinc,support,mucormycosis,0.4327956989247312
+mucormycosis,contribute,mucormycosis,0.6190476190476191
+zinc,support,mucormycosis,0.4327956989247312
+zinc,support,mucormycosis,0.4327956989247312
+zinc,support,mucormycosis,0.4327956989247312
+mucormycosis,contribute,mucormycosis,0.6190476190476191
+mucormycosis,contribute,mucormycosis,0.6190476190476191
+zinc,support,mucormycosis,0.4327956989247312
+zinc,support,mucormycosis,0.4327956989247312
+zinc,support,mucormycosis,0.4327956989247312
+zinc,support,zinc,1.0
+zinc,support,zinc,1.0
+zinc,support,zinc,1.0
+zinc,support,mucormycosis,0.4327956989247312
+zinc,support,mucormycosis,0.4327956989247312
+zinc,support,zinc,1.0
+zinc,support,zinc,1.0
+zinc,support,mucormycosis,0.4327956989247312
+zinc,support,mucormycosis,0.4327956989247312
+zinc,support,mucormycosis,0.4327956989247312
+mucormycosis,contribute,mucormycosis,0.6190476190476191
+mucormycosis,contribute,mucormycosis,0.6190476190476191
+zinc,support,mucormycosis,0.4327956989247312
+zinc,support,mucormycosis,0.4327956989247312
+zinc,support,zinc,1.0
+zinc,support,zinc,1.0
+zinc,support,mucormycosis,0.4327956989247312
+zinc,support,mucormycosis,0.4327956989247312
+zinc,support,zinc,1.0
+zinc,support,zinc,1.0
+zinc,support,zinc,1.0
+zinc,support,mucormycosis,0.4327956989247312
+zinc,support,mucormycosis,0.4327956989247312
+zinc,support,zinc,1.0
+zinc,support,zinc,1.0
+zinc,support,mucormycosis,0.4327956989247312
+zinc,support,mucormycosis,0.4327956989247312
+zinc,support,zinc,1.0
+zinc,support,zinc,1.0
+mucormycosis,contribute,mucormycosis,0.6190476190476191
+zinc,support,mucormycosis,0.4327956989247312
+zinc,support,mucormycosis,0.4327956989247312
+zinc,support,mucormycosis,0.4327956989247312
+zinc,support,mucormycosis,0.4327956989247312
+zinc,support,zinc,1.0
+mucormycosis,implicate,mucormycosis,0.6190476190476191
+mucormycosis,implicate,mucormycosis,0.6190476190476191
+mucormycosis,implicate,mucormycosis,0.6190476190476191
+mucormycosis,implicate,mucormycosis,0.6190476190476191
+mucormycosis,implicate,mucormycosis,0.6190476190476191
+mucormycosis,implicate,mucormycosis,0.6190476190476191
+mucormycosis,implicate,mucormycosis,0.6190476190476191
+mucormycosis,implicate,mucormycosis,0.6190476190476191
+mucormycosis,implicate,mucormycosis,0.6190476190476191
+mucormycosis,implicate,mucormycosis,0.6190476190476191
+zinc,propose,zinc,0.75
+zinc,propose,zinc,0.75
+zinc,propose,zinc,0.75
+zinc,propose,zinc,0.75
+zinc,propose,zinc,0.75
+zinc,propose,zinc,0.75
+zinc,propose,zinc,0.75
+zinc,propose,zinc,0.75
+zinc,propose,zinc,0.75
+zinc,propose,zinc,0.75
+zinc,propose,zinc,0.75
+zinc,propose,zinc,0.75
+zinc,propose,zinc,0.75
+zinc,propose,zinc,0.75
+zinc,propose,zinc,0.75
+zinc,propose,zinc,0.75
+zinc,propose,zinc,0.75
+zinc,propose,zinc,0.75
+zinc,propose,zinc,0.75
+zinc,propose,zinc,0.75
+zinc,propose,zinc,0.75
+zinc,evaluate,zinc,1.0
+zinc,evaluate,zinc,1.0
+zinc,evaluate,zinc,1.0
+zinc,evaluate,zinc,1.0
+zinc,evaluate,zinc,1.0
+zinc,evaluate,zinc,1.0
+zinc,evaluate,zinc,1.0
+zinc,evaluate,zinc,1.0
+zinc,evaluate,zinc,1.0
+zinc,evaluate,zinc,1.0
+zinc,evaluate,zinc,1.0
+zinc,evaluate,zinc,1.0
+zinc,evaluate,zinc,1.0
+zinc,evaluate,zinc,1.0
+zinc,evaluate,zinc,1.0
+zinc,evaluate,zinc,1.0
+zinc,evaluate,zinc,1.0
+zinc,evaluate,zinc,1.0
+zinc,evaluate,zinc,1.0
+zinc,evaluate,zinc,1.0
+zinc,evaluate,zinc,1.0
+zinc,support,zinc,1.0
+zinc,support,Rhizopus arrhizus,0.20833333333333331
+zinc,support,zinc,1.0
+zinc,support,iron,0.27
+zinc,support,iron,0.27
+zinc,support,zinc,1.0
+zinc,support,zinc,1.0
+zinc,support,zinc,1.0
+zinc,support,iron,0.27
+zinc,support,zinc,1.0
+zinc,support,Rhizopus arrhizus,0.20833333333333331
+zinc,support,zinc,1.0
+zinc,support,iron,0.27
+zinc,support,iron,0.27
+zinc,support,zinc,1.0
+zinc,support,zinc,1.0
+zinc,support,zinc,1.0
+zinc,support,iron,0.27
+zinc,support,zinc,1.0
+zinc,support,Rhizopus arrhizus,0.20833333333333331
+Rhizopus arrhizus,support,iron,0.05844155844155841
+Rhizopus arrhizus,support,iron,0.05844155844155841
+zinc,support,Rhizopus arrhizus,0.20833333333333331
+zinc,support,Rhizopus arrhizus,0.20833333333333331
+zinc,support,Rhizopus arrhizus,0.20833333333333331
+Rhizopus arrhizus,support,iron,0.05844155844155841
+zinc,support,Rhizopus arrhizus,0.20833333333333331
+zinc,support,iron,0.27
+zinc,support,iron,0.27
+zinc,support,zinc,1.0
+zinc,support,zinc,1.0
+zinc,support,zinc,1.0
+zinc,support,iron,0.27
+zinc,support,zinc,1.0
+iron,enhance,iron,0.5357142857142857
+zinc,support,iron,0.27
+zinc,support,iron,0.27
+zinc,support,iron,0.27
+iron,enhance,iron,0.5357142857142857
+zinc,support,iron,0.27
+zinc,support,iron,0.27
+zinc,support,iron,0.27
+zinc,support,iron,0.27
+iron,enhance,iron,0.5357142857142857
+zinc,support,iron,0.27
+zinc,support,zinc,1.0
+zinc,support,zinc,1.0
+zinc,support,iron,0.27
+zinc,support,zinc,1.0
+zinc,support,zinc,1.0
+zinc,support,iron,0.27
+zinc,support,zinc,1.0
+zinc,support,iron,0.27
+zinc,support,zinc,1.0
+zinc,support,iron,0.27
+Candida albicans,observe,Candida albicans,0.5119047619047619
+zinc,provide,zinc,0.75
+zinc,provide,zinc,0.75
+zinc,provide,zinc,0.75
+zinc,provide,zinc,0.75
+zinc,provide,zinc,0.75
+zinc,provide,zinc,0.75
+zinc,provide,zinc,0.75
+zinc,provide,zinc,0.75
+zinc,provide,zinc,0.75
+zinc,provide,zinc,0.75
+zinc,provide,zinc,0.75
+zinc,provide,zinc,0.75
+zinc,provide,zinc,0.75
+zinc,provide,zinc,0.75
+zinc,provide,zinc,0.75
+zinc,provide,zinc,0.75
+zinc,provide,zinc,0.75
+zinc,provide,zinc,0.75
+zinc,provide,zinc,0.75
+zinc,provide,zinc,0.75
+zinc,provide,zinc,0.75
+coronavirus infection,cause,infection,0.27380952380952384
+coronavirus infection,cause,coronavirus infection,0.5119047619047619
+coronavirus infection,cause,infection,0.27380952380952384
+coronavirus infection,promote,infection,0.27380952380952384
+coronavirus infection,promote,coronavirus infection,0.5119047619047619
+coronavirus infection,promote,infection,0.27380952380952384
+upper respiratory tract,represent,infection,0.06203007518796991
+upper respiratory tract,represent,infection,0.06203007518796991
+upper respiratory tract,represent,infection,0.06203007518796991
+infection,occur,infection,0.5357142857142857
+infection,occur,infection,0.5357142857142857
+infection,occur,infection,0.5357142857142857
+infection,control,infection,0.5357142857142857
+infection,control,infection,0.5357142857142857
+infection,control,infection,0.5357142857142857
+infection,block,infection,0.5357142857142857
+respiratory disease,elicit,infection,0.09126984126984126
+infection,block,infection,0.5357142857142857
+respiratory disease,elicit,infection,0.09126984126984126
+infection,block,infection,0.5357142857142857
+respiratory disease,elicit,infection,0.09126984126984126
+methacholine,include,methacholine,0.5119047619047619
+cough,occur,headache,0.17857142857142855
+cough,occur,fatigue,0.0952380952380952
+headache,occur,fatigue,0.13690476190476192
+methacholine,normalize,methacholine,0.5119047619047619
+HPV-associated cancer,focus,cancer,0.2619047619047619
+PK,evaluate,PD,0.0833333333333333
+Respiratory Syndrome,target,coronavirus disease 2019,0.0452380952380952
+{Delta}3a7b-Nluc,utilize,{Delta}3a7b-Nluc,0.5119047619047619
+{Delta}3a7b-Nluc,contain,{Delta}3a7b-Nluc,0.5119047619047619
+{Delta}3a7b-Nluc,exhibit,{Delta}3a7b-Nluc,0.5119047619047619
+"nirmatrelvir or remdesivir, suggesting the feasibility of treating",render,infections,0.06190476190476191
+{Delta}3a7b-Nluc,employ,{Delta}3a7b-Nluc,0.5119047619047619
+{Delta}3a7b-Nluc,use,{Delta}3a7b-Nluc,0.5119047619047619
+LTLAs,stratify,LTLAs,0.5714285714285714
+LTLAs,stratify,LTLAs,0.5714285714285714
+LTLAs,stratify,LTLAs,0.5714285714285714
+LTLAs,stratify,LTLAs,0.5714285714285714
+LTLAs,stratify,LTLAs,0.5714285714285714
+LTLAs,stratify,LTLAs,0.5714285714285714
+LTLAs,find,LTLAs,0.5714285714285714
+LTLAs,find,LTLAs,0.5714285714285714
+LTLAs,find,LTLAs,0.5714285714285714
+LTLAs,find,LTLAs,0.5714285714285714
+LTLAs,find,LTLAs,0.5714285714285714
+LTLAs,find,LTLAs,0.5714285714285714
+LTLAs,identify,LTLAs,0.5714285714285714
+LTLAs,identify,LTLAs,0.5714285714285714
+LTLAs,identify,LTLAs,0.5714285714285714
+LTLAs,identify,LTLAs,0.5714285714285714
+LTLAs,identify,LTLAs,0.5714285714285714
+LTLAs,identify,LTLAs,0.5714285714285714
+LTLAs,lead,LTLAs,0.5714285714285714
+LTLAs,lead,LTLAs,0.5714285714285714
+LTLAs,lead,LTLAs,0.5714285714285714
+LTLAs,lead,LTLAs,0.5714285714285714
+LTLAs,lead,LTLAs,0.5714285714285714
+LTLAs,lead,LTLAs,0.5714285714285714
+nontuberculous mycobacterial,increase,NTM,0.1607142857142857
+nontuberculous mycobacterial,increase,NTM,0.1607142857142857
+nontuberculous mycobacterial,increase,NTM,0.1607142857142857
+NTM,increase,NTM,0.5357142857142857
+NTM,increase,NTM,0.5357142857142857
+NTM,increase,NTM,0.5357142857142857
+NTM,affect,NTM,0.5357142857142857
+NTM,affect,infection,0.1607142857142857
+NTM,affect,NTM,0.5357142857142857
+NTM,affect,infection,0.1607142857142857
+NTM,affect,NTM,0.5357142857142857
+NTM,affect,infection,0.1607142857142857
+NTM,evaluate,NTM,0.5357142857142857
+NTM,evaluate,NTM,0.5357142857142857
+NTM,evaluate,NTM-associated diseases,0.1547619047619047
+NTM,evaluate,NTM-associated diseases,0.1547619047619047
+NTM,evaluate,NTM,0.5357142857142857
+NTM,evaluate,NTM-associated diseases,0.1547619047619047
+NTM,evaluate,NTM-associated diseases,0.1547619047619047
+NTM,evaluate,NTM-associated diseases,0.1547619047619047
+NTM,evaluate,NTM-associated diseases,0.1547619047619047
+NTM-associated diseases,isolate,NTM-associated diseases,0.5119047619047619
+NTM,analyze,NTM,0.5357142857142857
+NTM,analyze,NTM,0.5357142857142857
+NTM,analyze,NTM,0.5357142857142857
+Mycobacterium avium,associate,avium,0.2619047619047619
+NTM,show,NTM,0.5357142857142857
+NTM,show,NTM,0.5357142857142857
+NTM,show,terrae,0.055714285714285716
+NTM,show,NTM,0.5357142857142857
+NTM,show,terrae,0.055714285714285716
+NTM,show,terrae,0.055714285714285716
+NTM,alter,NTM,0.5357142857142857
+NTM,alter,NTM,0.5357142857142857
+NTM,alter,NTM-associated diseases,0.14285714285714282
+NTM,alter,NTM-associated diseases,0.14285714285714282
+NTM,alter,NTM,0.5357142857142857
+NTM,alter,NTM-associated diseases,0.14285714285714282
+NTM,alter,NTM-associated diseases,0.14285714285714282
+NTM,alter,NTM-associated diseases,0.14285714285714282
+NTM,alter,NTM-associated diseases,0.14285714285714282
+NTM-associated diseases,alter,NTM-associated diseases,0.5119047619047619
+infection,limit,infection,0.5119047619047619
+infection,compare,infection,0.5119047619047619
+SARS,record,SARS,0.5119047619047619
+SARS,have,SARS,0.5119047619047619
+infection,observe,infection,0.5119047619047619
+SARS,unknown,SARS,0.5119047619047619
+SARS,adhere,SARS,0.5119047619047619
+infection,affect,infection,0.5119047619047619
+TACO,present,TACO,0.6190476190476191
+TACO,present,TACO,0.6190476190476191
+TACO,present,TACO,0.6190476190476191
+TACO,present,TACO,0.6190476190476191
+TACO,present,TACO,0.6190476190476191
+TACO,present,TACO,0.6190476190476191
+TACO,present,TACO,0.6190476190476191
+TACO,present,TACO,0.6190476190476191
+TACO,present,TACO,0.6190476190476191
+TACO,present,TACO,0.6190476190476191
+TACO,employ,TACO,0.6190476190476191
+TACO,employ,DCE,0.13095238095238093
+TACO,employ,TACO,0.6190476190476191
+TACO,employ,TACO,0.6190476190476191
+TACO,employ,TACO,0.6190476190476191
+TACO,employ,DCE,0.13095238095238093
+TACO,employ,TACO,0.6190476190476191
+TACO,employ,TACO,0.6190476190476191
+TACO,employ,TACO,0.6190476190476191
+TACO,employ,DCE,0.13095238095238093
+TACO,employ,DCE,0.13095238095238093
+TACO,employ,DCE,0.13095238095238093
+TACO,employ,TACO,0.6190476190476191
+TACO,employ,TACO,0.6190476190476191
+TACO,employ,TACO,0.6190476190476191
+TACO,achieve,TACO,0.6190476190476191
+TACO,achieve,TACO,0.6190476190476191
+TACO,achieve,TACO,0.6190476190476191
+TACO,achieve,TACO,0.6190476190476191
+TACO,achieve,TACO,0.6190476190476191
+TACO,achieve,TACO,0.6190476190476191
+TACO,achieve,TACO,0.6190476190476191
+TACO,achieve,TACO,0.6190476190476191
+TACO,achieve,TACO,0.6190476190476191
+TACO,achieve,TACO,0.6190476190476191
+TACO,maintain,TACO,0.6190476190476191
+TACO,maintain,TACO,0.6190476190476191
+TACO,maintain,TACO,0.6190476190476191
+TACO,maintain,TACO,0.6190476190476191
+TACO,maintain,TACO,0.6190476190476191
+TACO,maintain,TACO,0.6190476190476191
+TACO,maintain,TACO,0.6190476190476191
+TACO,maintain,TACO,0.6190476190476191
+TACO,maintain,TACO,0.6190476190476191
+TACO,maintain,TACO,0.6190476190476191
+TACO,offer,TACO,0.6190476190476191
+TACO,offer,TACO,0.6190476190476191
+TACO,offer,TACO,0.6190476190476191
+TACO,offer,TACO,0.6190476190476191
+TACO,offer,TACO,0.6190476190476191
+TACO,offer,TACO,0.6190476190476191
+TACO,offer,TACO,0.6190476190476191
+TACO,offer,TACO,0.6190476190476191
+TACO,offer,TACO,0.6190476190476191
+TACO,offer,TACO,0.6190476190476191
+sHCoVs,impact,OC43,0.18333333333333335
+OC43,impact,OC43,0.75
+OC43,impact,OC43,0.75
+OC43,impact,OC43,0.75
+OC43,impact,OC43,0.75
+OC43,impact,OC43,0.75
+OC43,impact,OC43,0.75
+sHCoVs,impact,OC43,0.18333333333333335
+sHCoVs,impact,OC43,0.18333333333333335
+sHCoVs,impact,OC43,0.18333333333333335
+sHCoVs,impact,OC43,0.18333333333333335
+sHCoVs,impact,OC43,0.18333333333333335
+sHCoVs,impact,OC43,0.18333333333333335
+OC43,impact,OC43,0.75
+OC43,impact,OC43,0.75
+OC43,impact,OC43,0.75
+OC43,impact,OC43,0.75
+OC43,impact,OC43,0.75
+OC43,impact,OC43,0.75
+OC43,impact,OC43,0.75
+OC43,impact,OC43,0.75
+OC43,impact,OC43,0.75
+OC43,impact,OC43,0.75
+OC43,impact,OC43,0.75
+OC43,impact,OC43,0.75
+OC43,impact,OC43,0.75
+OC43,impact,OC43,0.75
+OC43,impact,OC43,0.75
+OC43,determine,OC43,0.75
+OC43,determine,OC43,0.75
+OC43,determine,OC43,0.75
+OC43,determine,OC43,0.75
+OC43,determine,OC43,0.75
+OC43,determine,OC43,0.75
+OC43,determine,OC43,0.75
+OC43,determine,OC43,0.75
+OC43,determine,OC43,0.75
+OC43,determine,OC43,0.75
+OC43,determine,OC43,0.75
+OC43,determine,OC43,0.75
+OC43,determine,OC43,0.75
+OC43,determine,OC43,0.75
+OC43,determine,OC43,0.75
+OC43,determine,OC43,0.75
+OC43,determine,OC43,0.75
+OC43,determine,OC43,0.75
+OC43,determine,OC43,0.75
+OC43,determine,OC43,0.75
+OC43,determine,OC43,0.75
+OC43,account,OC43,0.75
+NL63,account,OC43,0.29166666666666663
+OC43,account,OC43,0.75
+OC43,account,OC43,0.75
+OC43,account,OC43,0.75
+OC43,account,OC43,0.75
+OC43,account,OC43,0.75
+NL63,account,OC43,0.29166666666666663
+NL63,account,OC43,0.29166666666666663
+OC43,account,OC43,0.75
+OC43,account,OC43,0.75
+OC43,account,OC43,0.75
+OC43,account,OC43,0.75
+OC43,account,OC43,0.75
+NL63,account,OC43,0.29166666666666663
+NL63,account,OC43,0.29166666666666663
+NL63,account,OC43,0.29166666666666663
+NL63,account,OC43,0.29166666666666663
+NL63,account,OC43,0.29166666666666663
+NL63,account,OC43,0.29166666666666663
+NL63,account,NL63,0.5119047619047619
+OC43,account,OC43,0.75
+OC43,account,OC43,0.75
+OC43,account,OC43,0.75
+OC43,account,OC43,0.75
+NL63,account,OC43,0.29166666666666663
+OC43,account,OC43,0.75
+OC43,account,OC43,0.75
+OC43,account,OC43,0.75
+NL63,account,OC43,0.29166666666666663
+OC43,account,OC43,0.75
+OC43,account,OC43,0.75
+NL63,account,OC43,0.29166666666666663
+OC43,account,OC43,0.75
+NL63,account,OC43,0.29166666666666663
+NL63,account,OC43,0.29166666666666663
+OC43,result,OC43,0.75
+OC43,result,OC43,0.75
+OC43,result,OC43,0.75
+OC43,result,OC43,0.75
+OC43,result,OC43,0.75
+OC43,result,OC43,0.75
+OC43,result,OC43,0.75
+OC43,result,OC43,0.75
+OC43,result,OC43,0.75
+OC43,result,OC43,0.75
+OC43,result,OC43,0.75
+OC43,result,OC43,0.75
+OC43,result,OC43,0.75
+OC43,result,OC43,0.75
+OC43,result,OC43,0.75
+OC43,result,OC43,0.75
+OC43,result,OC43,0.75
+OC43,result,OC43,0.75
+OC43,result,OC43,0.75
+OC43,result,OC43,0.75
+OC43,result,OC43,0.75
+OC43,correlate,OC43,1.0
+OC43,correlate,OC43,1.0
+OC43,correlate,OC43,1.0
+OC43,correlate,OC43,1.0
+OC43,correlate,OC43,1.0
+OC43,correlate,OC43,1.0
+OC43,correlate,OC43,1.0
+OC43,correlate,OC43,1.0
+OC43,correlate,OC43,1.0
+OC43,correlate,OC43,1.0
+OC43,correlate,OC43,1.0
+OC43,correlate,OC43,1.0
+OC43,correlate,OC43,1.0
+OC43,correlate,OC43,1.0
+OC43,correlate,OC43,1.0
+OC43,correlate,OC43,1.0
+OC43,correlate,OC43,1.0
+OC43,correlate,OC43,1.0
+OC43,correlate,OC43,1.0
+OC43,correlate,OC43,1.0
+OC43,correlate,OC43,1.0
+OC43,correlate,OC43,1.0
+OC43,correlate,OC43,1.0
+OC43,correlate,OC43,1.0
+OC43,correlate,OC43,1.0
+OC43,correlate,OC43,1.0
+OC43,correlate,OC43,1.0
+OC43,correlate,OC43,1.0
+OC43,correlate,OC43,1.0
+OC43,correlate,OC43,1.0
+OC43,correlate,OC43,1.0
+OC43,correlate,OC43,1.0
+OC43,correlate,OC43,1.0
+OC43,correlate,OC43,1.0
+OC43,correlate,OC43,1.0
+OC43,correlate,OC43,1.0
+OC43,correlate,OC43,1.0
+OC43,correlate,OC43,1.0
+OC43,correlate,OC43,1.0
+OC43,correlate,OC43,1.0
+OC43,correlate,OC43,1.0
+OC43,correlate,OC43,1.0
+sHCoVs,conclude,OC43,0.14583333333333331
+OC43,conclude,OC43,0.75
+OC43,conclude,NL63,0.3333333333333333
+OC43,conclude,OC43,0.75
+OC43,conclude,OC43,0.75
+OC43,conclude,OC43,0.75
+OC43,conclude,OC43,0.75
+OC43,conclude,OC43,0.75
+OC43,conclude,NL63,0.3333333333333333
+sHCoVs,conclude,OC43,0.14583333333333331
+sHCoVs,conclude,NL63,0.07380952380952381
+sHCoVs,conclude,OC43,0.14583333333333331
+sHCoVs,conclude,OC43,0.14583333333333331
+sHCoVs,conclude,OC43,0.14583333333333331
+sHCoVs,conclude,OC43,0.14583333333333331
+sHCoVs,conclude,OC43,0.14583333333333331
+sHCoVs,conclude,NL63,0.07380952380952381
+OC43,conclude,NL63,0.3333333333333333
+OC43,conclude,OC43,0.75
+OC43,conclude,OC43,0.75
+OC43,conclude,OC43,0.75
+OC43,conclude,OC43,0.75
+OC43,conclude,OC43,0.75
+OC43,conclude,NL63,0.3333333333333333
+OC43,conclude,NL63,0.3333333333333333
+OC43,conclude,NL63,0.3333333333333333
+OC43,conclude,NL63,0.3333333333333333
+OC43,conclude,NL63,0.3333333333333333
+OC43,conclude,NL63,0.3333333333333333
+NL63,conclude,NL63,0.5119047619047619
+OC43,conclude,OC43,0.75
+OC43,conclude,OC43,0.75
+OC43,conclude,OC43,0.75
+OC43,conclude,OC43,0.75
+OC43,conclude,NL63,0.3333333333333333
+OC43,conclude,OC43,0.75
+OC43,conclude,OC43,0.75
+OC43,conclude,OC43,0.75
+OC43,conclude,NL63,0.3333333333333333
+OC43,conclude,OC43,0.75
+OC43,conclude,OC43,0.75
+OC43,conclude,NL63,0.3333333333333333
+OC43,conclude,OC43,0.75
+OC43,conclude,NL63,0.3333333333333333
+OC43,conclude,NL63,0.3333333333333333
+SARS-CoV-2 infection,analyze,infection,0.2976190476190476
+SARS-CoV-2 infection,analyze,SARS-CoV-2 infection,0.5119047619047619
+SARS-CoV-2 infection,analyze,infection,0.2976190476190476
+SARS-CoV-2 infection,analyze,infection,0.2976190476190476
+infection,analyze,infection,0.5119047619047619
+SARS-CoV-2 infection,analyze,infection,0.2976190476190476
+SARS-CoV-2 infection,confirm,infection,0.2976190476190476
+SARS-CoV-2 infection,confirm,SARS-CoV-2 infection,0.5119047619047619
+SARS-CoV-2 infection,confirm,infection,0.2976190476190476
+SARS-CoV-2 infection,confirm,infection,0.2976190476190476
+infection,confirm,infection,0.5119047619047619
+SARS-CoV-2 infection,confirm,infection,0.2976190476190476
+infection,detect,infection,0.5119047619047619
+SARS-CoV-2 infection,differ,infection,0.2976190476190476
+SARS-CoV-2 infection,differ,SARS-CoV-2 infection,0.5119047619047619
+SARS-CoV-2 infection,differ,infection,0.2976190476190476
+SARS-CoV-2 infection,differ,infection,0.2976190476190476
+infection,differ,infection,0.5119047619047619
+SARS-CoV-2 infection,differ,infection,0.2976190476190476
+infection,vary,infection,0.5119047619047619
+K,play,DTLVardef@1696837_HPS_FORMAT_FIGEXP M_FIG,0.05735930735930735
+U/A,impact,G/C,0.17857142857142855
