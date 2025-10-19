@@ -1,0 +1,1952 @@
+[
+    {
+        "rel_doi": "10.1101/2025.10.16.682669",
+        "rel_title": "An unconventional HxD motif orchestrates coatomer-dependent coronavirus morphogenesis",
+        "rel_date": "2025-10-17",
+        "rel_site": "bioRxiv",
+        "rel_link": "https://biorxiv.org/cgi/content/short/2025.10.16.682669",
+        "rel_abs": "Assembly of infectious coronaviruses requires spike (S) protein trafficking by host coatomer, typically via a dibasic signal in the S cytoplasmic tail. However, the human embecoviruses HKU1 and OC43, as well as the model virus MHV, lack this motif. Here we identify a conserved His-x-Asp (HxD) sequence that functions as an unconventional coatomer-binding signal. Structural and biochemical analyses show that the MHV HxD motif engages coatomer subunits through distinct conformations, while cellular imaging demonstrates its role in directing S to assembly sites with the viral M-protein. Disruption of HxD-coatomer interactions impairs S incorporation and provokes compensatory viral adaptations, including emergence of a canonical dibasic motif or mutations in M-protein. Electron microscopy further reveals profound alterations in virion surface architecture. These findings uncover HxD as a previously unrecognized coatomer-targeting motif, highlighting an unexpected flexibility in coronavirus assembly pathways and broadening understanding of the cellular machinery that shapes coronavirus morphogenesis.",
+        "rel_num_authors": 15,
+        "rel_authors": [
+            {
+                "author_name": "Surovi Mohona",
+                "author_inst": "Loyola University Chicago"
+            },
+            {
+                "author_name": "Anil K Shakya",
+                "author_inst": "University of Maryland Baltimore"
+            },
+            {
+                "author_name": "Suruchi Singh",
+                "author_inst": "University of Maryland Baltimore"
+            },
+            {
+                "author_name": "Fiona L Kearns",
+                "author_inst": "University of California, San Diego"
+            },
+            {
+                "author_name": "Kezia Jemison",
+                "author_inst": "University of California, San Diego"
+            },
+            {
+                "author_name": "Satchal K Erramilli",
+                "author_inst": "The University of Chicago"
+            },
+            {
+                "author_name": "Debajit Dey",
+                "author_inst": "University of Maryland Baltimore"
+            },
+            {
+                "author_name": "Enya Qing",
+                "author_inst": "Loyola University Chicago"
+            },
+            {
+                "author_name": "Benjamin C Jennings",
+                "author_inst": "Washington University School of Medicine"
+            },
+            {
+                "author_name": "Balraj Doray",
+                "author_inst": "Washington University School of Medicine"
+            },
+            {
+                "author_name": "Anthony A Kossiakoff",
+                "author_inst": "The University of Chicago"
+            },
+            {
+                "author_name": "Rommie E Amaro",
+                "author_inst": "University of California, San Diego"
+            },
+            {
+                "author_name": "Thomas Klose",
+                "author_inst": "Purdue University"
+            },
+            {
+                "author_name": "Tom Gallagher",
+                "author_inst": "Loyola University Chicago"
+            },
+            {
+                "author_name": "S Saif Hasan",
+                "author_inst": "University of Maryland Baltimore"
+            }
+        ],
+        "version": "1",
+        "license": "cc_by_nc",
+        "type": "new results",
+        "category": "biochemistry"
+    },
+    {
+        "rel_doi": "10.1101/2025.10.16.682991",
+        "rel_title": "A funnel approach to enable analyses of epitope-specific human CD4 T cells specific for influenza and SARS-CoV-2.",
+        "rel_date": "2025-10-17",
+        "rel_site": "bioRxiv",
+        "rel_link": "https://biorxiv.org/cgi/content/short/2025.10.16.682991",
+        "rel_abs": "Protection from pathogenic organisms relies heavily on the adaptive immune response, for which key regulators are CD4 T cells. CD4 T cells, notable in the complexity of their repertoire and functional potential, can most easily be dissected with the ability to identify, quantify, characterize and isolate epitope-specific cells. In the study reported here, we present a systematic and unbiassed strategy that has enabled identification of highly immunogenic peptide epitopes derived from influenza virus and SARS-CoV-2, presented by human HLA-DR proteins. Coupling the use of HLA-DR transgenic mice with infection and vaccination with highly sensitive epitope specific cytokine ELISpot assays, we have narrowed the potential epitopes from 450-600 peptides to 5-15 peptides, by an iterative process of elimination and selection which we have termed a funnel approach. These epitopes have been validated in HLA-DR typed human CD4 T cells directly ex vivo and enabled derivation and implementation of HLA-DR peptide tetramers. Tetramer staining of human PBMCs enriched CD4 T memory populations from healthy adult subjects highlighting this approach as a sensitive and specific method of identifying novel epitopes and subsequent CD4 T cell responses to human viral infections.",
+        "rel_num_authors": 10,
+        "rel_authors": [
+            {
+                "author_name": "Katherine A Richards",
+                "author_inst": "University of Rochester Medical Center"
+            },
+            {
+                "author_name": "Robert C Mettelman",
+                "author_inst": "St. Jude Children's Research Hospital"
+            },
+            {
+                "author_name": "Kiley Trombley",
+                "author_inst": "University of Rochester Medical Center"
+            },
+            {
+                "author_name": "E Kaitlynn Allen",
+                "author_inst": "St. Jude Children's Research Hospital"
+            },
+            {
+                "author_name": "Zachary B Scott",
+                "author_inst": "St Jude Children's Research Hospital"
+            },
+            {
+                "author_name": "Andrzej Joachimiak",
+                "author_inst": "Argonne National Lab"
+            },
+            {
+                "author_name": "Stacey Schultz-Cherry",
+                "author_inst": "St Jude Children's Research Hospital"
+            },
+            {
+                "author_name": "Francisco Chaves",
+                "author_inst": "University of Rochester"
+            },
+            {
+                "author_name": "Paul G Thomas",
+                "author_inst": "St Jude Children's Research Hospital"
+            },
+            {
+                "author_name": "Andrea J. Sant",
+                "author_inst": "University of Rochester Medical Center"
+            }
+        ],
+        "version": "1",
+        "license": "cc_no",
+        "type": "new results",
+        "category": "immunology"
+    },
+    {
+        "rel_doi": "10.1101/2025.10.15.682635",
+        "rel_title": "Genome-wide Screening Identifies Unique Host-Directed Drugs and Pro-viral Signalling Pathways for SARS-CoV-2",
+        "rel_date": "2025-10-17",
+        "rel_site": "bioRxiv",
+        "rel_link": "https://biorxiv.org/cgi/content/short/2025.10.15.682635",
+        "rel_abs": "SARS-CoV-2 is a positive-sense RNA virus and was responsible for the devastating COVID-19 pandemic. Although the current disease burden is less severe, there are limited treatment options, significant gaps in knowledge, and a looming threat of the emergence of variants and future pandemics. To address these challenges, we performed genome-wide CRISPR knockout screens in a novel human lung cell line NCI-H23ACE2, as well as in HEK293TACE2 cells, with SARS-CoV-2 Wuhan virus, with the aim of identifying host-dependency factors that could predict effective antivirals. We identified four host-directed drugs, donepezil, dH-ergocristine, trametinib and sorafenib, that could potentially be repurposed to treat coronavirus infections. Three of the drugs inhibited SARS-CoV-2, HCoV-229E, and HCoV-OC43, suggesting they could be used as pan-coronavirus antivirals. We also confirmed that SARS-CoV-2 relies on the NRAS/Raf/MEK/ERK signaling pathway for its replication. Our study highlights the robustness and efficiency of a bilateral approach of gene silencing and antiviral screening to identify host-dependency factors and effective antivirals.",
+        "rel_num_authors": 16,
+        "rel_authors": [
+            {
+                "author_name": "juveriya Qamar Khan",
+                "author_inst": "Department of Biochemistry, Microbiology, and Immunology, University of Saskatchewan, Saskatoon, SK S7N 5E5, Canada"
+            },
+            {
+                "author_name": "Karthic Rajamanickam",
+                "author_inst": "Department of Oncology, University of Saskatchewan, Saskatoon, SK S7N 5E5, Canada"
+            },
+            {
+                "author_name": "Frederick S Vizeacoumar",
+                "author_inst": "Department of Oncology, University of Saskatchewan, Saskatoon, SK S7N 5E5, Canada"
+            },
+            {
+                "author_name": "Mahrokh Balouchi",
+                "author_inst": "Department of Biochemistry, Microbiology, and Immunology, University of Saskatchewan, Saskatoon, SK S7N 5E5, Canada"
+            },
+            {
+                "author_name": "Yue Zhang",
+                "author_inst": "Department of Oncology, University of Saskatchewan, Saskatoon, SK S7N 5E5, Canada"
+            },
+            {
+                "author_name": "Hussain Elhasasna",
+                "author_inst": "Department of Oncology, University of Saskatchewan, Saskatoon, SK S7N 5E5, Canada"
+            },
+            {
+                "author_name": "Megha Rohamare",
+                "author_inst": "Department of Biochemistry, Microbiology, and Immunology, University of Saskatchewan, Saskatoon, SK S7N 5E5, Canada"
+            },
+            {
+                "author_name": "He Dong",
+                "author_inst": "Department of Oncology, University of Saskatchewan, Saskatoon, SK S7N 5E5, Canada"
+            },
+            {
+                "author_name": "Kathleen Glover",
+                "author_inst": "Department of Biochemistry, Microbiology, and Immunology, University of Saskatchewan, Saskatoon, SK S7N 5E5, Canada"
+            },
+            {
+                "author_name": "Tristan Anderson-Woodsworth",
+                "author_inst": "Department of Biochemistry, Microbiology, and Immunology, University of Saskatchewan, Saskatoon, SK S7N 5E5, Canada"
+            },
+            {
+                "author_name": "Kalpana Bhanumathy",
+                "author_inst": "Department of Oncology, University of Saskatchewan, Saskatoon, SK S7N 5E5, Canada"
+            },
+            {
+                "author_name": "Jocelyne Lew",
+                "author_inst": "Vaccine and Infectious Disease Organization, University of Saskatchewan, Saskatoon, SK S7N 5E3, Canada"
+            },
+            {
+                "author_name": "Anil Kumar",
+                "author_inst": "Department of Biochemistry, Microbiology, and Immunology, University of Saskatchewan, Saskatoon, SK S7N 5E5, Canada"
+            },
+            {
+                "author_name": "Franco J. Vizeacoumar",
+                "author_inst": "Department of Oncology, University of Saskatchewan, Saskatoon, SK S7N 5E5, Canada"
+            },
+            {
+                "author_name": "Darryl Falzarano",
+                "author_inst": "Vaccine and Infectious Disease Organization, University of Saskatchewan, Saskatoon, SK S7N 5E3, Canada"
+            },
+            {
+                "author_name": "Joyce A. Wilson",
+                "author_inst": "Department of Biochemistry, Microbiology, and Immunology, University of Saskatchewan, Saskatoon, SK S7N 5E5, Canada"
+            }
+        ],
+        "version": "1",
+        "license": "cc_no",
+        "type": "new results",
+        "category": "microbiology"
+    },
+    {
+        "rel_doi": "10.1101/2025.10.17.682775",
+        "rel_title": "Serological evidence of SARS-CoV-2 infection in red and fallow deer in Great Britain.",
+        "rel_date": "2025-10-17",
+        "rel_site": "bioRxiv",
+        "rel_link": "https://biorxiv.org/cgi/content/short/2025.10.17.682775",
+        "rel_abs": "SARS-CoV-2 is the viral agent of COVID-19 and has been shown to infect a wide range of mammals, including white-tailed deer in North America and fallow deer in the Republic of Ireland. There are six species of deer in the UK which inhabit both urban and rural areas of the country, providing a broad interface for human-deer interaction. Little research has been carried out on the ability of British deer species to act as a reservoir for zoonotic viruses of consequence to human health. Here, we report a high seroprevalence of SARS-CoV-2 neutralising antibodies in British deer, adding native red deer to the list of susceptible species. 62% of fallow and 25% of red deer sampled between 2024 and 2025 from one British deer park were positive for SARS-CoV-2 infection by serology, supporting the role of deer as permissive, reservoir-capable hosts and highlighting the risks of unregulated human-deer contact. There is currently no evidence to suggest that these viruses are persisting within deer populations in Great Britain. Nevertheless, the animal origins of SARS-CoV-2 highlight the importance of appropriate and limited interactions with wildlife, to minimise transmission risks and safeguard both animal and human health.",
+        "rel_num_authors": 15,
+        "rel_authors": [
+            {
+                "author_name": "Joanna Vieira O'Neill",
+                "author_inst": "University of Cambridge"
+            },
+            {
+                "author_name": "Edward Long",
+                "author_inst": "University of Cambridge"
+            },
+            {
+                "author_name": "Joash Tan",
+                "author_inst": "University of Cambridge"
+            },
+            {
+                "author_name": "Charlotte George",
+                "author_inst": "University of Cambridge"
+            },
+            {
+                "author_name": "Joey Olivier",
+                "author_inst": "University of Cambridge"
+            },
+            {
+                "author_name": "Chloe Qingzhou Huang",
+                "author_inst": "University of Cambridge"
+            },
+            {
+                "author_name": "Hazel Stewart",
+                "author_inst": "University of Cambridge"
+            },
+            {
+                "author_name": "Diego Cantoni",
+                "author_inst": "University of Glasgow"
+            },
+            {
+                "author_name": "Chris Davis",
+                "author_inst": "University of Glasgow"
+            },
+            {
+                "author_name": "Kristin Waeber",
+                "author_inst": "National Trust"
+            },
+            {
+                "author_name": "Connor Bamford",
+                "author_inst": "Queen's University Belfast"
+            },
+            {
+                "author_name": "Craig Thompson",
+                "author_inst": "University of Warwick"
+            },
+            {
+                "author_name": "Nigel James Temperton",
+                "author_inst": "University of Kent"
+            },
+            {
+                "author_name": "Jonathan Luke Heeney",
+                "author_inst": "University of Cambridge"
+            },
+            {
+                "author_name": "George W Carnell",
+                "author_inst": "University of Nottingham"
+            }
+        ],
+        "version": "1",
+        "license": "cc_by",
+        "type": "new results",
+        "category": "microbiology"
+    },
+    {
+        "rel_doi": "10.1101/2025.10.17.683077",
+        "rel_title": "Targeting the host factor HGS-viral membrane protein interaction in coronavirus infection",
+        "rel_date": "2025-10-17",
+        "rel_site": "bioRxiv",
+        "rel_link": "https://biorxiv.org/cgi/content/short/2025.10.17.683077",
+        "rel_abs": "While current antivirals primarily target viral proteins, host-directed strategies remain underexplored. Here, we performed a genome-wide CRISPRi screening to identify the host protein, Hepatocyte Growth Factor-Regulated Tyrosine Kinase Substrate (HGS), as essential for the pan-coronaviruses infection both in vitro and in vivo. Mechanistically, HGS directly interacts with the viral membrane (M) protein, facilitating its trafficking to the ER-Golgi intermediate compartment (ERGIC) for virion assembly. Conversely, HGS deficiency caused M retention in the ER, blocking assembly. Leveraging this interaction, we designed M-derived peptides and screened over 5,000 FDA-approved drugs, identifying riboflavin tetrabutyrate (RTB). Both the peptides and RTB bind HGS and disrupt its interaction with the M protein, leading to M retention in the ER and subsequent blockade of virion assembly. These agents demonstrated broad anti-pan-coronavirus activity in vitro and in vivo. Collectively, our findings establish HGS as a druggable host target and identify RTB as a promising broad-spectrum antiviral candidate.",
+        "rel_num_authors": 28,
+        "rel_authors": [
+            {
+                "author_name": "Xubing Long",
+                "author_inst": "Guangzhou National Laboratory"
+            },
+            {
+                "author_name": "Rongrong Chen",
+                "author_inst": "National Laboratory of Biomacromolecules, CAS Center for Excellence in Biomacromolecules, Institute of Biophysics, Chinese Academy of Sciences, Beijing, China"
+            },
+            {
+                "author_name": "Rong Bai",
+                "author_inst": "Guangzhou National Laboratory, Guangzhou, China"
+            },
+            {
+                "author_name": "Buyun Tian",
+                "author_inst": "Guangzhou National Laboratory, Guangzhou, China"
+            },
+            {
+                "author_name": "Yu Cao",
+                "author_inst": "Guangzhou National Laboratory, Guangzhou, China"
+            },
+            {
+                "author_name": "Kangying Chen",
+                "author_inst": "Guangzhou National Laboratory, Guangzhou, China"
+            },
+            {
+                "author_name": "Fuyu Li",
+                "author_inst": "Guangzhou National Laboratory, Guangzhou, China"
+            },
+            {
+                "author_name": "Yiliang Wang",
+                "author_inst": "Guangzhou National Laboratory, Guangzhou, China"
+            },
+            {
+                "author_name": "Yongjie Tang",
+                "author_inst": "Guangzhou National Laboratory, Guangzhou, China"
+            },
+            {
+                "author_name": "Qi Yang",
+                "author_inst": "Guangzhou National Laboratory, Guangzhou, China"
+            },
+            {
+                "author_name": "Liping Ma",
+                "author_inst": "Guangzhou National Laboratory, Guangzhou, China"
+            },
+            {
+                "author_name": "Fan Wang",
+                "author_inst": "State Key Laboratory of Respiratory Disease, Health Quarantine Institute of IQTC, Guangzhou Customs District, Guangzhou, China"
+            },
+            {
+                "author_name": "Maoge Zhou",
+                "author_inst": "Guangzhou National Laboratory, Guangzhou, China"
+            },
+            {
+                "author_name": "Xianjie Qiu",
+                "author_inst": "Guangzhou National Laboratory, Guangzhou, China"
+            },
+            {
+                "author_name": "Yongzhi Lu",
+                "author_inst": "Guangzhou National Laboratory, Guangzhou, China"
+            },
+            {
+                "author_name": "Jie Zheng",
+                "author_inst": "Shanghai Institute of Virology, Shanghai Jiao Tong University School of Medicine, Shanghai 200120, China"
+            },
+            {
+                "author_name": "Peng Zhou",
+                "author_inst": "Guangzhou National Laboratory, Guangzhou, China"
+            },
+            {
+                "author_name": "Xinwen Chen",
+                "author_inst": "Guangzhou National Laboratory, Guangzhou, China"
+            },
+            {
+                "author_name": "Qian Liu",
+                "author_inst": "Guangzhou National Laboratory, Guangzhou, China"
+            },
+            {
+                "author_name": "Xuepeng Wei",
+                "author_inst": "Guangzhou National Laboratory, Guangzhou, China"
+            },
+            {
+                "author_name": "Yongxia Shi",
+                "author_inst": "State Key Laboratory of Respiratory Disease, Health Quarantine Institute of IQTC, Guangzhou Customs District, Guangzhou, China"
+            },
+            {
+                "author_name": "Yanhong Xue",
+                "author_inst": "National Laboratory of Biomacromolecules, CAS Center for Excellence in Biomacromolecules, Institute of Biophysics, Chinese Academy of Sciences, Beijing, China"
+            },
+            {
+                "author_name": "Jincun Zhao",
+                "author_inst": "Guangzhou National Laboratory, Guangzhou, China"
+            },
+            {
+                "author_name": "Wei Ji",
+                "author_inst": "National Laboratory of Biomacromolecules, CAS Center for Excellence in Biomacromolecules, Institute of Biophysics, Chinese Academy of Sciences, Beijing, China"
+            },
+            {
+                "author_name": "Liqiao Hu",
+                "author_inst": "Guangzhou National Laboratory, Guangzhou, China"
+            },
+            {
+                "author_name": "Jinsai Shang",
+                "author_inst": "Guangzhou National Laboratory, Guangzhou, China"
+            },
+            {
+                "author_name": "Tao Xu",
+                "author_inst": "Guangzhou National Laboratory, Guangzhou, China"
+            },
+            {
+                "author_name": "Zonghong Li",
+                "author_inst": "Guangzhou National Laboratory, Guangzhou, China"
+            }
+        ],
+        "version": "1",
+        "license": "cc_by_nc",
+        "type": "new results",
+        "category": "microbiology"
+    },
+    {
+        "rel_doi": "10.1101/2025.10.15.682549",
+        "rel_title": "Durability of DNA-LNP and mRNA-LNP Vaccine-Induced Immunity Against SARS-CoV-2 XBB.1.5",
+        "rel_date": "2025-10-15",
+        "rel_site": "bioRxiv",
+        "rel_link": "https://biorxiv.org/cgi/content/short/2025.10.15.682549",
+        "rel_abs": "mRNA-lipid nanoparticle (LNP) vaccines induce robust adaptive immune responses and have proven highly effective against SARS-CoV-2. However, their long-term effectiveness is limited by waning humoral responses, which decline substantially within the first six months post-boost vaccination. DNA-LNPs are being investigated as an alternative vaccine platform, offering prolonged antigen expression and robust immunity. Here, we present the first comparison of SARS-CoV-2 DNA- and mRNA-LNP vaccines in a long-term in vivo challenge model. Both nucleic acid platforms induced strong neutralizing antibody responses and conferred equivalent protection in Syrian hamsters challenged three weeks post-boost. Notably, DNA-LNP vaccination maintained high binding and neutralizing antibody titers six months post-boost, whereas mRNA-LNPs exhibited a marked decline. Correspondingly, while DNA-LNPs completely protected from weight loss, viral replication, and lung pathology at this late timepoint, mRNA-LNP vaccination conferred minimal protection. These findings demonstrate that DNA-LNPs can sustain durable immunity, highlighting their potential as a next-generation vaccine platform that could reduce the need for frequent boosters.",
+        "rel_num_authors": 19,
+        "rel_authors": [
+            {
+                "author_name": "Levi Tamming",
+                "author_inst": "Centre for Oncology, Radiopharmaceuticals and Research, Biologic and Radiopharmaceutical Drugs Directorate, Health Products and Food Branch, Health Canada, Otta"
+            },
+            {
+                "author_name": "Casey Lansdell",
+                "author_inst": "Centre for Oncology, Radiopharmaceuticals and Research, Biologic and Radiopharmaceutical Drugs Directorate, Health Products and Food Branch, Health Canada, Otta"
+            },
+            {
+                "author_name": "Wanyue Zhang",
+                "author_inst": "Centre for Oncology, Radiopharmaceuticals and Research, Biologic and Radiopharmaceutical Drugs Directorate, Health Products and Food Branch, Health Canada, Otta"
+            },
+            {
+                "author_name": "Diana Duque",
+                "author_inst": "Human Health Therapeutics Research Center, National Research Council of Canada, Ottawa, ON K1A 0R6, Canada"
+            },
+            {
+                "author_name": "Jegarubee Bavananthasivam",
+                "author_inst": "Human Health Therapeutics Research Center, National Research Council of Canada, Ottawa, ON K1A 0R6, Canada"
+            },
+            {
+                "author_name": "Grant Frahm",
+                "author_inst": "Centre for Oncology, Radiopharmaceuticals and Research, Biologic and Radiopharmaceutical Drugs Directorate, Health Products and Food Branch, Health Canada, Otta"
+            },
+            {
+                "author_name": "Annabelle Pfeifle",
+                "author_inst": "Centre for Oncology, Radiopharmaceuticals and Research, Biologic and Radiopharmaceutical Drugs Directorate, Health Products and Food Branch, Health Canada, Otta"
+            },
+            {
+                "author_name": "Sathya N Thulasi Raman",
+                "author_inst": "Centre for Oncology, Radiopharmaceuticals and Research, Biologic and Radiopharmaceutical Drugs Directorate, Health Products and Food Branch, Health Canada, Otta"
+            },
+            {
+                "author_name": "Jianguo Wu",
+                "author_inst": "Centre for Oncology, Radiopharmaceuticals and Research, Biologic and Radiopharmaceutical Drugs Directorate, Health Products and Food Branch, Health Canada, Otta"
+            },
+            {
+                "author_name": "Caroline Gravel",
+                "author_inst": "Centre for Oncology, Radiopharmaceuticals and Research, Biologic and Radiopharmaceutical Drugs Directorate, Health Products and Food Branch, Health Canada, Otta"
+            },
+            {
+                "author_name": "Andrew Stalker",
+                "author_inst": "Centre for Oncology, Radiopharmaceuticals and Research, Biologic and Radiopharmaceutical Drugs Directorate, Health Products and Food Branch, Health Canada, Otta"
+            },
+            {
+                "author_name": "Matthew Stuible",
+                "author_inst": "Human Health Therapeutics Research Center, National Research Council of Canada, Montreal, QC H4P 2R2, Canada"
+            },
+            {
+                "author_name": "Yves Durocher",
+                "author_inst": "Human Health Therapeutics Research Center, National Research Council of Canada, Montreal, QC H4P 2R2, Canada"
+            },
+            {
+                "author_name": "Wangxue Chen",
+                "author_inst": "Human Health Therapeutics Research Center, National Research Council of Canada, Ottawa, ON K1A 0R6, Canada"
+            },
+            {
+                "author_name": "Lisheng Wang",
+                "author_inst": "Department of Biochemistry, Microbiology and Immunology, Faculty of Medicine, University of Ottawa, Ottawa, ON K1H 8M5, Canada"
+            },
+            {
+                "author_name": "Simon Sauve",
+                "author_inst": "Centre for Oncology, Radiopharmaceuticals and Research, Biologic and Radiopharmaceutical Drugs Directorate, Health Products and Food Branch, Health Canada, Otta"
+            },
+            {
+                "author_name": "Anh Tran",
+                "author_inst": "Department of Biochemistry, Microbiology and Immunology, Faculty of Medicine, University of Ottawa, Ottawa, ON K1H 8M5, Canada; Human Health Therapeutics Resear"
+            },
+            {
+                "author_name": "Michael J.W. Johnston",
+                "author_inst": "Centre for Oncology, Radiopharmaceuticals and Research, Biologic and Radiopharmaceutical Drugs Directorate, Health Products and Food Branch, Health Canada, Otta"
+            },
+            {
+                "author_name": "Xuguang Li",
+                "author_inst": "Centre for Oncology, Radiopharmaceuticals and Research, Biologic and Radiopharmaceutical Drugs Directorate, Health Products and Food Branch, Health Canada, Otta"
+            }
+        ],
+        "version": "1",
+        "license": "cc_by_nc_nd",
+        "type": "new results",
+        "category": "immunology"
+    },
+    {
+        "rel_doi": "10.1101/2025.10.12.681938",
+        "rel_title": "Effective repurposed antivirals against an emerging virus",
+        "rel_date": "2025-10-14",
+        "rel_site": "bioRxiv",
+        "rel_link": "https://biorxiv.org/cgi/content/short/2025.10.12.681938",
+        "rel_abs": "The ongoing global monkeypox virus (MPXV) outbreak urgently needs effective medications, which be accelerated through drug repurposing. However, it is challenging to poinpoint protein targets. Here we introduce a novel method rooted in molecular evolutionary theory for quick drug target identification for MPXV. It identifies drug targets as positively selected genes of viral proteins which bind host proteins. From the identified targets, we select a top gene product OPG021 for virtural drug screening. One top-ranked drug nilotinib is experimentally shown to have a significant 69% of antiviral efficacy of the FDA-approved antiviral tecovirimat (TPOXX(R) or ST-246). Higher binding affinity but not antiviral efficacy of repursposed drugs than FDA-approved drugs suggests the complexity of drug repurposing and underscores the importance of experimental validation. This innovative drug target identification strategy will contribute to combating the ongoing MPXV outbreak and other viral acute and chronic viral diseases.",
+        "rel_num_authors": 8,
+        "rel_authors": [
+            {
+                "author_name": "Huiyuan Zhou",
+                "author_inst": "Harvard University"
+            },
+            {
+                "author_name": "Sha Li",
+                "author_inst": "Chinese Academy of Sciences"
+            },
+            {
+                "author_name": "Lige Zhang",
+                "author_inst": "Duke Kunshan University"
+            },
+            {
+                "author_name": "Li Liu",
+                "author_inst": "Duke Kunshan University"
+            },
+            {
+                "author_name": "Tianyue Zhang",
+                "author_inst": "Duke Kunshan University"
+            },
+            {
+                "author_name": "Yun Wang",
+                "author_inst": "Chinese Academy of Sciences"
+            },
+            {
+                "author_name": "Gaoyang Li",
+                "author_inst": "Nanjing Medical University"
+            },
+            {
+                "author_name": "Huansheng Cao",
+                "author_inst": "Duke Kunshan University"
+            }
+        ],
+        "version": "1",
+        "license": "cc_no",
+        "type": "new results",
+        "category": "pathology"
+    },
+    {
+        "rel_doi": "10.1101/2025.10.11.681833",
+        "rel_title": "Discovery of AVI-6451, a Potent and Selective Inhibitor of the SARS-CoV-2 ADP-Ribosylhydrolase Mac1 with Oral Efficacy in vivo",
+        "rel_date": "2025-10-14",
+        "rel_site": "bioRxiv",
+        "rel_link": "https://biorxiv.org/cgi/content/short/2025.10.11.681833",
+        "rel_abs": "The COVID-19 pandemic made plain the need for effective antivirals acting on novel antiviral targets, among which viral macrodomains have attracted considerable attention. We recently described AVI-4206 (1), a potent and selective inhibitor of the SARS-CoV-2 ADP-ribosylhydrolase Mac1 based on a 9H-pyrimido[4,5-b]indole core, the first Mac1 inhibitor to demonstrate antiviral efficacy in mouse models of SARS-CoV-2 infection, but requiring IP administration and frequent dosing. Herein we describe an extensive, structurally enabled medicinal chemistry effort to identify orally bioavailable Mac1 inhibitors by addressing permeability and efflux liabilities of 1 and many of its analogs. Multiple strategies were pursued to overcome these issues, including replacing a urea function to reduce hydrogen bond donor count. While heterocyclic urea mimetics could deliver analogs like AVI-6318 (3) with potencies and ADME profiles similar to 1, abrogation of the P-gp liability was finally achieved with entirely non-polar substituents in place of urea. Thus, AVI-6451 (4) is a potent Mac1 inhibitor lead with low intrinsic clearance, high oral bioavailability, and antiviral efficacy with once-daily oral administration in a mouse model of SARS-CoV-2 infection.",
+        "rel_num_authors": 19,
+        "rel_authors": [
+            {
+                "author_name": "Priyadarshini Jaishankar",
+                "author_inst": "Department of Pharmaceutical Chemistry, University of California, San Francisco, 600 16th Street, San Francisco, CA 94158, United States."
+            },
+            {
+                "author_name": "Galen J. Correy",
+                "author_inst": "Department of Bioengineering and Therapeutic Sciences, University of California, San Francisco, 600 16th Street, San Francisco, CA 94158, United States."
+            },
+            {
+                "author_name": "Yusuke Matsui",
+                "author_inst": "Gladstone Institute of Virology, Gladstone Institutes, 1650 Owens Street, San Francisco, CA 94158."
+            },
+            {
+                "author_name": "Takaya Togo",
+                "author_inst": "Department of Pharmaceutical Chemistry, University of California, San Francisco, 600 16th Street, San Francisco, CA 94158, United States."
+            },
+            {
+                "author_name": "Moira M. Rachman",
+                "author_inst": "Department of Pharmaceutical Chemistry, University of California, San Francisco, 600 16th Street, San Francisco, CA 94158, United States."
+            },
+            {
+                "author_name": "Maisie G.V. Stevens",
+                "author_inst": "Helen Diller Family Comprehensive Cancer Center, University of California, San Francisco, 1450 Third St., San Francisco, CA 94158, United States."
+            },
+            {
+                "author_name": "Eric R. Hantz",
+                "author_inst": "Department of Pharmaceutical Chemistry, University of California, San Francisco, 600 16th Street, San Francisco, CA 94158, United States."
+            },
+            {
+                "author_name": "Jeffrey Zheng",
+                "author_inst": "Department of Pharmaceutical Chemistry, University of California, San Francisco, 600 16th Street, San Francisco, CA 94158, United States."
+            },
+            {
+                "author_name": "Morgan E. Diolaiti",
+                "author_inst": "Helen Diller Family Comprehensive Cancer Center, University of California, San Francisco, 1450 Third St., San Francisco, CA 94158, United States."
+            },
+            {
+                "author_name": "Mauricio Montano",
+                "author_inst": "Gladstone Institute of Virology, Gladstone Institutes, 1650 Owens Street, San Francisco, CA 94158."
+            },
+            {
+                "author_name": "Taha Y. Taha",
+                "author_inst": "Gladstone Institute of Virology, Gladstone Institutes, 1650 Owens Street, San Francisco, CA 94158."
+            },
+            {
+                "author_name": "Julia Rosecrans",
+                "author_inst": "Gladstone Institute of Virology, Gladstone Institutes, 1650 Owens Street, San Francisco, CA 94158."
+            },
+            {
+                "author_name": "Julius Pampel",
+                "author_inst": "Department of Bioengineering and Therapeutic Sciences, University of California, San Francisco, 600 16th Street, San Francisco, CA 94158, United States."
+            },
+            {
+                "author_name": "Nevan J. Krogan",
+                "author_inst": "Department of Bioengineering and Therapeutic Sciences, University of California, San Francisco, 600 16th Street, San Francisco, CA 94158, United States."
+            },
+            {
+                "author_name": "Brian K. Shoichet",
+                "author_inst": "Department of Pharmaceutical Chemistry, University of California, San Francisco, 600 16th Street, San Francisco, CA 94158, United States."
+            },
+            {
+                "author_name": "Alan Ashworth",
+                "author_inst": "Helen Diller Family Comprehensive Cancer Center, University of California, San Francisco, 1450 Third St., San Francisco, CA 94158, United States."
+            },
+            {
+                "author_name": "Melanie Ott",
+                "author_inst": "Gladstone Institute of Virology, Gladstone Institutes, 1650 Owens Street, San Francisco, CA 94158."
+            },
+            {
+                "author_name": "James S. Fraser",
+                "author_inst": "Department of Bioengineering and Therapeutic Sciences, University of California, San Francisco, 600 16th Street, San Francisco, CA 94158, United States."
+            },
+            {
+                "author_name": "Adam R. Renslo",
+                "author_inst": "Department of Pharmaceutical Chemistry, University of California, San Francisco, 600 16th Street, San Francisco, CA 94158, United States.; Helen Diller Family C"
+            }
+        ],
+        "version": "1",
+        "license": "cc_by",
+        "type": "new results",
+        "category": "pharmacology and toxicology"
+    },
+    {
+        "rel_doi": "10.1101/2025.10.13.682008",
+        "rel_title": "Circular mRNA against Clean Cap linear mRNA vectors comprehensive comparison, expression, active and passive immunization",
+        "rel_date": "2025-10-14",
+        "rel_site": "bioRxiv",
+        "rel_link": "https://biorxiv.org/cgi/content/short/2025.10.13.682008",
+        "rel_abs": "The mRNA platform has revolutionised vaccine technology by providing a universal, fast and easily scalable production process. There are two main types of mRNA - linear (cap-dependent) and circular (cap-independent), each with its own advantages. Although both vector types are continuously being improved, there has been no comprehensive comparative analysis of the most efficient existing vectors of each type. This paper provides a comparison of expression efficiency, protective and therapeutic activities of circular and linear mRNA vectors. We examined different combinations of linear vectors: containing either N1-methylpseudouridines or uridine and capped with either ARCA (m7G(5')ppp(5')G) or CleanCap (m7G(5')ppp(5')m2G). Circular vectors contained both commonly used IRES of coxsackievirus B3 and new a IRES of human rhinoviruses B6.\n\nPreliminary luciferase assay showed that modified linear vectors exhibited significantly higher expression levels both in vitro and in vivo. A similar but less dramatic difference was observed in expression of the target protein. At the same time, immunogenicity and protective activity of linear and circular vectors were equal.",
+        "rel_num_authors": 18,
+        "rel_authors": [
+            {
+                "author_name": "Vladimir M. Vakhtinskii",
+                "author_inst": "1Federal State Budget Institution \"National Research Center for Epidemiology and Microbiology Named after the Honorary Academician N.F. Gamaleya\", The Ministry "
+            },
+            {
+                "author_name": "Irina L. Tutykhina",
+                "author_inst": "Federal State Budget Institution \"National Research Center for Epidemiology and Microbiology Named after the Honorary Academician N.F. Gamaleya\", The Ministry o"
+            },
+            {
+                "author_name": "Alina  Sh. Dzharullaeva",
+                "author_inst": "Federal State Budget Institution \"National Research Center for Epidemiology and Microbiology Named after the Honorary Academician N.F. Gamaleya\", The Ministry o"
+            },
+            {
+                "author_name": "Daria M. Grousova",
+                "author_inst": "Federal State Budget Institution \"National Research Center for Epidemiology and Microbiology Named after the Honorary Academician N.F. Gamaleya\", The Ministry o"
+            },
+            {
+                "author_name": "Ilya D. Zorkov",
+                "author_inst": "Federal State Budget Institution \"National Research Center for Epidemiology and Microbiology Named after the Honorary Academician N.F. Gamaleya\", The Ministry o"
+            },
+            {
+                "author_name": "Anna A. Ilyukhina",
+                "author_inst": "Federal State Budget Institution \"National Research Center for Epidemiology and Microbiology Named after the Honorary Academician N.F. Gamaleya\", The Ministry o"
+            },
+            {
+                "author_name": "Dmitrii A. Reshetnikov",
+                "author_inst": "Federal State Budget Institution \"National Research Center for Epidemiology and Microbiology Named after the Honorary Academician N.F. Gamaleya\", The Ministry o"
+            },
+            {
+                "author_name": "Valentin V. Azizyan",
+                "author_inst": "Federal State Budget Institution \"National Research Center for Epidemiology and Microbiology Named after the Honorary Academician N.F. Gamaleya\", The Ministry o"
+            },
+            {
+                "author_name": "Artem A. Derkaev",
+                "author_inst": "Federal State Budget Institution \"National Research Center for Epidemiology and Microbiology Named after the Honorary Academician N.F. Gamaleya\", The Ministry o"
+            },
+            {
+                "author_name": "Evgeniia N. Bykonia",
+                "author_inst": "Federal State Budget Institution \"National Research Center for Epidemiology and Microbiology Named after the Honorary Academician N.F. Gamaleya\", The Ministry o"
+            },
+            {
+                "author_name": "Evgeny V. Usachev",
+                "author_inst": "Federal State Budget Institution \"National Research Center for Epidemiology and Microbiology Named after the Honorary Academician N.F. Gamaleya\", The Ministry o"
+            },
+            {
+                "author_name": "Denis A. Kleymenov",
+                "author_inst": "Federal State Budget Institution \"National Research Center for Epidemiology and Microbiology Named after the Honorary Academician N.F. Gamaleya\", The Ministry o"
+            },
+            {
+                "author_name": "Vladimir A. Gushchin",
+                "author_inst": "Federal State Budget Institution \"National Research Center for Epidemiology and Microbiology Named after the Honorary Academician N.F. Gamaleya\", The Ministry o"
+            },
+            {
+                "author_name": "Inna V. Dolzhikova",
+                "author_inst": "Federal State Budget Institution \"National Research Center for Epidemiology and Microbiology Named after the Honorary Academician N.F. Gamaleya\", The Ministry o"
+            },
+            {
+                "author_name": "Dmitry  V. Shcheblyakov",
+                "author_inst": "Federal State Budget Institution \"National Research Center for Epidemiology and Microbiology Named after the Honorary Academician N.F. Gamaleya\", The Ministry o"
+            },
+            {
+                "author_name": "Maxim M. Shmarov",
+                "author_inst": "Federal State Budget Institution \"National Research Center for Epidemiology and Microbiology Named after the Honorary Academician N.F. Gamaleya\", The Ministry o"
+            },
+            {
+                "author_name": "Denis Yu. Logunov",
+                "author_inst": "Federal State Budget Institution \"National Research Center for Epidemiology and Microbiology Named after the Honorary Academician N.F. Gamaleya\", The Ministry o"
+            },
+            {
+                "author_name": "Aleksandr  L. Gintsburg",
+                "author_inst": "Federal State Budget Institution \"National Research Center for Epidemiology and Microbiology Named after the Honorary Academician N.F. Gamaleya\", The Ministry o"
+            }
+        ],
+        "version": "1",
+        "license": "cc_by_nc_nd",
+        "type": "new results",
+        "category": "immunology"
+    },
+    {
+        "rel_doi": "10.1101/2025.10.13.682101",
+        "rel_title": "Mechanisms of sex differences in acute and long COVID sequelae in mice",
+        "rel_date": "2025-10-14",
+        "rel_site": "bioRxiv",
+        "rel_link": "https://biorxiv.org/cgi/content/short/2025.10.13.682101",
+        "rel_abs": "While males are more likely to suffer severe outcomes during acute COVID-19, a greater proportion of females develop post-acute sequalae of COVID-19 (PASC) despite similar rates of infection. To identify mechanisms of PASC, mice were infected with SARS-CoV-2 and viral, inflammatory, and behavioral outcomes were evaluated through 84 days post infection. Sex differences were not observed in virus replication or persistence of viral RNA in pulmonary or extrapulmonary tissues in acute or PASC phases. Following recovery from infection, female mice exhibited persistent neurocognitive and behavioral impairments, along with greater frequencies of inflammatory myeloid subsets, neuroinflammation, and dysregulated T cell subsets, including Tregs. Sex differences in inflammation and cognitive phenotypes during PASC were mediated by the presence of two X chromosomes. XX animals independent of chromosome Y presented with neuroinflammation and PASC along with infection-induced upregulation of the X-linked genes Xist and Tlr7 that regulate inflammation and chronic disease outcomes.",
+        "rel_num_authors": 21,
+        "rel_authors": [
+            {
+                "author_name": "Jennifer A. Liu",
+                "author_inst": "Johns Hopkins Bloomberg School of Public Health"
+            },
+            {
+                "author_name": "Sabal Chaulagain",
+                "author_inst": "Johns Hopkins Bloomberg School of Public Health"
+            },
+            {
+                "author_name": "Patrick S. Creisher",
+                "author_inst": "Johns Hopkins Bloomberg School of Public Health"
+            },
+            {
+                "author_name": "Weizhi Zhong",
+                "author_inst": "Johns Hopkins Bloomberg School of Public Health"
+            },
+            {
+                "author_name": "Tianle Zhang",
+                "author_inst": "Johns Hopkins Bloomberg School of Public Health"
+            },
+            {
+                "author_name": "Maraake Taddese",
+                "author_inst": "W. Harry Feinstone Department of Molecular Microbiology and Immunology, Bloomberg School of Public Health, Johns Hopkins University"
+            },
+            {
+                "author_name": "Karly Shi",
+                "author_inst": "Johns Hopkins Bloomberg School of Public Health"
+            },
+            {
+                "author_name": "Han-Sol Park",
+                "author_inst": "Johns Hopkins Bloomberg School of Public Health"
+            },
+            {
+                "author_name": "Haley Hcnir",
+                "author_inst": "Department of Integrative Biology & Physiology Laboratory of Neuroendocrinology of the Brain Research Institute, University of California, Los Angeles"
+            },
+            {
+                "author_name": "Arthur P. Arnold",
+                "author_inst": "Department of Integrative Biology & Physiology, Laboratory of Neuroendocrinology of the Brain Research Institute, University of California, Los Angeles"
+            },
+            {
+                "author_name": "Ralph S. Baric",
+                "author_inst": "Department of Microbiology and Immunology, University of North Carolina at Chapel Hill, Chapel Hill, NC"
+            },
+            {
+                "author_name": "Natasha B. Barahona",
+                "author_inst": "Tulane Brain Institute, Tulane University School of Medicine"
+            },
+            {
+                "author_name": "Elizabeth B. Engler-Chiurazzi",
+                "author_inst": "Tulane Brain Institute, Tulane University School of Medicine"
+            },
+            {
+                "author_name": "Kevin J. Zwezdaryk",
+                "author_inst": "Department of Microbiology and Immunology, Tulane University School of Medicine"
+            },
+            {
+                "author_name": "Chloe L. Thio",
+                "author_inst": "Department of Medicine, Division of Infectious Diseases, Johns Hopkins School of Medicine"
+            },
+            {
+                "author_name": "Ashwin Balagopal",
+                "author_inst": "Department of Medicine, Division of Infectious Diseases, Johns Hopkins School of Medicine"
+            },
+            {
+                "author_name": "Jack R. Harkema",
+                "author_inst": "Department of Pathobiology & Diagnostic Investigation, Michigan State University"
+            },
+            {
+                "author_name": "Elizabeth A. Thompson",
+                "author_inst": "Johns Hopkins Bloomberg School of Public Health"
+            },
+            {
+                "author_name": "Andrew Pekosz",
+                "author_inst": "Johns Hopkins Bloomberg School of Public Health"
+            },
+            {
+                "author_name": "Andrea L. Cox",
+                "author_inst": "Department of Medicine, Division of Infectious Diseases, Johns Hopkins School of Medicine"
+            },
+            {
+                "author_name": "Sabra L. Klein",
+                "author_inst": "Johns Hopkins Bloomberg School of Public Health"
+            }
+        ],
+        "version": "1",
+        "license": "cc_by_nc_nd",
+        "type": "new results",
+        "category": "immunology"
+    },
+    {
+        "rel_doi": "10.1101/2025.10.13.682000",
+        "rel_title": "The hyaluronan receptor CD44 drives COVID-19 severity through its regulation of neutrophil migration",
+        "rel_date": "2025-10-14",
+        "rel_site": "bioRxiv",
+        "rel_link": "https://biorxiv.org/cgi/content/short/2025.10.13.682000",
+        "rel_abs": "The novel respiratory disease COVID-19 caused by the coronavirus SARS-CoV-2 continues to be a public health emergency worldwide, and there is a need for more effective therapy for patients. The relationship between the extracellular matrix and the host immune response to infection is severely understudied. Deposition of the polysaccharide hyaluronan (HA) into the lungs is associated with more severe COVID-19 disease outcomes. HA is a major component of the extracellular matrix in connective tissues and is abundant in many parts of the body, including cartilage, skin, brain, and vitreous body. CD44 is the primary receptor for HA and is found on almost all immune cells in the lung. Known functions of CD44 include mediation of immune cell migration, activation, and differentiation. We hypothesized that increased HA deposition during COVID-19 increases CD44-mediated immune cell infiltration into lungs and results in more severe pathology. Here, we report that in mice infected with a mouse-adapted strain of SARS-CoV-2, treatment with a combination of two anti-CD44 monoclonal antibodies confers a significant survival benefit and reduces weight loss and clinical score of the mice on Day 4 post infection. We show that anti-CD44 treatment decreases many key cytokines and chemokines in the bronchoalveolar lavage fluid on Day 4. With flow cytometry, we show that anti-CD44 reduces the numbers of neutrophils in infected lungs. We also show through immunofluorescence that treatment with anti-CD44 antibodies reduces colocalization of HA and CD45 in lung sections, indicating that HAs interaction with immune cells contributes to pathology. Our findings demonstrate that disruption of HA-receptor interactions is a way to prevent inflammatory pathology in pulmonary infection.",
+        "rel_num_authors": 12,
+        "rel_authors": [
+            {
+                "author_name": "Duncan Hart",
+                "author_inst": "University of Virginia School of Medicine"
+            },
+            {
+                "author_name": "Md. Jashim Uddin",
+                "author_inst": "Uniformed Services University of the Health Sciences"
+            },
+            {
+                "author_name": "Rebecca J. Dodd",
+                "author_inst": "The University of Manchester"
+            },
+            {
+                "author_name": "Savannah G. Brovero",
+                "author_inst": "University of Virginia"
+            },
+            {
+                "author_name": "Claire Fleming",
+                "author_inst": "University of Virginia School of Medicine"
+            },
+            {
+                "author_name": "G. Brett Moreau",
+                "author_inst": "University of Virginia School of Medicine"
+            },
+            {
+                "author_name": "Nick R. Natale",
+                "author_inst": "University of Virginia School of Medicine"
+            },
+            {
+                "author_name": "Barbara J. Mann",
+                "author_inst": "University of Virginia School of Medicine"
+            },
+            {
+                "author_name": "Tara E. Sutherland",
+                "author_inst": "University of Aberdeen"
+            },
+            {
+                "author_name": "Judith E. Allen",
+                "author_inst": "The University of Manchester"
+            },
+            {
+                "author_name": "Anthony J. Day",
+                "author_inst": "The University of Manchester"
+            },
+            {
+                "author_name": "William A. Petri",
+                "author_inst": "University of Virginia School of Medicine"
+            }
+        ],
+        "version": "1",
+        "license": "cc_by",
+        "type": "new results",
+        "category": "immunology"
+    },
+    {
+        "rel_doi": "10.1101/2025.10.13.681985",
+        "rel_title": "Role of zinc in growth, stress response and virulence gene expression of pathogenic Mucorale Rhizopus arrhizus",
+        "rel_date": "2025-10-14",
+        "rel_site": "bioRxiv",
+        "rel_link": "https://biorxiv.org/cgi/content/short/2025.10.13.681985",
+        "rel_abs": "During COVID-19 pandemic, the cases of mucormycosis increased substantially, with rhino-orbito-cerebral form linked to uncontrolled diabetes being the predominant manifestation. Some clinical and epidemiological studies associated the usage of zinc supplements with the occurrence of COVID-19 associated mucormycosis, but experimental evidence remains limited. This study aimed to elucidate the impact of zinc enrichment on Rhizopus arrhizus, the predominant causative agent of mucormycosis. The effect of zinc supplementation (5 to 150 {micro}M) on fungal growth, metabolic activity, antifungal susceptibility and biofilm formation, along with cell-wall (Congo red), oxidative (hydrogen peroxide) and osmotic (sodium chloride) stress was evaluated in RPMI-1640. Morphological changes were visualized by scanning electron microscopy. Gene expression was monitored by RNA sequencing. Zinc supplementation promoted R. arrhizus growth in a concentration-dependent manner, with the effect being particularly pronounced under less-favorable conditions, such as alkaline conditions resembling the nasal pH of diabetics. Exposure to zinc enhanced the metabolic activity, and partly alleviated the cell-wall and oxidative stress. Susceptibility to amphotericin B and posaconazole was unchanged. Zinc-supplemented cultures over-expressed multiple genes, notably those associated with respiratory electron transport chain, ergosterol biosynthesis, chitosan production, oxidative stress response, mucoricin, high-affinity iron permease, iron transport multi-copper oxidase and ferric-reductase-like protein. Zinc also augmented the growth/metabolism of several other Mucorales but not Aspergillus fumigatus and Candida albicans. The findings suggest that zinc supplementation supports mucoralean growth and enhances the expression of key virulence factors, implying that excessive intake of zinc supplements during COVID-19 pandemic likely contributed to the emergence of mucormycosis.\n\nIMPORTANCEMucormycosis remains a highly devastating fungal infection that presented additional challenges during the COVID-19 pandemic. Several risk factors were implicated in the emergence of COVID-19 associated mucormycosis (CAM), including inappropriate corticosteroid usage and COVID-19 associated glycemic imbalance. The excessive intake of nutritional supplements, especially that of zinc, owing to self-medication and over-prescription, was also proposed as a plausible factor in the rise of CAM in many clinical/epidemiological studies. This study experimentally evaluated the potential impact of zinc enrichment on pathogenic Mucorales. The work demonstrates that zinc supplementation supports Rhizopus arrhizus growth, metabolism and stress response, and enhances the expression of key virulence factors, including mucoricin and iron transporters. Notably, the augmentation was specifically observed in pathogenic Mucorales but not Aspergillus fumigatus and Candida albicans. The work provides experimental evidence for the potential association of zinc over-availability with the occurrence of CAM, and strengthens evidence-based therapeutic practices in clinical settings.",
+        "rel_num_authors": 4,
+        "rel_authors": [
+            {
+                "author_name": "RACHNA SINGH",
+                "author_inst": "Panjab University"
+            },
+            {
+                "author_name": "Anjna Kumari",
+                "author_inst": "Panjab University"
+            },
+            {
+                "author_name": "Pavneet Kaur",
+                "author_inst": "Panjab University"
+            },
+            {
+                "author_name": "Jasdeep Kaur",
+                "author_inst": "Panjab University"
+            }
+        ],
+        "version": "1",
+        "license": "cc_no",
+        "type": "new results",
+        "category": "microbiology"
+    },
+    {
+        "rel_doi": "10.1101/2025.10.09.681538",
+        "rel_title": "Clustering of SARS-CoV-2 membrane proteins in lipid bilayer membranes",
+        "rel_date": "2025-10-10",
+        "rel_site": "bioRxiv",
+        "rel_link": "https://biorxiv.org/cgi/content/short/2025.10.09.681538",
+        "rel_abs": "The accumulation of viral structural proteins along the ER-Golgi intermediate compartment (ERGIC) membrane leads to SARS-CoV-2 self-assembly and budding, driven by the interactions between these proteins, RNA and the ERGIC membrane. The membrane protein (M) is believed to interact with other structural proteins and form clusters needed for the induction of membrane curvature that facilitates virion formation. However, the role played by direct and membrane-mediated interactions between M proteins and their interactions with other proteins in the clustering process remains unclear. Here, we utilize a combination of all-atom molecular dynamics (MD) simulations, continuum modeling and experiments to show that M-M interactions are sufficient to drive clustering in ERGIC-like lipid bilayers in the absence of other proteins or RNA. Using all-atom MD simulations we were able to estimate the membrane thinning induced by M proteins and the resulting membrane-mediated M-M interaction. Combining this with a continuum model that describes the evolution of M protein density in a planar lipid membrane, we identified the existence of a critical, direct M-M interaction energy needed for cluster assembly at a given density. By comparing the model predictions with analysis of atomic force microscopy images of M protein clusters in supported lipid bilayers, we were able to estimate the direct M-M interaction energy and found it to be significantly larger than the membrane mediated interaction energy. Our work therefore establishes that M protein interactions are sufficient to drive clustering and provides a quantitative understanding of the role played by direct and membrane-mediated interactions of M proteins in viral assembly and budding.",
+        "rel_num_authors": 8,
+        "rel_authors": [
+            {
+                "author_name": "Joseph McTiernan",
+                "author_inst": "University of California, Merced"
+            },
+            {
+                "author_name": "Yuanzhong Zhang",
+                "author_inst": "University of California, Riverside"
+            },
+            {
+                "author_name": "Siyu Li",
+                "author_inst": "California State Polytechnic University, Pomona"
+            },
+            {
+                "author_name": "Thomas E. Kuhlman",
+                "author_inst": "University of California, Riverside"
+            },
+            {
+                "author_name": "Umar Mohideen",
+                "author_inst": "University of California, Riverside"
+            },
+            {
+                "author_name": "Michael E. Colvin",
+                "author_inst": "University of California, Merced"
+            },
+            {
+                "author_name": "Roya Zandi",
+                "author_inst": "University of California, Riverside"
+            },
+            {
+                "author_name": "Ajay Gopinathan",
+                "author_inst": "University of California, Merced"
+            }
+        ],
+        "version": "1",
+        "license": "cc_no",
+        "type": "new results",
+        "category": "biophysics"
+    },
+    {
+        "rel_doi": "10.1101/2025.10.09.680815",
+        "rel_title": "mRNA poly(A)-tail length is a battleground for coronavirus-host competition",
+        "rel_date": "2025-10-10",
+        "rel_site": "bioRxiv",
+        "rel_link": "https://biorxiv.org/cgi/content/short/2025.10.09.680815",
+        "rel_abs": "Most eukaryotic mRNAs contain a poly(A) tail, which in post-embryonic cells enhances their stability. Many cytoplasmic RNA viruses also harbor poly(A) tails on their genomic RNA and mRNAs. Here, we report that coronavirus infection causes cytoplasmic poly(A)-binding protein (PABPC) activity to become limiting, which preferentially destabilizes short-tailed host mRNAs, occurring before the action of virally encoded mRNA-decay factor nsp1. In this environment hostile to poly(A) tails, viral RNAs maintain a narrow tail-length distribution centering on 70-80 nucleotides across infection cycles. They do this through two mechanisms. First, viral tails are extended during RNA synthesis within double-membrane vesicles; second, viral tails are capped by a complex that includes PABPC1 and CSDE1 and slows tail shortening. Our findings suggest poly(A)-tail length is an arena of host- virus conflict, in which preserving tail lengths of viral mRNAs promotes their cytoplasmic dominance.\n\nHighlightsO_LIPABPC1 becomes limiting during coronavirus infection\nC_LIO_LILimiting PABPC1 promotes decay of short-tailed host mRNAs--independently of nsp1\nC_LIO_LIThe tail lengths of coronaviral mRNAs are extended during their synthesis in DMVs\nC_LIO_LIViral tails are capped by PABPC1 and CSDE1, which protects against deadenylation\nC_LI",
+        "rel_num_authors": 6,
+        "rel_authors": [
+            {
+                "author_name": "Arash Latifkar",
+                "author_inst": "Whitehead Institute for Biomedical Research"
+            },
+            {
+                "author_name": "Yevgen Levdansky",
+                "author_inst": "National Institutes of Health"
+            },
+            {
+                "author_name": "Amer Balabaki",
+                "author_inst": "Whitehead Institute for Biomedical Research"
+            },
+            {
+                "author_name": "Sherry Nyeo",
+                "author_inst": "Whitehead Institute for Biomedical Research"
+            },
+            {
+                "author_name": "Eugene Valkov",
+                "author_inst": "National Institutes of Health"
+            },
+            {
+                "author_name": "David Bartel",
+                "author_inst": "Whitehead Institute for Biomedical Research"
+            }
+        ],
+        "version": "1",
+        "license": "cc_by",
+        "type": "new results",
+        "category": "molecular biology"
+    },
+    {
+        "rel_doi": "10.1101/2025.10.09.681330",
+        "rel_title": "Predicting enhancer-gene links from single-cell multi-omics data by integrating prior Hi-C information",
+        "rel_date": "2025-10-09",
+        "rel_site": "bioRxiv",
+        "rel_link": "https://biorxiv.org/cgi/content/short/2025.10.09.681330",
+        "rel_abs": "Enhancers play an important role in transcriptional regulation by modulating gene expression from distal genomic locations. Although single-cell ATAC and RNA sequencing (scATAC/RNA-seq) data have been leveraged to infer enhancer-gene links, establishing regulatory links between enhancers and their target genes remains a challenge due to the absence of chromatin conformation information. Here, we present SCEG-HiC, a machine learning method based on weighted graphical lasso, which decodes enhancer-gene links from single-cell multi-omics data by integrating bulk average Hi-C as prior knowledge. Comprehensive evaluation across ten single-cell multi-omics datasets from both humans and mice demonstrates that SCEG-HiC outperforms existing single-cell models, regardless of using paired scATAC/RNA-seq or scATAC-seq data alone. Application of SCEG-HiC to COVID-19 datasets illustrates its capacity to more reliably reconstruct gene regulatory networks underlying disease severity, and elucidate functional associations between non-coding variants and their putative target genes. SCEG-HiC is freely available as an open-source and user-friendly R package, facilitating broad applications in regulatory genomics research.",
+        "rel_num_authors": 6,
+        "rel_authors": [
+            {
+                "author_name": "Xuan Liang",
+                "author_inst": "Shanghai Institute of Nutrition and Health Chinese Academy of Sciences"
+            },
+            {
+                "author_name": "Yuanyuan Miao",
+                "author_inst": "Shanghai Institute of Nutrition and Health Chinese Academy of Sciences"
+            },
+            {
+                "author_name": "Dongmei Han",
+                "author_inst": "University of the Chinese Academy of Sciences Hangzhou Institute for Advanced Study"
+            },
+            {
+                "author_name": "Yurun Li",
+                "author_inst": "Shanghai Institute of Nutrition and Health Chinese Academy of Sciences"
+            },
+            {
+                "author_name": "Wenwen Zhang",
+                "author_inst": "Shanghai Institute of Nutrition and Health Chinese Academy of Sciences"
+            },
+            {
+                "author_name": "Zhen Wang",
+                "author_inst": "University of the Chinese Academy of Sciences Hangzhou Institute for Advanced Study"
+            }
+        ],
+        "version": "1",
+        "license": "cc_no",
+        "type": "new results",
+        "category": "bioinformatics"
+    },
+    {
+        "rel_doi": "10.1101/2025.10.09.681417",
+        "rel_title": "A novel vaccination strategy induces vaccine-specific mucosal responses at port of viral entry and exit: using systemic SARS-CoV-2 vaccination as a test case",
+        "rel_date": "2025-10-09",
+        "rel_site": "bioRxiv",
+        "rel_link": "https://biorxiv.org/cgi/content/short/2025.10.09.681417",
+        "rel_abs": "Respiratory infectious diseases are associated with substantial morbidity and mortality rates worldwide, especially at the extremes of age and in immunocompromised individuals. Over the past two decades, respiratory viruses have driven nine epidemics and pandemics (including the COVID-19 pandemic); and their ongoing emergence, persistence and evolution continue to threat global health security. The upper respiratory tract (URT) represents the primary access point for respiratory viruses, where initial host infection occurs. Vaccine-mediated URT mucosal memory responses can control infection, prevent transmission and limit viral evolution. However, vaccines against respiratory viruses predominantly have systemic administration routes that elicit strong responses in the circulation to prevent severe respiratory disease, but do not effectively block infection and onward community transmission. To overcome the limitations of systemic vaccination alone, we present a novel intervention combining systemic vaccination with targeted non-antigenic inflammatory stimulation of the URT, to induce vaccine-specific immune responses in the URT mucosa. Using SARS-CoV-2 vaccination as a test case, we demonstrate for the first time, that intranasal coadministration of exogenous IFN- as a targeted inflammatory URT signal, alongside systemic vaccination, induces vaccine-specific T-cell responses in the URT.",
+        "rel_num_authors": 3,
+        "rel_authors": [
+            {
+                "author_name": "Rupsha Fraser",
+                "author_inst": "The University of Edinburgh"
+            },
+            {
+                "author_name": "Jurgen Schwarze",
+                "author_inst": "The University of Edinburgh"
+            },
+            {
+                "author_name": "David Dockrell",
+                "author_inst": "The University of Edinburgh"
+            }
+        ],
+        "version": "1",
+        "license": "cc_no",
+        "type": "new results",
+        "category": "immunology"
+    },
+    {
+        "rel_doi": "10.1101/2025.10.07.25337492",
+        "rel_title": "Phase 1 Study of Safety, Reactogenicity, and Immunogenicity of a Novel MVA-SARS-2-ST Vaccine Candidate Administered as Inhalation Boost in SARS-CoV-2 Immunized Adults",
+        "rel_date": "2025-10-08",
+        "rel_site": "medRxiv",
+        "rel_link": "https://medrxiv.org/cgi/content/short/2025.10.07.25337492",
+        "rel_abs": "BackgroundExisting parenteral SARS-CoV-2 vaccines protect against severe disease but do not reliably prevent infection or reinfection. Inhaled vaccines may elicit localized immunity in the respiratory tract, a principal entry site for SARS-CoV-2.\n\nMethodsIn this investigator-initiated, single-center, open-label phase 1 trial (NCT05226390, ClinicalTrials.gov), 23 healthy adults previously immunized with EU-approved SARS-CoV-2 vaccines received a single inhaled dose of Modified Vaccinia virus Ankara-(MVA)-SARS-2-ST (1x107 IU), engineered to express a prefusion-stabilized SARS-CoV-2 spike. Participants were followed for 140 days. Primary endpoints included solicited local and systemic reactogenicity through day 7, unsolicited adverse events through day 28, serious adverse events throughout, and changes in spirometry and laboratory parameters. Secondary endpoints were changes in SARS-CoV-2 S1-specific IgG in serum and bronchoalveolar lavage; exploratory endpoints included changes in S1-specific IgA in serum and bronchoalveolar lavage, and methacholine responsiveness.\n\nResultsNo serious adverse events were observed. Over 28 days, mild or moderate adverse events occurred in 87% of participants, predominantly cough, headache, and fatigue, all resolved. Pulmonary function and methacholine responsiveness were stable, except for one transient 20% decrease in FEV1 on Day 14 that normalized subsequently. Serum IgG responses remained minimal, whereas a subset displayed increased bronchoalveolar IgA.\n\nConclusionA single inhaled booster dose of MVA-SARS-2-ST was safe and generally well tolerated. While systemic antibody levels did not rise substantially, the observed mucosal IgA response in some participants points to a localized mucosal effect. Further studies are warranted to clarify underlying mechanisms and the significance of this response in diverse populations.",
+        "rel_num_authors": 17,
+        "rel_authors": [
+            {
+                "author_name": "Jens M Hohlfeld",
+                "author_inst": "Division of Airway Research, Fraunhofer Institute for Toxicology and Experimental Medicine ITEM, Nikolai-Fuchs-Str. 1, 30625 Hannover, Germany"
+            },
+            {
+                "author_name": "Swantje Hammerschmidt",
+                "author_inst": "Institute of Immunology, Hannover Medical School, Carl-Neuberg-Str. 1, 30625 Hannover, Germany"
+            },
+            {
+                "author_name": "Thomas Kayser",
+                "author_inst": "Division of Airway Research, Fraunhofer Institute for Toxicology and Experimental Medicine ITEM, Nikolai-Fuchs-Str. 1, 30625 Hannover, Germany"
+            },
+            {
+                "author_name": "Anna Kutschenko",
+                "author_inst": "Center for Clinical Trials (ZKS), Hannover Medical School, Carl-Neuberg-Str. 1, 30625 Hannover, Germany"
+            },
+            {
+                "author_name": "Anika Buchholz",
+                "author_inst": "Institute for Medical Biometry and Epidemiology, University Medical Center Hamburg-Eppendorf, Martinistr. 52, 20246 Hamburg, Germany"
+            },
+            {
+                "author_name": "Marc Permanyer",
+                "author_inst": "Institute of Immunology, Hannover Medical School, Carl-Neuberg-Str. 1, 30625 Hannover, Germany"
+            },
+            {
+                "author_name": "Lennart Riemann",
+                "author_inst": "Institute of Immunology, Hannover Medical School, Carl-Neuberg-Str. 1, 30625 Hannover, Germany"
+            },
+            {
+                "author_name": "Christoph Schindler",
+                "author_inst": "Center for Clinical Trials (ZKS), Hannover Medical School, Carl-Neuberg-Str. 1, 30625 Hannover, Germany"
+            },
+            {
+                "author_name": "Antonia Zapf",
+                "author_inst": "Institute for Medical Biometry and Epidemiology, University Medical Center Hamburg-Eppendorf, Martinistr. 52, 20246 Hamburg, Germany"
+            },
+            {
+                "author_name": "Mahnaz Badpa",
+                "author_inst": "Institute for Medical Biometry and Epidemiology, University Medical Center Hamburg-Eppendorf, Martinistr. 52, 20246 Hamburg, Germany"
+            },
+            {
+                "author_name": "Verena Kraehling",
+                "author_inst": "Institute of Virology, Philipps University Marburg, Marburg, Germany"
+            },
+            {
+                "author_name": "Stephan Becker",
+                "author_inst": "Institute of Virology, Philipps University Marburg, Marburg, Germany"
+            },
+            {
+                "author_name": "Christine Falk",
+                "author_inst": "Institute of Transplant Immunology, Hannover Medical School, Hannover, Germany"
+            },
+            {
+                "author_name": "Simon Schroeder",
+                "author_inst": "German Centre for Infection Research (DZIF), Partner Site Braunschweig-Hannover, Hannover, Germany"
+            },
+            {
+                "author_name": "Gerd Sutter",
+                "author_inst": "Institute for Infectious Diseases and Zoonoses, LMU University of Munich; German Centre for Infection Research (DZIF), Partner Site Munich; Germany"
+            },
+            {
+                "author_name": "Asisa Volz",
+                "author_inst": "Institute of Virology, University of Veterinary Medicine Hannover, Hannover, Germany"
+            },
+            {
+                "author_name": "Reinhold Foerster",
+                "author_inst": "Institute of Immunology, Hannover Medical School, Carl-Neuberg-Str. 1, 30625 Hannover, Germany"
+            }
+        ],
+        "version": "1",
+        "license": "cc_no",
+        "type": "PUBLISHAHEADOFPRINT",
+        "category": "respiratory medicine"
+    },
+    {
+        "rel_doi": "10.1101/2025.10.07.25337497",
+        "rel_title": "Evaluating Rural/Urban HPV Vaccine Completion Rates in Iowa After the COVID-19 Pandemic",
+        "rel_date": "2025-10-08",
+        "rel_site": "medRxiv",
+        "rel_link": "https://medrxiv.org/cgi/content/short/2025.10.07.25337497",
+        "rel_abs": "BackgroundThe HPV vaccine provides parents with an opportunity to significantly decrease their childrens future cancer risk. Unfortunately, children face considerable barriers, including stigma and hesitancy, to completing the HPV vaccine schedule. These barriers have contributed to lower HPV vaccination completion rates in rural communities. Although general vaccine hesitancy grew during the pandemic, whether rising vaccine hesitancy further widened rural HPV vaccination gaps remains unknown. Focusing on Iowa, a state with the fastest rising incidence of HPV-associated cancer, we evaluated if county-level COVID-19 vaccination rates corresponded to county-level changes in rural-urban HPV vaccination completion trends.\n\nMethodsWith data from the Iowa Department of Health and Human Services (2017-2024), we analyzed annual, county-level sex-stratified HPV vaccination completion rates. Rates were reported as a proportion of the 13-15-year-old population. In addition to evaluating overall trends, we grouped counties by rural/urban status and above/below median COVID-19 vaccination rates. We then constructed population-weighted, two-way fixed effect panel regression models testing if HPV vaccination completion rates changed after year 2020; and whether these changes varied by rurality and COVID-19 vaccination rates.\n\nResultsOverall, HPV vaccination completion rates increased 5.5%-points (CI = 4.5, 6.5) after 2020 in females and 7.1%-points (CI = 6.0, 8.1) in males. In females, there was no increase after 2020 in HPV vaccine completion in counties with below median COVID-19 vaccine rates (Urban = -0.2%-points, CI = -3.3, 3.3; Rural = 2.9, CI = -0.8, 6.7). In males, the increase after 2020 in HPV vaccine completion rates were consistent across all counties, but lowest in rural counties regardless of COVID-19 vaccine uptake (Above Median = 0.025, CI = 0.010, 0.042; Below Median = 0.027; CI = 0.011, 0.043).\n\nConclusionsIn Iowa, the dynamic post-pandemic HPV vaccination completion trends warrant interventions that address multiple factors driving unique contributors to incomplete HPV vaccination adherence.",
+        "rel_num_authors": 2,
+        "rel_authors": [
+            {
+                "author_name": "Danya Schaefer",
+                "author_inst": "Des Moines University"
+            },
+            {
+                "author_name": "Jason Semprini",
+                "author_inst": "Des Moines University"
+            }
+        ],
+        "version": "1",
+        "license": "cc_by",
+        "type": "PUBLISHAHEADOFPRINT",
+        "category": "public and global health"
+    },
+    {
+        "rel_doi": "10.1101/2025.10.07.25337449",
+        "rel_title": "First-in-Human Study of a First-in-Class AI-Designed Monoclonal Antibody (GB-0669) Against the Conserved SARS-CoV-2 Spike S2 Stem Helix",
+        "rel_date": "2025-10-08",
+        "rel_site": "medRxiv",
+        "rel_link": "https://medrxiv.org/cgi/content/short/2025.10.07.25337449",
+        "rel_abs": "BackgroundAntibodies against the SARS-CoV-2 spike receptor-binding domain provided effective COVID-19 treatment until resistant variants emerged. GB-0669 is a half-life extended monoclonal antibody optimized using artificial intelligence, targeting the conserved spike S2 stem helix, a region with limited selective pressure from natural infection-or vaccine-induced antibody responses.\n\nMethodsPre-clinical safety studies were conducted in cynomolgus monkeys. In the first-in-human trial, healthy adults aged 18-55 received single intravenous doses of GB-0669 or placebo in five ascending cohorts (100, 300, 600, 1200, and 2400 mg). Participants were monitored for 43 weeks to evaluate safety, pharmacokinetics (PK), and pharmacodynamics (PD; serum live virus neutralization). In vitro studies assessed neutralization of GB-0669 combined with antiviral drugs (remdesivir, nirmatrelvir, and molnupiravir).\n\nResultsPre-clinical studies revealed no safety concerns. In the clinical trial (n=51; 36 GB-0669, 15 placebo), GB-0669 was well-tolerated without dose-limiting toxicities; all adverse reactions were mild (Grade 1 or 2). PK showed dose-proportionality up to 2400 mg, with a half-life of 54 days. Dose-dependent increases in serum live virus neutralization occurred at 600 and 1200 mg, with separation from placebo. The estimated neutralizing index that adjusts GB-0669 serum concentrations for its in vitro neutralizing potency supported therapeutic efficacy for two weeks post-administration. Finally, in vitro experiments showed improved neutralization profiles of GB-0669 in combination with antivirals.\n\nConclusionsThe data support exploring GB-0669 at 1200 mg in a Phase 2 trial for treating COVID-19 in immunocompromised individuals. The combination of GB-0669 with antiviral drugs may offer additional therapeutic benefits.",
+        "rel_num_authors": 19,
+        "rel_authors": [
+            {
+                "author_name": "Francesco Borriello",
+                "author_inst": "Generate Biomedicines"
+            },
+            {
+                "author_name": "Gavin  CKW Koh",
+                "author_inst": "Generate Biomedicines"
+            },
+            {
+                "author_name": "Inaki F. Troconiz",
+                "author_inst": "University of Navarra"
+            },
+            {
+                "author_name": "Rounak Nassirpour",
+                "author_inst": "Generate Biomedicines"
+            },
+            {
+                "author_name": "Lovely Goyal",
+                "author_inst": "Generate Biomedicines"
+            },
+            {
+                "author_name": "Anvar Suyundikov",
+                "author_inst": "Generate Biomedicines"
+            },
+            {
+                "author_name": "Akber Safder",
+                "author_inst": "PPD"
+            },
+            {
+                "author_name": "Nicholas Robertson",
+                "author_inst": "Generate Biomedicines"
+            },
+            {
+                "author_name": "Anna Allen",
+                "author_inst": "Generate Biomedicines"
+            },
+            {
+                "author_name": "Andrew Robertson",
+                "author_inst": "Generate Biomedicines"
+            },
+            {
+                "author_name": "Stephanie Straley",
+                "author_inst": "Generate Biomedicines"
+            },
+            {
+                "author_name": "Pam Farmer",
+                "author_inst": "Independent consultant"
+            },
+            {
+                "author_name": "Denise Murphy",
+                "author_inst": "Generate Biomedicines"
+            },
+            {
+                "author_name": "Eric Carlin",
+                "author_inst": "Generate Biomedicines"
+            },
+            {
+                "author_name": "Kimberly P. Schmitt",
+                "author_inst": "Generate Biomedicines"
+            },
+            {
+                "author_name": "Amarendra Pegu",
+                "author_inst": "Generate Biomedicines"
+            },
+            {
+                "author_name": "Daria Hazuda",
+                "author_inst": "Generate Biomedicines"
+            },
+            {
+                "author_name": "Alexandra Snyder",
+                "author_inst": "Generate Biomedicines"
+            },
+            {
+                "author_name": "Dinesh P. De Alwis",
+                "author_inst": "Generate Biomedicines"
+            }
+        ],
+        "version": "1",
+        "license": "cc_no",
+        "type": "PUBLISHAHEADOFPRINT",
+        "category": "infectious diseases"
+    },
+    {
+        "rel_doi": "10.1101/2025.09.30.679586",
+        "rel_title": "Identification and characterization of a SARS-CoV-2 Mpro G23 deletion ensitrelvir-resistant mutant",
+        "rel_date": "2025-10-07",
+        "rel_site": "bioRxiv",
+        "rel_link": "https://biorxiv.org/cgi/content/short/2025.09.30.679586",
+        "rel_abs": "Ensitrelvir is an antiviral drug that specifically targets the main protease (Mpro) of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) has been approved for the treatment of coronavirus disease 2019 (COVID-19) due to the conservation of its target protein which is essential in the viral lifecycle. However, SARS-CoV-2 could introduce mutations in the viral proteins to confer resistance to antivirals. Thus, screening for drug-resistant SARS-CoV-2 mutants and elucidating their resistant mechanisms are critical for guiding the selection of effective antiviral therapies. Here, we utilized a luminescent attenuated SARS-CoV-2 ({Delta}3a7b-Nluc WT) to safely identify ensitrelvir drug-resistant mutants (DRM-E) without the need of using virulent forms of SARS-CoV-2. We isolated a DRM-E containing a G23 deletion (G23del) in Mpro with high resistance (>1,000 fold) to ensitrelvir, but not to the other Mpro inhibitor (nirmatrelvir) or to the RNA-dependent RNA polymerase (RdRp) inhibitor remdesivir. The contribution of G23del was confirmed by generating a recombinant luminescent attenuated SARS-CoV-2 containing G23del in the non-structural protein 5 (NSP5) gene ({Delta}3a7b-Nluc G23del). {Delta}3a7b-Nluc G23del exhibited significant resistance to ensitrelvir in both cultured cells an in K18 hACE2 transgenic mice. Binding affinity revealed that G23del mutation substantially altered Mpro binding affinity for ensitrelvir but not nirmatrelvir. In conclusion, our results demonstrate that G23del in Mpro can confer high resistance to ensitrelvir. Positively, G23del in Mpro does not render SARS-CoV-2 resistant to nirmatrelvir or remdesivir, suggesting the feasibility of treating infections with SARS-CoV-2 containing G23del with these other approved antivirals.\n\nSIGNIFICANCEThe clinical use of SARS-CoV-2 antiviral drugs is increasingly challenged by the emergence of drug-resistant mutants. Thus, there is a pressing need to identify and characterize antiviral escape SARS-CoV-2 variants, particularly for FDA-approved antivirals. Our study addresses this by employing a luminescent attenuated virus platform ({Delta}3a7b-Nluc WT) to safely identify and characterize resistance mutations without the concern of using virulent forms of SARS-CoV-2. Using this safe approach, we have identified a G23 deletion (G23del) in SARS-CoV-2 Mpro, which mediates resistance to ensitrelvir in vitro and in vivo. Importantly, while G23del was able to confer more than 1,000-fold increased resistance to ensitrelvir, SARS-CoV-2 containing G23del remained sensitive to other Mpro (nirmatrelvir) and RdRp (remdesivir) inhibitors. Altogether, this study demonstrates the feasibility of using {Delta}3a7b-Nluc to safely identify and characterize drug resistant viruses without the biosafety concern of using virulent SARS-CoV-2 and advance the design of next-generation antiviral drugs.",
+        "rel_num_authors": 12,
+        "rel_authors": [
+            {
+                "author_name": "Yao Ma",
+                "author_inst": "Texas Biomedical Research Institute"
+            },
+            {
+                "author_name": "Chengjin Ye",
+                "author_inst": "Texas Biomedical Research Institute"
+            },
+            {
+                "author_name": "R Rahisuddin",
+                "author_inst": "UTHSCSA"
+            },
+            {
+                "author_name": "Sarah Mahmoud",
+                "author_inst": "Texas Biomedical Research Institute"
+            },
+            {
+                "author_name": "Anastasija Cupic",
+                "author_inst": "Icahn School of Medicine at Mount Sinai Department of Microbiology"
+            },
+            {
+                "author_name": "Ahmed Magdy Khalil",
+                "author_inst": "Zagazig University"
+            },
+            {
+                "author_name": "Esteban Castro",
+                "author_inst": "Texas Biomedical Research Institute"
+            },
+            {
+                "author_name": "Nathaniel Jackson",
+                "author_inst": "Texas Biomedical Research Institute"
+            },
+            {
+                "author_name": "Mahmoud Bayoumi",
+                "author_inst": "Cairo University"
+            },
+            {
+                "author_name": "Yogesh Gupta",
+                "author_inst": "University of Texas Health, San Antonio"
+            },
+            {
+                "author_name": "Richard K. Plemper",
+                "author_inst": "Georgia State University"
+            },
+            {
+                "author_name": "Luis Martinez-Sobrido",
+                "author_inst": "Texas Biomedical Research Institute"
+            }
+        ],
+        "version": "1",
+        "license": "cc_no",
+        "type": "new results",
+        "category": "microbiology"
+    },
+    {
+        "rel_doi": "10.1101/2025.10.05.25337392",
+        "rel_title": "Spatiotemporal variation of COVID-19 case time series in the United Kingdom: a dynamic time warping analysis",
+        "rel_date": "2025-10-07",
+        "rel_site": "medRxiv",
+        "rel_link": "https://medrxiv.org/cgi/content/short/2025.10.05.25337392",
+        "rel_abs": "BackgroundAnalysing the spatiotemporal variation of COVID-19 disease activity can help to identify underlying COVID-19 transmission dynamics and inform the targeting of public health responses. We explored the use of Dynamic Time Warping (DTW), a time series analysis method, to investigate the spatiotemporal variation in COVID-19 disease activity in the United Kingdom (UK) from 1 November 2020 to 19 May 2022.\n\nMethodsWe performed a DTW analysis on COVID-19 case time series stratified by the 380 Lower Tier Local Authorities (LTLAs) in the UK. First, we performed a hierarchical clustering analysis (HCA) of these time series to investigate their similarity. We then inferred the lead-lag time relationship between time series, both over the entire study period and for three distinct periods of variant emergence (Alpha, Delta and Omicron BA.1).\n\nResultsOur clustering analysis found that case time series for LTLAs of Wales, Scotland, Northern Ireland and England were closely related to LTLAs within the same nation. We identified groups of LTLAs in England with highly similar trends in case time series; these groups of LTLAs were geographically clustered despite the methodology not using any geographic information as input. The lead-lag time analysis in England showed that LTLAs in southeast England, the Manchester area, and in London each led the Alpha, Delta, and Omicron BA.1 epidemic waves respectively.\n\nConclusionWe quantified geographic heterogeneity of COVID-19 case time series in the UK using a DTW analysis. The results of our lead-lag time analysis concurred with findings of phylogeographic studies. Further studies to determine DTWs optimal settings are critical to maximising the potential of DTW in describing the spatiotemporal variation of infectious diseases such as COVID-19.",
+        "rel_num_authors": 3,
+        "rel_authors": [
+            {
+                "author_name": "Khai Lin Kong",
+                "author_inst": "The University of Melbourne"
+            },
+            {
+                "author_name": "Freya M Shearer",
+                "author_inst": "The University of Melbourne"
+            },
+            {
+                "author_name": "Oliver Eales",
+                "author_inst": "The University of Melbourne"
+            }
+        ],
+        "version": "1",
+        "license": "cc_no",
+        "type": "PUBLISHAHEADOFPRINT",
+        "category": "infectious diseases"
+    },
+    {
+        "rel_doi": "10.1101/2025.10.02.25337223",
+        "rel_title": "Nontuberculous Mycobacteria Species in Patients with Concurrent COVID-19 and Mycobacterial Disease",
+        "rel_date": "2025-10-07",
+        "rel_site": "medRxiv",
+        "rel_link": "https://medrxiv.org/cgi/content/short/2025.10.02.25337223",
+        "rel_abs": "BackgroundThe incidence of nontuberculous mycobacterial (NTM) diseases is increasing globally, with risk factors remaining poorly understood. COVID-19 may alter respiratory tract conditions affecting NTM colonization and infection patterns.\n\nObjectiveTo evaluate species diversity of NTM isolated from patients with NTM-associated diseases with and without a history of COVID-19.\n\nMethodsWe analyzed 464 clinical NTM isolates from Russian patients stratified by COVID-19 status (COVID-19+, n=271; COVID-19-, n=193). Diagnosis verification followed ATS/ERS/ESCMID/IDSA Clinical Practice Guidelines. Species identification employed MALDI-TOF mass spectrometry and molecular techniques. Statistical analyses used chi-square and Fishers exact tests with 95% confidence intervals.\n\nResultsSlowly growing species predominated in both groups (97.9% vs 98.2%, p>0.05). COVID-19 was associated with a significant 28% reduction in Mycobacterium avium complex (MAC) prevalence (94.8% vs 66.8%, p<0.05), primarily due to decreased M. avium isolation (80.3% vs 52.0%, p<0.05). Conversely, rare NTM species showed increased prevalence in COVID-19+ patients: M. kansasii complex (0% vs 8.1%, p<0.05), M. terrae complex (0% vs 3.3%, p<0.05), M. simiae complex (0.5% vs 7.0%, p<0.05), and unclassifiable species (2.6% vs 12.9%, p<0.05).\n\nConclusionsCOVID-19 significantly alters the NTM species spectrum in patients with NTM-associated diseases, with reduced MAC prevalence and increased detection of rare NTM species. These findings highlight the importance of species-level identification and may require adaptation of diagnostic and therapeutic approaches in post-COVID patients.",
+        "rel_num_authors": 6,
+        "rel_authors": [
+            {
+                "author_name": "Platon Eliseev",
+                "author_inst": "the national research center of phthisiopulmonoly and infectious diseases"
+            },
+            {
+                "author_name": "Alexandra Bairakovа",
+                "author_inst": "FSBI National Medical Research Center for Phthisiopulmonology and Infectious Diseases under the Ministry of Health of the Russian Federation: FGBU Nacional'nyj "
+            },
+            {
+                "author_name": "Anastasia Kazyulina",
+                "author_inst": "FSBI National Medical Research Center for Phthisiopulmonology and Infectious Diseases under the Ministry of Health of the Russian Federation: FGBU Nacional'nyj "
+            },
+            {
+                "author_name": "Evgeny Kuznetsov",
+                "author_inst": "FSBI National Medical Research Center for Phthisiopulmonology and Infectious Diseases under the Ministry of Health of the Russian Federation: FGBU Nacional'nyj "
+            },
+            {
+                "author_name": "Anastasia Samoilova",
+                "author_inst": "FSBI National Medical Research Center for Phthisiopulmonology and Infectious Diseases under the Ministry of Health of the Russian Federation: FGBU Nacional'nyj "
+            },
+            {
+                "author_name": "Irina Vasilieva",
+                "author_inst": "FSBI National Medical Research Center for Phthisiopulmonology and Infectious Diseases under the Ministry of Health of the Russian Federation: FGBU Nacional'nyj "
+            }
+        ],
+        "version": "1",
+        "license": "cc_by",
+        "type": "PUBLISHAHEADOFPRINT",
+        "category": "infectious diseases"
+    },
+    {
+        "rel_doi": "10.1101/2025.10.03.679858",
+        "rel_title": "Re-infection with SARS-CoV-2 is associated with increased antibody breadth and potency against diverse sarbecovirus strains",
+        "rel_date": "2025-10-06",
+        "rel_site": "bioRxiv",
+        "rel_link": "https://biorxiv.org/cgi/content/short/2025.10.03.679858",
+        "rel_abs": "The ease with which emerging SARS-CoV-2 variants escape neutralizing antibodies limits protection afforded by a prior exposure, be it infection or vaccination. While rare, broadly neutralizing antibodies with activity towards diverse sarbecoviruses have been detected in convalescent serum. Motivated by findings that plasma responses show increased neutralization breadth and potency with continued antigen exposure, we isolated monoclonal antibodies (mAbs) after a SARS-CoV-2 re-infection and compared them to those isolated one year prior, after the first breakthrough infection. Among clonal lineage members identified at both time points, mAbs from the later time point showed improved neutralization potency and breadth. One mAb isolated after re-infection, C68.490, targets a conserved region in the receptor binding domain core and shows remarkable activity not only against SARS-CoV-2 variants, but also diverse sarbecoviruses from more distant clades present in animal reservoirs. These findings suggest that a focus on individuals with diverse and repeated antigen exposure could lead to identification of antibodies with therapeutic utility not just towards current and future SARS-CoV-2 variants, but also distant sarbecoviruses in the event of a future spillover.",
+        "rel_num_authors": 13,
+        "rel_authors": [
+            {
+                "author_name": "Michelle Lilly",
+                "author_inst": "Fred Hutchinson Cancer Center"
+            },
+            {
+                "author_name": "Felicitas Ruiz",
+                "author_inst": "Fred Hutchinson Cancer Center"
+            },
+            {
+                "author_name": "Will Foreman",
+                "author_inst": "University of Utah School of Medicine"
+            },
+            {
+                "author_name": "Vrasha Chohan",
+                "author_inst": "Fred Hutchinson Cancer Research Center"
+            },
+            {
+                "author_name": "Jamie Guenthoer",
+                "author_inst": "Fred Hutchinson Cancer Center"
+            },
+            {
+                "author_name": "Delphine Depierreux",
+                "author_inst": "Fred Hutchinson Cancer Center"
+            },
+            {
+                "author_name": "Viren Baharani",
+                "author_inst": "The Rockefeller University"
+            },
+            {
+                "author_name": "Duncan Ralph",
+                "author_inst": "Fred Hutchinson Cancer Center"
+            },
+            {
+                "author_name": "Alex Harteloo",
+                "author_inst": "University of Washington"
+            },
+            {
+                "author_name": "Helen Chu",
+                "author_inst": "University of Washington"
+            },
+            {
+                "author_name": "Paul D Bieniasz",
+                "author_inst": "The Rockefeller University"
+            },
+            {
+                "author_name": "Tyler Starr",
+                "author_inst": "University of Utah School of Medicine"
+            },
+            {
+                "author_name": "Julie Overbaugh",
+                "author_inst": "Fred Hutchinson Cancer Center"
+            }
+        ],
+        "version": "1",
+        "license": "cc_by_nc_nd",
+        "type": "new results",
+        "category": "immunology"
+    },
+    {
+        "rel_doi": "10.1101/2025.10.03.680419",
+        "rel_title": "Template switching by coronavirus polymerase requires helicase activity and is stimulated by remdesivir and molnupiravir",
+        "rel_date": "2025-10-06",
+        "rel_site": "bioRxiv",
+        "rel_link": "https://biorxiv.org/cgi/content/short/2025.10.03.680419",
+        "rel_abs": "Polymerase template switching is an essential mechanism in coronaviruses (CoVs) that enables both sub-genomic (sg) RNA synthesis and increases genomic diversity via RNA recombination. Despite its importance, the molecular mechanism of CoV polymerase template switching remains unclear. Using magnetic tweezers, we show that the CoV non-structural protein (nsp) 13-helicase drives polymerase template switching, followed by copy-back RNA synthesis. This activity requires nsp13-helicase ATPase activity and a duplex RNA downstream of the CoV polymerase. This novel function of nsp13-helicase is targeted by the nucleotide analogs remdesivir and molnupiravir, whose incorporation in the nascent strand increases CoV polymerase template switching probability, leading to defective RNA production. We propose a novel mechanism of action where incorporation of these analogs dramatically reduces full length genome copy number by stimulating polymerase template switching. Our study further demonstrates nsp13-helicases central role in CoV replication and how this enzyme function can be indirectly targeted by analogs.",
+        "rel_num_authors": 19,
+        "rel_authors": [
+            {
+                "author_name": "Asif Rakib",
+                "author_inst": "VU Amsterdam"
+            },
+            {
+                "author_name": "Arnab Das",
+                "author_inst": "VU Amsterdam"
+            },
+            {
+                "author_name": "SUBHAS CHANDRA BERA",
+                "author_inst": "Friedrich-Alexander-University Erlangen-Nuremberg (FAU)"
+            },
+            {
+                "author_name": "Pim America",
+                "author_inst": "VU Amsterdam"
+            },
+            {
+                "author_name": "Misha Klein",
+                "author_inst": "VU Amsterdam"
+            },
+            {
+                "author_name": "Tommy Anderson",
+                "author_inst": "University of Wisconsin-Madison"
+            },
+            {
+                "author_name": "John C. Marecki",
+                "author_inst": "University of Arkansas for Medical Sciences"
+            },
+            {
+                "author_name": "Bing K Wang",
+                "author_inst": "The Ohio State University"
+            },
+            {
+                "author_name": "Eline Bogers",
+                "author_inst": "VU Amsterdam"
+            },
+            {
+                "author_name": "Joy Feng",
+                "author_inst": "Emory University"
+            },
+            {
+                "author_name": "John Bilello",
+                "author_inst": "Gilead Sciences"
+            },
+            {
+                "author_name": "Flavia S. Papini",
+                "author_inst": "FAU Erlangen-Nuremberg"
+            },
+            {
+                "author_name": "Quinte Smitskamp",
+                "author_inst": "VU Amsterdam"
+            },
+            {
+                "author_name": "Jamie J. Arnold",
+                "author_inst": "The University of North Carolina at Chapel Hill School of Medicine"
+            },
+            {
+                "author_name": "Irina Artsimovitch",
+                "author_inst": "The Ohio State University"
+            },
+            {
+                "author_name": "Robert Kirchdoerfer",
+                "author_inst": "University of Wisconsin-Madison"
+            },
+            {
+                "author_name": "Craig  E. Cameron",
+                "author_inst": "University of North Carolina at Chapel Hill"
+            },
+            {
+                "author_name": "Kevin D Raney",
+                "author_inst": "University of Arkansas for Medical Sciences"
+            },
+            {
+                "author_name": "David Dulin",
+                "author_inst": "VU Amsterdam-FAU Erlangen-Nuremberg"
+            }
+        ],
+        "version": "1",
+        "license": "cc_by_nc",
+        "type": "new results",
+        "category": "microbiology"
+    },
+    {
+        "rel_doi": "10.1101/2025.10.03.680220",
+        "rel_title": "Investigation of anti-SARS CoV-2 multimeric bicyclic peptide inhibitors in a range of pre-clinical therapeutic settings",
+        "rel_date": "2025-10-05",
+        "rel_site": "bioRxiv",
+        "rel_link": "https://biorxiv.org/cgi/content/short/2025.10.03.680220",
+        "rel_abs": "The spread of respiratory viruses, such as Influenza and SARS-CoV-2 has presented significant challenges over the last 30 years with few effective therapeutic options available to this day. Bi-cyclic peptides represent a unique, modular, modality in the antiviral armamentarium against future pandemics. This study provides a deeper evaluation of multivalent bi-cyclic (Bicycle(R)) molecule efficacy in several preclinical SARS-CoV-2 challenge settings. We explore both pre-exposure prophylaxis and post-exposure therapeutic settings via subcutaneous and intranasal routes of administration. We contextualize this further in bespoke scenarios of immune compromisation, and viral transmission. Promisingly, in all studies we observe efficacy, significantly reducing infectious viral burden at each study endpoint. These data further support candidacy of Bicycle molecules as a differentiated antiviral therapeutic class in the context of pandemic preparedness.\n\nImportanceThe COVID-19 pandemic, triggered a rapid wave of innovation, accelerating the delivery of new vaccine technology and anti-viral treatments. In our first paper, we described the discovery and molecular optimization of Bicycle molecules as a novel drug class for the potential treatment of SARS CoV-2. Here, we have performed deeper characterization of these molecules in established animal models that simulate SARS-CoV-2 transmission, testing more convenient delivery routes, such as intra-nasal. The Bicycle molecules demonstrated positive outcomes in each of these studies and suggest that Bicycle molecules, as convenient and effective anti-viral treatments, could be an important addition to help future preparedness against new viral pandemics.",
+        "rel_num_authors": 23,
+        "rel_authors": [
+            {
+                "author_name": "Maximilian A. J. Harman",
+                "author_inst": "BicycleTx Limited"
+            },
+            {
+                "author_name": "Katherine U. Gaynor",
+                "author_inst": "BicycleTx Limited"
+            },
+            {
+                "author_name": "Guido Papa",
+                "author_inst": "University of Siena"
+            },
+            {
+                "author_name": "Simone Pellegrino",
+                "author_inst": "BicycleTx Limited"
+            },
+            {
+                "author_name": "Gustavo Arruda Bezerra",
+                "author_inst": "BicycleTx Limited"
+            },
+            {
+                "author_name": "Brian McGuinness",
+                "author_inst": "BicycleTx Limited"
+            },
+            {
+                "author_name": "Phillip Jeffrey",
+                "author_inst": "BicycleTx Limited"
+            },
+            {
+                "author_name": "Paul Beswick",
+                "author_inst": "BicycleTx Limited"
+            },
+            {
+                "author_name": "Steven Stanway",
+                "author_inst": "BicycleTx Limited"
+            },
+            {
+                "author_name": "Katerine van Rietschoten",
+                "author_inst": "BicycleTx Limited"
+            },
+            {
+                "author_name": "Liuhong Chen",
+                "author_inst": "BicycleTx Limited"
+            },
+            {
+                "author_name": "Ieva Drulyte",
+                "author_inst": "Thermo Fisher Scientific Inc"
+            },
+            {
+                "author_name": "Joanne Herriott",
+                "author_inst": "University of Liverpool"
+            },
+            {
+                "author_name": "Edyta Kijak",
+                "author_inst": "University of Liverpool"
+            },
+            {
+                "author_name": "Eduardo Gallardo Toledo",
+                "author_inst": "University of Liverpool"
+            },
+            {
+                "author_name": "Lee Tatham",
+                "author_inst": "University of Liverpool"
+            },
+            {
+                "author_name": "Parul Sharma",
+                "author_inst": "University of Liverpool"
+            },
+            {
+                "author_name": "Eleanor Bentley",
+                "author_inst": "University of Liverpool"
+            },
+            {
+                "author_name": "Jo Sharp",
+                "author_inst": "University of Liverpool"
+            },
+            {
+                "author_name": "Adam Kirby",
+                "author_inst": "University of Liverpool"
+            },
+            {
+                "author_name": "Andrew Owen",
+                "author_inst": "University of Liverpool"
+            },
+            {
+                "author_name": "James P Stewart",
+                "author_inst": "University of Liverpool"
+            },
+            {
+                "author_name": "Michael J. Skynner",
+                "author_inst": "BicycleTx Limited"
+            }
+        ],
+        "version": "1",
+        "license": "cc_by_nc_nd",
+        "type": "new results",
+        "category": "pharmacology and toxicology"
+    },
+    {
+        "rel_doi": "10.1101/2025.09.27.25336412",
+        "rel_title": "Epidemiology and Cluster Predictions on Prevention Strategies of SARS CoV-2 Cases from 2019-2024 in Selected Districts of Zambia.",
+        "rel_date": "2025-10-05",
+        "rel_site": "medRxiv",
+        "rel_link": "https://medrxiv.org/cgi/content/short/2025.09.27.25336412",
+        "rel_abs": "BackgroundThe Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) has continued to be a global health threat despite many interventions put with new variants noticed. There is scarce information on SARS-CoV-2 predisposing factors in relation to the proximate-determinant framework in Zambia. This study aimed to determine epidemiological and cluster predictions on prevention strategies of SARS-CoV-2 cases in Zambia 2019-2024 in rural and urban settings.\n\nMaterials and MethodsAn exploratory sequential mixed method study conducted in three districts; Ndola (Urban), Kafue (Peri-urban) and Lufwanyama (Rural). The target population were all the reported and recorded SARS CoV-2 cases above 15 years and all active cases. Study conducted; 81 random hospital-patient reviews, 21 face-to-face interviews, 5 systematic reviews and an addition 426 telephone survey. The participants were sampled using mixed mode sampling technique. Data was collected using records, structured questionnaires and interviews. STATA(Ver.17) as well as thematic analysis were employed.\n\nResults624 participated in this study with 528 cases having had tested or confirmed records of SARS CoV-2 test status with mean age 32 (SD10.3). There were more 271 (51.33%) males than 257 (48.7%) females with 80% listing home and work (67%) as places where they had spent over 8 hours of their time respectively. Persons observed at risk of severe cases of infection were; elderly males above 49 years (cOR=2.13, 95% CI: 1.16-3.89, p<0.014), and those who had other co-morbidities (43%). Participants aged 49 years and above and had experienced symptoms of SARS-CoV-2 had a significant effect on testing positive. (p<0.001). Twenty-one (21) were active cases with a pooled prevalence of 3.7%.\n\nConclusionMajority of the population were knowledgeable about the causes, transmission risks and the SARS CoV-2 prevention guidelines. Failure to adhere to the stipulated SARS CoV-2 prevention guidelines accounted for most of the increases transmission rate among the sub-populations. Adults above 49 years with other co-commodities and not vaccinated were the most affected with the infection",
+        "rel_num_authors": 3,
+        "rel_authors": [
+            {
+                "author_name": "Enock  Wabenga Robert Wantakisha",
+                "author_inst": "Chreso University"
+            },
+            {
+                "author_name": "Stanley  S. Nyirenda",
+                "author_inst": "Central Veterinary Research Institute"
+            },
+            {
+                "author_name": "Mony Narayani",
+                "author_inst": "Chreso University"
+            }
+        ],
+        "version": "1",
+        "license": "cc_no",
+        "type": "PUBLISHAHEADOFPRINT",
+        "category": "epidemiology"
+    },
+    {
+        "rel_doi": "10.1101/2025.10.02.25337138",
+        "rel_title": "TACO: TabPFN Augmented Causal Outcomes for Early Detection of Long COVID",
+        "rel_date": "2025-10-05",
+        "rel_site": "medRxiv",
+        "rel_link": "https://medrxiv.org/cgi/content/short/2025.10.02.25337138",
+        "rel_abs": "Long COVID affects 10-40% of COVID-19 survivors, yet early detection remains challenging. We present TACO (TabPFN Augmented Causal Outcomes), a framework that uniquely combines causal inference with foundation models for presymptomatic Long COVID detection. TACO employs Differential Causal Effect (DCE) analysis to identify causally relevant genes, then utilizes TabPFN, a foundation model that does not require hyperparameter adjustment, to achieve consistent performance. In comprehensive benchmarking, TACO achieved superior precision using 18% fewer features than conventional approaches. Critically, TACO maintains consistent performance without any hyperparameter optimization, while benchmark models show variable results depending on the tuning. The causal genes of the framework provide biological interpretability, with 23.6% validated in the Long COVID literature (4.72-fold enrichment, p = 5.04 x 10-39), including regulators of viral entry (AR, TMPRSS2 ), immune response (TP53, CDKN1A), and tissue remodeling (SMAD2/3 ). By prioritizing causal mechanisms over statistical associations and eliminating the need for hyperparameter search, TACO offers a practical, interpretable solution for clinical deployment, transforming Long COVID management from reactive diagnosis to proactive prevention.",
+        "rel_num_authors": 9,
+        "rel_authors": [
+            {
+                "author_name": "Sindy Licette Pinero",
+                "author_inst": "University of South Australia"
+            },
+            {
+                "author_name": "Xiaomei Li",
+                "author_inst": "Commonwealth Scientific and Industrial Research Organisation"
+            },
+            {
+                "author_name": "Lin Liu",
+                "author_inst": "University of South Australia"
+            },
+            {
+                "author_name": "Jiuyong Li",
+                "author_inst": "University of South Australia"
+            },
+            {
+                "author_name": "Sang Hong Lee",
+                "author_inst": "University of South Australia"
+            },
+            {
+                "author_name": "Marnie Winter",
+                "author_inst": "University of South Australia"
+            },
+            {
+                "author_name": "Thin Nguyen",
+                "author_inst": "Deakin University"
+            },
+            {
+                "author_name": "Junpeng Zhang",
+                "author_inst": "Dali University"
+            },
+            {
+                "author_name": "Thuc Duy Le",
+                "author_inst": "University of South Australia"
+            }
+        ],
+        "version": "1",
+        "license": "cc_by_nc_nd",
+        "type": "PUBLISHAHEADOFPRINT",
+        "category": "genetic and genomic medicine"
+    },
+    {
+        "rel_doi": "10.1101/2025.09.28.25336743",
+        "rel_title": "SARS-CoV-2 cross-reactive B-cells outnumber seasonal coronavirus spike-specific clones at the end of the COVID-19 pandemic",
+        "rel_date": "2025-10-05",
+        "rel_site": "medRxiv",
+        "rel_link": "https://medrxiv.org/cgi/content/short/2025.09.28.25336743",
+        "rel_abs": "B-cell responses towards seasonal human coronaviruses (sHCoVs), particularly OC43, impacted those towards SARS-CoV-2 due to immune imprinting in severe COVID-19 patients. However, little is known on how widespread SARS-CoV-2 circulation and COVID-19 vaccination campaigns over the course of the pandemic affected immunity towards sHCoVs in the general population.\n\nTo explore potential differences in immune recognition of sHCoVs in immunocompetent adults, we compared two cross-sectional cohorts: one sampled between 2018 and 2019 (pre-pandemic), the other at the end of the pandemic (February - March 2023). We compared serum IgG and IgA titers, antibody cross-reactivity patterns at the clonal level, and specificity towards Spike (S) domains for all sHCoVs and dominant SARS-CoV-2 variants by B-cell analysis. Subsequently, we determined the OC43 neutralization potential of sera and monoclonal antibodies targeting different S domains.\n\nIn pre-pandemic individuals, SARS-CoV-2-reactive antibody and B-cell levels, and sHCoV/SARS-CoV-2 cross-reactivity were negligible. IgA and IgG reactivity against the S of sHCoVs was distributed over spike domain 1 and 2 (S1, S2). In end-pandemic donors, SARS-CoV-2-specific immune responses strongly dominated and the majority of sHCoV reactive clones cross-reacted with SARS-CoV-2. The SARS-CoV-2/sHCoVs cross-reactive clones accounted for higher NL63 S1- and OC43 S2-specific B-cell frequencies and matched higher serum antibody titers. For OC43, the immunodominance of SARS-CoV-2/OC43 cross-reactive IgG B-cells resulted in a strong bias towards S2. Serum OC43 neutralization titers were higher in end-pandemic donors and correlated with OC43 S1 and S2-specific IgG titers and reactive B-cells frequencies. However, the SARS-CoV-2/OC43 S2 cross-reactive IgG clones did not independently correlate with OC43 neutralization titers.\n\nWe conclude that the establishment of SARS-CoV-2-specific immune responses altered responses to sHCoVs in our cohort, particularly for OC43 and NL63. This could have implications for the immune protection and offers insights for the development of pan-coronavirus treatments and vaccines.",
+        "rel_num_authors": 13,
+        "rel_authors": [
+            {
+                "author_name": "Cristina Gonzalez Lopez",
+                "author_inst": "Department of Viroscience, Erasmus University Medical Center, Rotterdam, The Netherlands"
+            },
+            {
+                "author_name": "Muriel Aguilar-Bretones",
+                "author_inst": "Department of Viroscience, Erasmus University Medical Center, Rotterdam, The Netherlands"
+            },
+            {
+                "author_name": "Jingshu Zhang",
+                "author_inst": "Department of Viroscience, Erasmus University Medical Center, Rotterdam, The Netherlands"
+            },
+            {
+                "author_name": "Batuhan Bekki",
+                "author_inst": "Department of Viroscience, Erasmus University Medical Center, Rotterdam, The Netherlands"
+            },
+            {
+                "author_name": "Petra van den Doel",
+                "author_inst": "Department of Viroscience, Erasmus University Medical Center, Rotterdam, The Netherlands"
+            },
+            {
+                "author_name": "Eric C. van Gorp",
+                "author_inst": "Department of Viroscience, Erasmus University Medical Center, Rotterdam, The Netherlands"
+            },
+            {
+                "author_name": "P. Hugo M. van der Kuy",
+                "author_inst": "Department of Hospital Pharmacy, Erasmus University Medical Center, Rotterdam, the Netherlands"
+            },
+            {
+                "author_name": "Bart L. Haagmans",
+                "author_inst": "Department of Viroscience, Erasmus University Medical Center, Rotterdam, The Netherlands"
+            },
+            {
+                "author_name": "Corine H. GeurtsvanKessel",
+                "author_inst": "Department of Viroscience, Erasmus University Medical Center, Rotterdam, The Netherlands"
+            },
+            {
+                "author_name": "Marion P.G. Koopmans",
+                "author_inst": "Department of Viroscience, Erasmus University Medical Center, Rotterdam, The Netherlands"
+            },
+            {
+                "author_name": "Rory D. de Vries",
+                "author_inst": "Department of Viroscience, Erasmus University Medical Center, Rotterdam, The Netherlands"
+            },
+            {
+                "author_name": "Marit J. van Gils",
+                "author_inst": "Department of Medical Microbiology and Infection Prevention, Amsterdam University Medical Center, The Netherlands"
+            },
+            {
+                "author_name": "Gijsbert P. van Nierop",
+                "author_inst": "Department of Viroscience, Erasmus University Medical Center, Rotterdam, The Netherlands"
+            }
+        ],
+        "version": "1",
+        "license": "cc_by_nc_nd",
+        "type": "PUBLISHAHEADOFPRINT",
+        "category": "infectious diseases"
+    },
+    {
+        "rel_doi": "10.1101/2025.09.30.679491",
+        "rel_title": "Oral Microbiota Composition in Children and Adults During Spanish COVID-19 Lockdown: Impact of Home Self-Confinement and SARS-CoV-2 infection",
+        "rel_date": "2025-10-04",
+        "rel_site": "bioRxiv",
+        "rel_link": "https://biorxiv.org/cgi/content/short/2025.09.30.679491",
+        "rel_abs": "BackgroundThe COVID-19 pandemic changed societys habits and customs due to the social restrictions and health measures imposed during the first half of 2020. This study analyzes the composition of the oral microbiota in relation to age, household cohabitation, SARS-CoV-2 infection, and COVID-19 severity among children and adults under home confinement in Barcelona, Spain.\n\nMethodsA prospective study conducted involving children and adults confined during the COVID-19 pandemic in the Barcelona Metropolitan Area between April and June 2020 included multiple cases of several participants living within the same family household. Saliva samples were collected from all participants, and microbiota composition was characterized through 16S rRNA gene sequencing.\n\nResultsA total of 142 adults and 265 children living in 121 family households were included in the study. All 142 adults had a prior confirmed SARS-CoV-2 infection, and 20 (14.08%) of them had a history of severe COVID-19. SARS-CoV2 infection was detected in 58/265 (21.89%) of children; all of them were asymptomatic. Oral microbiota composition and diversity did not differ by SARS-CoV-2 infection status in children. In contrast, adults with severe COVID-19 exhibited lower microbiota diversity and distinct microbiota composition compared to those with mild disease symptoms. Age-related differences in oral microbiota composition were marked in the younger children groups. Additionally, cohabiting individuals shared more Amplicon Sequence Variants (ASVs) than non-cohabitants.\n\nConclusionsAge and cohabitation strongly influenced oral microbial composition. Our study demonstrates that oral microbiota composition in adults varies according to COVID-19 severity, whereas such microbial shifts are not observed in asymptomatic pediatric populations, regardless of infection status.",
+        "rel_num_authors": 13,
+        "rel_authors": [
+            {
+                "author_name": "Miguel Blanco-Fuertes",
+                "author_inst": "Centro de Investigacion Biomedica en Red"
+            },
+            {
+                "author_name": "Gerard Gonzalez-Colomino",
+                "author_inst": "Institut de Recerca Sant Joan de Déu"
+            },
+            {
+                "author_name": "Pedro Brotons",
+                "author_inst": "Institut de Recerca Sant Joan de Déu"
+            },
+            {
+                "author_name": "Aleix Lluansí",
+                "author_inst": "Institut de Recerca Sant Joan de Deu"
+            },
+            {
+                "author_name": "Rosauro Varo",
+                "author_inst": "ISGlobal, Hospital Clínic - Universitat de Barcelona"
+            },
+            {
+                "author_name": "Desiree Henares",
+                "author_inst": "University Hospital Sant Joan de Deu"
+            },
+            {
+                "author_name": "Cristian Launes",
+                "author_inst": "University Hospital Sant Joan de Deu"
+            },
+            {
+                "author_name": "Maria Cisneros",
+                "author_inst": "Institut de Recerca Sant Joan de Deu"
+            },
+            {
+                "author_name": "Mariona F. de Sevilla",
+                "author_inst": "Department of Surgery and Medical-Surgical Specialties. Faculty of Medicine and Health Sciences. University of Barcelona"
+            },
+            {
+                "author_name": "Juan-José García-García",
+                "author_inst": "Department of Surgery and Medical-Surgical Specialties. Faculty of Medicine and Health Sciences. University of Barcelona"
+            },
+            {
+                "author_name": "Álex Mira",
+                "author_inst": "Fundació per al Foment de la Investigació Sanitària i Biomèdica de la Comunitat Valenciana (Fisabio)"
+            },
+            {
+                "author_name": "Quique Bassat",
+                "author_inst": "Barcelona Institute for Global Health (ISGlobal)"
+            },
+            {
+                "author_name": "Carmen Muñoz-Almagro",
+                "author_inst": "Institut de Recerca Sant Joan de Deu, Hospital Sant Joan de Deu Barcelona"
+            }
+        ],
+        "version": "1",
+        "license": "cc_by_nc_nd",
+        "type": "new results",
+        "category": "microbiology"
+    },
+    {
+        "rel_doi": "10.1101/2025.09.22.677528",
+        "rel_title": "Computational Analysis of Silent Mutation Effects on SARS-CoV-2 RNA-Host RNA-Binding Protein Interactome",
+        "rel_date": "2025-10-03",
+        "rel_site": "bioRxiv",
+        "rel_link": "https://biorxiv.org/cgi/content/short/2025.09.22.677528",
+        "rel_abs": "Graphical Abstract\n\nO_FIG O_LINKSMALLFIG WIDTH=200 HEIGHT=138 SRC=\"FIGDIR/small/677528v1_ufig1.gif\" ALT=\"Figure 1\">\nView larger version (27K):\norg.highwire.dtl.DTLVardef@131df69org.highwire.dtl.DTLVardef@1429b6corg.highwire.dtl.DTLVardef@1ea0eacorg.highwire.dtl.DTLVardef@1696837_HPS_FORMAT_FIGEXP  M_FIG C_FIG AbstractRNA-Binding proteins (RBPs) play critical roles in host-virus interaction. They facilitate the regulation of viral RNA (vRNA) turnover by recognizing and forming complexes with the vRNA structure via specific RNA motifs-RNA binding domain interaction. However, due to consistent evolving nature of viruses, silent mutations in the viral genome can impact RBP-vRNA binding thereby altering the RNA processing. While efforts have been made in characterizing other forms of mutations leading to changes in amino acids sequence in SARS-CoV-2 variants, details on how silent mutations impact RBP-vRNA interaction remain limited. Here, we use extensive in silico mutagenesis to introduce silent mutations in the SARS-CoV-2 genome to generate four different synthetic variants and map the interaction of the variants and the wild-type with a catalogue of human RBPs. Our result shows variation in accumulation and reduction of the RBPs binding motifs in the variants compared to the virus reference sequence on a global scale and at the UTRs. The majority of the RBPs with AU-rich binding motifs are reduced in the variants, while RBPs with mostly GC-rich motifs accumulate more binding positions, suggesting that a single change from U/A to G/C and vice versa can impact RBP- viral interactions. Furthermore, we use structural analysis to show the interaction of the vRNA with PUF60 and KHDRBS3 proteins, two RBPs that have not been previously implicated in SARS-CoV- 2 interactome. Our findings show that loss to the conserved poly(U) in PUF60 binding motifs in some of the variants affects its interaction with the protein at the 5' end, which may disrupt the function of the protein as an anti-viral RNA regulator. We also predicted the key residues in KHDRBS3 interacting with its binding motif in the wild-type at the 3' end, while noting that the vRNA structural changes in the variants may contribute to the loss of this interaction. Overall, our predictions contribute to the insights into virus evolution and pathogenicity of potential new variants due to the impact of synonymous changes in the nucleotide sequences on protein-RNA interaction.",
+        "rel_num_authors": 15,
+        "rel_authors": [
+            {
+                "author_name": "Adebayo Joseph Bello",
+                "author_inst": "Department of Biological Sciences, Redeemers University, Ede, Osun State, Nigeria; Present Address: School of Pharmacy and Biomolecular Sciences, Liverpool John"
+            },
+            {
+                "author_name": "Onyeka S. Chukwudozie",
+                "author_inst": "La Jolla Institute for Immunology 9420 Athena Circle La Jolla, CA 92037. Department of Biological Science, University of California San Diego, CA 92161, USA."
+            },
+            {
+                "author_name": "Olajumoke B. Oladapo",
+                "author_inst": "Department of Cell Biology and Genetics, University of Lagos, Lagos, Nigeria. Present Address: Stephenson School of Biomedical Engineering, University of Oklaho"
+            },
+            {
+                "author_name": "Ayomide O. Omotuyi",
+                "author_inst": "Department of Cell Biology and Genetics, University of Lagos, Lagos, Nigeria."
+            },
+            {
+                "author_name": "Nnamdi A. Nzoniwu",
+                "author_inst": "Department of Cell Biology and Genetics, University of Lagos, Lagos, Nigeria."
+            },
+            {
+                "author_name": "Oluwafemi D. Amusa",
+                "author_inst": "Department of Cell Biology and Genetics, University of Lagos, Lagos, Nigeria."
+            },
+            {
+                "author_name": "Bodunrin O. Ottu",
+                "author_inst": "Department of Cell Biology and Genetics, University of Lagos, Lagos, Nigeria."
+            },
+            {
+                "author_name": "Ugochukwu Okeke",
+                "author_inst": "Department of Cell Biology and Genetics, University of Lagos, Lagos, Nigeria."
+            },
+            {
+                "author_name": "Abeebat O. Adewole",
+                "author_inst": "Arizona Department of Health Services State Laboratory, Arizona, Phoenix, AZ 85007, USA"
+            },
+            {
+                "author_name": "Ololade O. Akinnusi",
+                "author_inst": "Department of Microbiology, University of Lagos, Lagos, Nigeria."
+            },
+            {
+                "author_name": "Ayomikun E. Kade",
+                "author_inst": "Department of Microbiology, University of Lagos, Lagos, Nigeria."
+            },
+            {
+                "author_name": "Joseph B. Minari",
+                "author_inst": "Department of Cell Biology and Genetics, University of Lagos, Lagos, Nigeria"
+            },
+            {
+                "author_name": "Joy Okpuzor",
+                "author_inst": "Department of Cell Biology and Genetics, University of Lagos, Lagos, Nigeria."
+            },
+            {
+                "author_name": "Onikepe Folarin",
+                "author_inst": "Department of Biological Sciences, Redeemer's University, Ede, Osun State, Nigeria."
+            },
+            {
+                "author_name": "Mujeeb O. Shittu",
+                "author_inst": "Department of Biotechnical and Clinical Laboratory Science, Jacobs School of Medicine and Biomedical Sciences, University at Buffalo, Buffalo, New York, USA"
+            }
+        ],
+        "version": "1",
+        "license": "cc_by_nc",
+        "type": "new results",
+        "category": "bioinformatics"
+    }
+]
