@@ -64,12 +64,6 @@ source venv/bin/activate  # Linux/Mac
 venv\Scripts\activate     # Windows
 ```
 
-### Step 3: Install required packages
-
-```bash
-pip install -r requirements.txt
-```
-
 ---
 
 ## 🚀 Usage
