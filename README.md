@@ -52,7 +52,7 @@ medrxiv_knowledge_graph/
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/medrxiv-knowledge-graph.git
+git clone https://github.com/D-L-C-S/medrxiv-knowledge-graph.git
 cd medrxiv-knowledge-graph
 ```
 
