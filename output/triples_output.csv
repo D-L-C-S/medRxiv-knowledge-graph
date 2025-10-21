@@ -1,71 +1,81 @@
-entity_1,relation,entity_2,confidence
-JN.1/KP.2,LABEL_1,S-induced,0.5238095238095238
-{Delta}3a7b-Nluc,LABEL_1,RBD,0.525
-ARM,LABEL_1,RBD,0.5333333333333333
-SARS-CoV-2 infection,LABEL_1,inflammation,0.5714285714285714
-SARS-CoV-2 infection,LABEL_1,infection,0.75
-infection,LABEL_1,inflammation,0.5833333333333333
-viral infection,LABEL_1,infection,0.75
-AXiAEC,LABEL_1,SARS-CoV-2 infection,0.5333333333333333
-AXiAEC,LABEL_1,infection,0.53125
-ALI,LABEL_1,SARS-CoV-2 infection,0.5833333333333333
-ALI,LABEL_1,infection,0.5714285714285714
-AXiAEC,LABEL_1,ALI,0.5625
-LOC SARS-CoV-2 infection,LABEL_1,SARS-CoV-2 infection,0.75
-LOC SARS-CoV-2 infection,LABEL_1,infection,0.6666666666666666
-trametinib,LABEL_1,sorafenib,0.6666666666666666
-trametinib,LABEL_1,coronavirus infections,0.5416666666666666
-sorafenib,LABEL_1,coronavirus infections,0.55
-Tyrosine,LABEL_1,pan-coronaviruses infection,0.5416666666666666
-riboflavin tetrabutyrate,LABEL_1,RTB,0.625
-nilotinib,LABEL_1,tecovirimat,0.5277777777777778
-nilotinib,LABEL_1,ST-246,0.5217391304347826
-tecovirimat,LABEL_1,ST-246,0.5833333333333333
-urea,LABEL_1,hydrogen bond donor,0.6
-once-daily,LABEL_1,SARS-CoV-2 infection,0.5555555555555556
-uridine,LABEL_1,ARCA,0.5833333333333333
-PASC,LABEL_1,infection,0.5714285714285714
-PASC,LABEL_1,infected with SARS-CoV-2 and viral,0.6
-infected with SARS-CoV-2 and viral,LABEL_1,infection,0.5277777777777778
-infection,LABEL_1,neurocognitive and behavioral impairments,0.5714285714285714
-infection,LABEL_1,neuroinflammation,0.5238095238095238
-neurocognitive and behavioral impairments,LABEL_1,neuroinflammation,0.5333333333333333
-inflammation,LABEL_1,PASC,0.5833333333333333
-neuroinflammation,LABEL_1,PASC,0.6666666666666666
-PASC,LABEL_1,inflammation,0.5333333333333333
-PASC,LABEL_1,chronic disease,0.5294117647058824
-neuroinflammation,LABEL_1,inflammation,0.5294117647058824
-neuroinflammation,LABEL_1,chronic disease,0.5263157894736842
-inflammation,LABEL_1,chronic disease,0.6666666666666666
-anti-CD44,LABEL_1,infection,0.5217391304347826
-weight loss,LABEL_1,infection,0.5384615384615384
-anti-CD44,LABEL_1,weight loss,0.5454545454545454
-pulmonary infection,LABEL_1,infection,0.75
-mucormycosis,LABEL_1,diabetes,0.5454545454545454
-zinc,LABEL_1,mucormycosis,0.5555555555555556
-Rhizopus arrhizus,LABEL_1,mucormycosis,0.5555555555555556
-zinc,LABEL_1,Rhizopus arrhizus,0.625
-zinc,LABEL_1,hydrogen peroxide,0.515625
-zinc,LABEL_1,sodium chloride,0.5131578947368421
-hydrogen peroxide,LABEL_1,sodium chloride,0.5714285714285714
-amphotericin B,LABEL_1,posaconazole,0.625
-ergosterol,LABEL_1,chitosan,0.625
-ergosterol,LABEL_1,iron,0.5357142857142857
-chitosan,LABEL_1,iron,0.5454545454545454
-zinc,LABEL_1,iron,0.52
-Rhizopus arrhizus,LABEL_1,iron,0.5227272727272727
-coronavirus infection,LABEL_1,infection,0.75
-upper respiratory tract,LABEL_1,infection,0.5263157894736842
-respiratory disease,LABEL_1,infection,0.5555555555555556
-cough,LABEL_1,headache,0.6666666666666666
-cough,LABEL_1,fatigue,0.5833333333333333
-headache,LABEL_1,fatigue,0.625
-HPV-associated cancer,LABEL_1,cancer,0.75
-PK,LABEL_1,PD,0.5714285714285714
-Respiratory Syndrome,LABEL_1,coronavirus disease 2019,0.5333333333333333
-"nirmatrelvir or remdesivir, suggesting the feasibility of treating",LABEL_1,infections,0.55
-nontuberculous mycobacterial,LABEL_1,NTM,0.625
-NTM,LABEL_1,infection,0.625
-NTM,LABEL_1,NTM-associated diseases,0.5833333333333333
-Mycobacterium avium,LABEL_1,avium,0.75
-NTM,LABEL_1,terrae,0.52
+source,relation,target,confidence
+JN.1/KP.2,associated_with,S-induced,0.390625
+RBD,associated_with,{Delta}3a7b-Nluc,0.4385964912280701
+RBD,associated_with,ARM,0.8264462809917356
+{Delta}3a7b-Nluc,associated_with,ARM,0.5263157894736842
+RBD,treated_by,ARM,0.5681818181818182
+SARS-CoV-2 infection,causes,inflammation,0.6993006993006994
+SARS-CoV-2 infection,causes,infection,0.9009009009009008
+inflammation,causes,infection,0.7575757575757576
+viral infection,associated_with,infection,0.9433962264150942
+SARS-CoV-2 infection,associated_with,infection,0.9009009009009008
+SARS-CoV-2 infection,associated_with,AXiAEC,0.5524861878453039
+infection,associated_with,AXiAEC,0.5208333333333334
+SARS-CoV-2 infection,associated_with,ALI,0.819672131147541
+infection,associated_with,ALI,0.7518796992481203
+AXiAEC,associated_with,ALI,0.6802721088435374
+SARS-CoV-2 infection,associated_with,LOC SARS-CoV-2 infection,0.9615384615384616
+infection,associated_with,LOC SARS-CoV-2 infection,0.8695652173913044
+infection,associated_with,viral infections,0.9433962264150942
+trametinib,associated_with,sorafenib,0.8695652173913044
+trametinib,treats,coronavirus infections,0.5813953488372093
+sorafenib,treats,coronavirus infections,0.6369426751592357
+Tyrosine,associated_with,pan-coronaviruses infection,0.6493506493506493
+riboflavin tetrabutyrate,associated_with,RTB,0.7936507936507936
+nilotinib,associated_with,tecovirimat,0.4716981132075471
+nilotinib,associated_with,ST-246,0.4219409282700421
+tecovirimat,associated_with,ST-246,0.8
+urea,associated_with,hydrogen bond donor,0.8064516129032259
+SARS-CoV-2 infection,treated_by,once-daily,0.6622516556291391
+uridine,associated_with,ARCA,0.6993006993006994
+PASC,associated_with,infection,0.7633587786259541
+PASC,associated_with,infected with SARS-CoV-2 and viral,0.8620689655172414
+infection,associated_with,infected with SARS-CoV-2 and viral,0.4761904761904761
+infection,associated_with,neurocognitive and behavioral impairments,0.6944444444444444
+infection,associated_with,neuroinflammation,0.398406374501992
+infection,associated_with,inflammation,0.390625
+neurocognitive and behavioral impairments,associated_with,neuroinflammation,0.4830917874396134
+neurocognitive and behavioral impairments,associated_with,inflammation,0.4716981132075471
+neuroinflammation,associated_with,inflammation,0.9523809523809524
+PASC,associated_with,inflammation,0.6896551724137931
+PASC,associated_with,neuroinflammation,0.819672131147541
+PASC,associated_with,chronic disease,0.4672897196261683
+infection,causes,neuroinflammation,0.7246376811594204
+infection,causes,inflammation,0.7518796992481203
+infection,causes,chronic disease,0.5050505050505051
+neuroinflammation,causes,inflammation,0.9523809523809524
+neuroinflammation,causes,chronic disease,0.4237288135593219
+inflammation,causes,chronic disease,0.4329004329004329
+infection,treated_by,anti-CD44,0.4166666666666667
+infection,associated_with,weight loss,0.6369426751592357
+anti-CD44,treats,weight loss,0.5464480874316939
+infection,associated_with,pulmonary infection,0.9090909090909092
+mucormycosis,causes,diabetes,0.5181347150259067
+mucormycosis,associated_with,zinc,0.625
+mucormycosis,associated_with,Rhizopus arrhizus,0.6493506493506493
+zinc,associated_with,Rhizopus arrhizus,0.8403361344537815
+zinc,associated_with,hydrogen peroxide,0.3663003663003663
+zinc,associated_with,sodium chloride,0.3278688524590164
+hydrogen peroxide,associated_with,sodium chloride,0.7575757575757576
+amphotericin B,associated_with,posaconazole,0.8403361344537815
+ergosterol,associated_with,chitosan,0.8
+ergosterol,associated_with,iron,0.5050505050505051
+chitosan,associated_with,iron,0.5780346820809249
+zinc,associated_with,iron,0.3759398496240601
+Rhizopus arrhizus,associated_with,iron,0.4237288135593219
+coronavirus infection,associated_with,infection,0.8928571428571428
+upper respiratory tract,associated_with,infection,0.4761904761904761
+infection,associated_with,respiratory disease,0.6666666666666666
+cough,associated_with,headache,0.9345794392523364
+cough,associated_with,fatigue,0.8264462809917356
+headache,associated_with,fatigue,0.8771929824561403
+cancer,associated_with,HPV-associated cancer,0.8695652173913044
+PD,associated_with,PK,0.7874015748031495
+Respiratory Syndrome,associated_with,coronavirus disease 2019,0.53475935828877
+"nirmatrelvir or remdesivir, suggesting the feasibility of treating",associated_with,infections,0.5988023952095809
+nontuberculous mycobacterial,associated_with,NTM,0.7692307692307692
+NTM,associated_with,infection,0.8264462809917356
+NTM,associated_with,NTM-associated diseases,0.7575757575757576
+Mycobacterium avium,associated_with,avium,0.8771929824561403
+NTM,associated_with,terrae,0.4807692307692307
+Respiratory Syndrome,associated_with,SARS,0.7352941176470589
