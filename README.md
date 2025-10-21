@@ -24,17 +24,25 @@ The pipeline extracts entities and relations from medRxiv abstracts and construc
 ```
 medrxiv_knowledge_graph/
 │
-├── 1_data_collection.ipynb       # Collect raw abstracts from medRxiv
-├── 2_relation_extraction.ipynb   # Extract candidate relations between entities
-├── 3_graph_construction.ipynb    # Convert entities and relations to a graph
-├── 4_export_results.ipynb        # Export nodes and edges for analysis
+├── src/
+│   ├── 1_data_collection.ipynb       # Collect raw abstracts from medRxiv
+│   ├── 2_relation_extraction.ipynb   # Extract candidate relations between entities
+│   ├── 3_graph_construction.ipynb    # Convert entities and relations into a graph
+│   └── 4_export_results.ipynb        # Export nodes and edges for downstream tasks
 │
 ├── data/
-│   ├── abstracts_raw.json        # Collected abstracts
-│   ├── entities_extracted.csv    # Extracted entities
-│   └── relations.csv             # Extracted relations
+│   ├── abstracts_raw.json            # Collected abstracts
+│   ├── entities_extracted.csv        # Extracted biomedical entities
+│   └── relations.csv                 # Identified relationships between entities
 │
-└── README.md                      # Project documentation
+├── models/
+│   └── en_ner_bc5cdr_md-0.5.4.tar.gz  # Pre-trained NLP model for entity extraction
+│
+├── output/
+│   ├── knowledge_graph_interactive.html  # Interactive HTML visualization of the knowledge graph
+│   └── triples_output.csv               # CSV format of the knowledge graph (nodes and edges)
+│
+└── README.md                          # Project documentation
 ```
 
 ---
@@ -60,12 +68,6 @@ venv\Scripts\activate     # Windows
 
 ```bash
 pip install -r requirements.txt
-```
-
-### Step 4: Download NLP model
-
-```bash
-python -m spacy download en_core_web_sm
 ```
 
 ---
