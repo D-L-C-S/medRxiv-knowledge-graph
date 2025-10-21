@@ -1,74 +1,71 @@
 entity_1,relation,entity_2,confidence
-trametinib,identify,sorafenib,0.6666666666666666
-trametinib,identify,coronavirus infections,0.5416666666666666
-sorafenib,identify,coronavirus infections,0.55
-Tyrosine,perform,pan-coronaviruses infection,0.5416666666666666
-riboflavin tetrabutyrate,identify,RTB,0.625
-nilotinib,show,tecovirimat,0.5277777777777778
-nilotinib,show,ST-246,0.5217391304347826
-tecovirimat,show,ST-246,0.5833333333333333
-urea,replace,hydrogen bond donor,0.6
-once-daily,lead,SARS-CoV-2 infection,0.5555555555555556
-uridine,contain,ARCA,0.5833333333333333
-PASC,develop,infection,0.5714285714285714
-PASC,infect,infection,0.5227272727272727
-PASC,identify,infected with SARS-CoV-2 and viral,0.6
-infected with SARS-CoV-2 and viral,identify,infection,0.5277777777777778
-infection,exhibit,neurocognitive and behavioral impairments,0.5714285714285714
-infection,exhibit,neuroinflammation,0.5238095238095238
-neurocognitive and behavioral impairments,exhibit,neuroinflammation,0.5333333333333333
-inflammation,mediate,PASC,0.5833333333333333
-neuroinflammation,present,PASC,0.6666666666666666
-PASC,present,inflammation,0.5333333333333333
-PASC,present,chronic disease,0.5294117647058824
-neuroinflammation,present,inflammation,0.5294117647058824
-neuroinflammation,present,chronic disease,0.5263157894736842
-inflammation,regulate,chronic disease,0.6666666666666666
-anti-CD44,confer,infection,0.5217391304347826
-weight loss,reduce,infection,0.5384615384615384
-anti-CD44,confer,weight loss,0.5454545454545454
-pulmonary infection,prevent,infection,0.75
-mucormycosis,increase,diabetes,0.5454545454545454
-zinc,associate,mucormycosis,0.5555555555555556
-zinc,elucidate,mucormycosis,0.5416666666666666
-Rhizopus arrhizus,elucidate,mucormycosis,0.5555555555555556
-zinc,elucidate,Rhizopus arrhizus,0.625
-zinc,evaluate,hydrogen peroxide,0.515625
-zinc,evaluate,sodium chloride,0.5131578947368421
-hydrogen peroxide,evaluate,sodium chloride,0.5714285714285714
-amphotericin B,unknown,posaconazole,0.625
-ergosterol,associate,chitosan,0.625
-ergosterol,associate,iron,0.5357142857142857
-chitosan,associate,iron,0.5454545454545454
-zinc,support,mucormycosis,0.5161290322580645
-zinc,support,Rhizopus arrhizus,0.625
-zinc,support,iron,0.52
-Rhizopus arrhizus,support,iron,0.5227272727272727
-coronavirus infection,cause,infection,0.75
-coronavirus infection,promote,infection,0.75
-upper respiratory tract,represent,infection,0.5263157894736842
-respiratory disease,elicit,infection,0.5555555555555556
-cough,occur,headache,0.6666666666666666
-cough,occur,fatigue,0.5833333333333333
-headache,occur,fatigue,0.625
-HPV-associated cancer,focus,cancer,0.75
-PK,evaluate,PD,0.5714285714285714
-Respiratory Syndrome,target,coronavirus disease 2019,0.5333333333333333
-"nirmatrelvir or remdesivir, suggesting the feasibility of treating",render,infections,0.55
-nontuberculous mycobacterial,increase,NTM,0.625
-NTM,affect,infection,0.625
-NTM,evaluate,NTM-associated diseases,0.5833333333333333
-Mycobacterium avium,associate,avium,0.75
-NTM,show,terrae,0.52
-NTM,alter,NTM-associated diseases,0.5714285714285714
-TACO,employ,DCE,0.5714285714285714
-sHCoVs,impact,OC43,0.6
-NL63,account,OC43,0.625
-sHCoVs,conclude,OC43,0.5625
-OC43,conclude,NL63,0.6666666666666666
-sHCoVs,conclude,NL63,0.55
-SARS-CoV-2 infection,analyze,infection,0.75
-SARS-CoV-2 infection,confirm,infection,0.75
-SARS-CoV-2 infection,differ,infection,0.75
-K,play,DTLVardef@1696837_HPS_FORMAT_FIGEXP M_FIG,0.5454545454545454
-U/A,impact,G/C,0.6666666666666666
+JN.1/KP.2,LABEL_1,S-induced,0.5238095238095238
+{Delta}3a7b-Nluc,LABEL_1,RBD,0.525
+ARM,LABEL_1,RBD,0.5333333333333333
+SARS-CoV-2 infection,LABEL_1,inflammation,0.5714285714285714
+SARS-CoV-2 infection,LABEL_1,infection,0.75
+infection,LABEL_1,inflammation,0.5833333333333333
+viral infection,LABEL_1,infection,0.75
+AXiAEC,LABEL_1,SARS-CoV-2 infection,0.5333333333333333
+AXiAEC,LABEL_1,infection,0.53125
+ALI,LABEL_1,SARS-CoV-2 infection,0.5833333333333333
+ALI,LABEL_1,infection,0.5714285714285714
+AXiAEC,LABEL_1,ALI,0.5625
+LOC SARS-CoV-2 infection,LABEL_1,SARS-CoV-2 infection,0.75
+LOC SARS-CoV-2 infection,LABEL_1,infection,0.6666666666666666
+trametinib,LABEL_1,sorafenib,0.6666666666666666
+trametinib,LABEL_1,coronavirus infections,0.5416666666666666
+sorafenib,LABEL_1,coronavirus infections,0.55
+Tyrosine,LABEL_1,pan-coronaviruses infection,0.5416666666666666
+riboflavin tetrabutyrate,LABEL_1,RTB,0.625
+nilotinib,LABEL_1,tecovirimat,0.5277777777777778
+nilotinib,LABEL_1,ST-246,0.5217391304347826
+tecovirimat,LABEL_1,ST-246,0.5833333333333333
+urea,LABEL_1,hydrogen bond donor,0.6
+once-daily,LABEL_1,SARS-CoV-2 infection,0.5555555555555556
+uridine,LABEL_1,ARCA,0.5833333333333333
+PASC,LABEL_1,infection,0.5714285714285714
+PASC,LABEL_1,infected with SARS-CoV-2 and viral,0.6
+infected with SARS-CoV-2 and viral,LABEL_1,infection,0.5277777777777778
+infection,LABEL_1,neurocognitive and behavioral impairments,0.5714285714285714
+infection,LABEL_1,neuroinflammation,0.5238095238095238
+neurocognitive and behavioral impairments,LABEL_1,neuroinflammation,0.5333333333333333
+inflammation,LABEL_1,PASC,0.5833333333333333
+neuroinflammation,LABEL_1,PASC,0.6666666666666666
+PASC,LABEL_1,inflammation,0.5333333333333333
+PASC,LABEL_1,chronic disease,0.5294117647058824
+neuroinflammation,LABEL_1,inflammation,0.5294117647058824
+neuroinflammation,LABEL_1,chronic disease,0.5263157894736842
+inflammation,LABEL_1,chronic disease,0.6666666666666666
+anti-CD44,LABEL_1,infection,0.5217391304347826
+weight loss,LABEL_1,infection,0.5384615384615384
+anti-CD44,LABEL_1,weight loss,0.5454545454545454
+pulmonary infection,LABEL_1,infection,0.75
+mucormycosis,LABEL_1,diabetes,0.5454545454545454
+zinc,LABEL_1,mucormycosis,0.5555555555555556
+Rhizopus arrhizus,LABEL_1,mucormycosis,0.5555555555555556
+zinc,LABEL_1,Rhizopus arrhizus,0.625
+zinc,LABEL_1,hydrogen peroxide,0.515625
+zinc,LABEL_1,sodium chloride,0.5131578947368421
+hydrogen peroxide,LABEL_1,sodium chloride,0.5714285714285714
+amphotericin B,LABEL_1,posaconazole,0.625
+ergosterol,LABEL_1,chitosan,0.625
+ergosterol,LABEL_1,iron,0.5357142857142857
+chitosan,LABEL_1,iron,0.5454545454545454
+zinc,LABEL_1,iron,0.52
+Rhizopus arrhizus,LABEL_1,iron,0.5227272727272727
+coronavirus infection,LABEL_1,infection,0.75
+upper respiratory tract,LABEL_1,infection,0.5263157894736842
+respiratory disease,LABEL_1,infection,0.5555555555555556
+cough,LABEL_1,headache,0.6666666666666666
+cough,LABEL_1,fatigue,0.5833333333333333
+headache,LABEL_1,fatigue,0.625
+HPV-associated cancer,LABEL_1,cancer,0.75
+PK,LABEL_1,PD,0.5714285714285714
+Respiratory Syndrome,LABEL_1,coronavirus disease 2019,0.5333333333333333
+"nirmatrelvir or remdesivir, suggesting the feasibility of treating",LABEL_1,infections,0.55
+nontuberculous mycobacterial,LABEL_1,NTM,0.625
+NTM,LABEL_1,infection,0.625
+NTM,LABEL_1,NTM-associated diseases,0.5833333333333333
+Mycobacterium avium,LABEL_1,avium,0.75
+NTM,LABEL_1,terrae,0.52

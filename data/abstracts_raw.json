@@ -1,5 +1,213 @@
 [
     {
+        "rel_doi": "10.1101/2025.10.16.682893",
+        "rel_title": "Repeated COVID-19 vaccine boosters elicit variant-specific memory B cells in humans",
+        "rel_date": "2025-10-20",
+        "rel_site": "bioRxiv",
+        "rel_link": "https://biorxiv.org/cgi/content/short/2025.10.16.682893",
+        "rel_abs": "The first exposure to a pathogen or an antigen profoundly impacts immune responses upon subsequent encounter with related pathogens. This immune imprinting explains that infection or vaccination with currently circulating SARS-CoV-2 variants primarily recalls cross-reactive memory B cells and antibodies induced by prior Wu spike (S) glycoprotein exposure rather than priming de novo responses. The magnitude and persistence of immune imprinting in mRNA vaccinated populations and the prospect to overcome it are not understood. To understand the impact of immune imprinting, we investigated memory B cell and plasma antibody responses after administration of multiple doses of XBB.1.5 and JN.1/KP.2 updated COVID-19 vaccine boosters. We found that administration of the JN.1/KP.2 booster elicited broadly neutralizing antibody responses against recently circulating SARS-CoV-2 variants that were accounted for by recall of Wu S-induced immunity. We detected an increased fraction of serum antibodies and particularly memory B cells recognizing XBB.1.5 S and KP.2 S, but not Wu S, relative to individuals who received a single XBB.1.5 booster a year prior. These findings suggest that repeated exposures to antigenically divergent S trimers contribute to progressively overcoming immune imprinting and support vaccine updates and innovation to provide continued protection against COVID-19.",
+        "rel_num_authors": 8,
+        "rel_authors": [
+            {
+                "author_name": "M. Alejandra Tortorici",
+                "author_inst": "University of Washington"
+            },
+            {
+                "author_name": "Kaitlin R Sprouse",
+                "author_inst": "University of Washington"
+            },
+            {
+                "author_name": "Amin Addetia",
+                "author_inst": "University of Washington"
+            },
+            {
+                "author_name": "Jack T Brown",
+                "author_inst": "University of Washington"
+            },
+            {
+                "author_name": "Alex Harteloo",
+                "author_inst": "University of Washington"
+            },
+            {
+                "author_name": "Anna Elias-Warren",
+                "author_inst": "University of Washington"
+            },
+            {
+                "author_name": "Helen Y Chiu",
+                "author_inst": "University of Washington"
+            },
+            {
+                "author_name": "David Veesler",
+                "author_inst": "University of Washington"
+            }
+        ],
+        "version": "1",
+        "license": "cc_by",
+        "type": "new results",
+        "category": "immunology"
+    },
+    {
+        "rel_doi": "10.1101/2025.10.17.683094",
+        "rel_title": "Predicting SARS-CoV-2 evolution dynamics with spatiotemporal resolution by DMS-empowered protein language model",
+        "rel_date": "2025-10-20",
+        "rel_site": "bioRxiv",
+        "rel_link": "https://biorxiv.org/cgi/content/short/2025.10.17.683094",
+        "rel_abs": "Early identification of emerging dominant SARS-CoV-2 variants is essential for effective pandemic preparedness, yet existing methodologies face significant limitations. Experimental characterizations are costly and not feasible for real-time surveillance, whereas existing computational approaches cannot achieve satisfactory precision in predicting future dominant lineages and fail to capture the spatiotemporal dynamics of fitness under evolving host immune pressures. Here, we introduce DeepCoV (DMS-Empowered Evolution Prediction of CoronaVirus), a deep-learning framework for the dynamic identification of novel variants with high potential to become prevelent. It integrates deep mutational scanning (DMS)-derived mutation phenotypes with epidemiological surveillence data reflecting historical viral evolution and the dynamic fitness landscape. DeepCoV accurately forecasted the dominance of recently circulating lineages a month in advance, achieving a 90% reduction in false discovery rate while capturing temporal and geographic dynamics of variant spread and reconstructing their regional prevalence trajectories. Moreover, DeepCoV identified mutational hotspots of Omicron-derived backbones in silico, revealing convergent evolution trends. This scalable solution enables timely identification of immune-evasive variants and prospective alert of critical mutations, providing actionable insights for vaccine updates and pandemic surveillance.",
+        "rel_num_authors": 5,
+        "rel_authors": [
+            {
+                "author_name": "Sijie Yang",
+                "author_inst": "Peking University"
+            },
+            {
+                "author_name": "Xiaowei Luo",
+                "author_inst": "Changping Laboratory"
+            },
+            {
+                "author_name": "Jiejian Luo",
+                "author_inst": "Changping Laboratory"
+            },
+            {
+                "author_name": "Fanchong Jian",
+                "author_inst": "Peking University"
+            },
+            {
+                "author_name": "Yunlong Cao",
+                "author_inst": "Peking University"
+            }
+        ],
+        "version": "1",
+        "license": "cc_by_nc",
+        "type": "new results",
+        "category": "microbiology"
+    },
+    {
+        "rel_doi": "10.1101/2025.10.16.682699",
+        "rel_title": "A cocktail of SARS-CoV-2 spike stem helix domain and receptor binding domain human monoclonal antibodies prevent the emerge of viral escape mutants",
+        "rel_date": "2025-10-20",
+        "rel_site": "bioRxiv",
+        "rel_link": "https://biorxiv.org/cgi/content/short/2025.10.16.682699",
+        "rel_abs": "Neutralizing antibodies (NAbs) targeting the spike (S) glycoprotein remain a crucial therapeutic strategy against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). However, emerging viral variants have escaped all Food and Drug Administration (FDA)-approved NAb treatments, underscoring the urgent need for effective therapeutic alternatives. Using a nanoluciferase (Nluc)-expressing attenuated recombinant SARS-CoV-2 lacking the open reading frames (ORF) 3a and 7b ({Delta}3a7b-Nluc), we characterized resistance profiles of two broadly protective NAbs targeting the S receptor binding domain (RBD) in S1 (1301B7) and the stem helix domain (SH) in S2 (1249A8). Serial passaging of {Delta}3a7b-Nluc under selective pressure identified a 1301B7 antibody-resistant mutants (ARM-B7) harboring an RBD mutation (S371F) that conferred resistance to 1301B7 and other RBD-directed NAbs (Casirivimab, SC27 and Sotrovimab). In contrast, no ARM emerged under treatment with 1249A8, or an antibody cocktail of 1301B7 (RBD) + 1249A8 (SH). These findings demonstrate that S2 SH-targeting NAbs shows higher genetic barrier to resistance than S1 RBD-targeting NAbs, and that a NAbs cocktail therapy targeting the SARS-CoV-2 S1 RBD and S2 SH offers the most effective strategy to prevent the emergence of escape mutations. Together, our findings provide critical insights into developing next-generation resistance-evading NAb therapies against SARS-CoV-2, and potentially other coronaviruses, and demonstrate the value of using our attenuated viral platforms for the safe identification of ARM without the potential biosafety concerns of doing these experiments using wild-type (WT) forms of SARS-CoV-2.",
+        "rel_num_authors": 14,
+        "rel_authors": [
+            {
+                "author_name": "Yao Ma",
+                "author_inst": "Texas Biomedical Research Institute"
+            },
+            {
+                "author_name": "Chengjin Ye",
+                "author_inst": "Texas Biomedical Research Institute"
+            },
+            {
+                "author_name": "Michael S Piepenbrink",
+                "author_inst": "University of Alabama at Birmingham"
+            },
+            {
+                "author_name": "Sara H Mahmoud",
+                "author_inst": "Texas Biomedical Research Institute"
+            },
+            {
+                "author_name": "Anastasija Cupic",
+                "author_inst": "Icahn School of Medicine at Mount Sinai Department of Microbiology"
+            },
+            {
+                "author_name": "Esteban Castro",
+                "author_inst": "Texas Biomedical Research Institute"
+            },
+            {
+                "author_name": "Nathaniel Jackson",
+                "author_inst": "Texas Biomedical Research Institute"
+            },
+            {
+                "author_name": "Mahmoud Bayoumi",
+                "author_inst": "Cairo University"
+            },
+            {
+                "author_name": "Alvaro S Padron",
+                "author_inst": "Texas Biomedical Research Institute"
+            },
+            {
+                "author_name": "Adolfo Garcia-Sastre",
+                "author_inst": "Icahn School of Medicine at Mount Sinai"
+            },
+            {
+                "author_name": "Gregg C Ippolito",
+                "author_inst": "Texas Biomedical Research Institute"
+            },
+            {
+                "author_name": "Mark R Walter",
+                "author_inst": "University of Alabama at Birmingham"
+            },
+            {
+                "author_name": "James Kobie",
+                "author_inst": "University of Alabama at Birmingham"
+            },
+            {
+                "author_name": "Luis Martinez-Sobrido",
+                "author_inst": "Texas Biomedical Research Institute"
+            }
+        ],
+        "version": "1",
+        "license": "cc0_ng",
+        "type": "new results",
+        "category": "microbiology"
+    },
+    {
+        "rel_doi": "10.1101/2025.10.17.683096",
+        "rel_title": "A Human Alveolus-on-Chip Recapitulates SARS-CoV-2-mediated Lung Injury in an Organ-relevant Context for Pre-clinical Applications",
+        "rel_date": "2025-10-20",
+        "rel_site": "bioRxiv",
+        "rel_link": "https://biorxiv.org/cgi/content/short/2025.10.17.683096",
+        "rel_abs": "Respiratory viruses pose a constant threat to public health as highlighted by the pandemic outbreak of COVID-19. The most severe manifestation of COVID-19 is observed in the distal lung, where SARS-CoV-2 infection can result in massive inflammation and barrier breakdown. To date, few therapies are approved for clinical use in COVID-19 patients partially due to the lack of highly translational pre-clinical models of the alveoli. Human-derived microphysiological systems pose a promising new class of in vitro models to study viral infection in a relevant context. Therefore, we aimed to develop a Lung-on-Chip (LOC) model for studying SARS-CoV-2 infection at the alveolar barrier. Using an immortalized alveolar epithelial cell line, AXiAEC, and human lung microvascular endothelial cells (hLMVEC) we established a SARS-CoV-2 infection model on a LOC system. The LOC models the alveolar epithelial/endothelial barrier under physiological breathing motion. Our results demonstrated that AXiAEC maturation at the air-liquid interface (ALI) is essential for SARS-CoV-2 infection. SARS-CoV-2 infected the breathing LOC model and induced breakdown of the air-blood barrier. Finally, we evaluated the application of the LOC SARS-CoV-2 infection model for efficacy testing and demonstrated the antiviral effect of remdesivir. Drug treatment not only inhibited viral replication but also protected the alveolar barrier from damage and partially reverted SARS-CoV-2-mediated transcriptional dysregulation in AXiAEC. This novel LOC infection model recapitulates aspects of COVID-19. Our results highlight the importance of physiological cues such as ALI and stretch to accurately model host-pathogen interactions in the distal lung. Application of LOC models in pre-clinical drug testing may facilitate candidate compound selection at an early stage, allowing the allocation of resources to a few promising candidate compounds raising the potential to accelerate drug development and reduce costs and animal testing.",
+        "rel_num_authors": 10,
+        "rel_authors": [
+            {
+                "author_name": "Mirjam Kiener",
+                "author_inst": "University of Bern"
+            },
+            {
+                "author_name": "Lea Lara De Maddalena",
+                "author_inst": "Alveolix AG"
+            },
+            {
+                "author_name": "Nuria Roldan",
+                "author_inst": "Alveolix AG"
+            },
+            {
+                "author_name": "Panagiotis Chouvardas",
+                "author_inst": "University of Bern"
+            },
+            {
+                "author_name": "Laurène Froment",
+                "author_inst": "Alveolix AG"
+            },
+            {
+                "author_name": "Marta De Menna",
+                "author_inst": "University of Bern"
+            },
+            {
+                "author_name": "Thomas Geiser",
+                "author_inst": "University of Bern"
+            },
+            {
+                "author_name": "Janick Stucki",
+                "author_inst": "Alveolix AG"
+            },
+            {
+                "author_name": "Nina Hobi",
+                "author_inst": "Alveolix AG"
+            },
+            {
+                "author_name": "Marianna Kruithof-de Julio",
+                "author_inst": "University of Bern"
+            }
+        ],
+        "version": "1",
+        "license": "cc_by_nc_nd",
+        "type": "new results",
+        "category": "cell biology"
+    },
+    {
         "rel_doi": "10.1101/2025.10.16.682669",
         "rel_title": "An unconventional HxD motif orchestrates coatomer-dependent coronavirus morphogenesis",
         "rel_date": "2025-10-17",
@@ -1688,265 +1896,5 @@
         "license": "cc_no",
         "type": "PUBLISHAHEADOFPRINT",
         "category": "epidemiology"
-    },
-    {
-        "rel_doi": "10.1101/2025.10.02.25337138",
-        "rel_title": "TACO: TabPFN Augmented Causal Outcomes for Early Detection of Long COVID",
-        "rel_date": "2025-10-05",
-        "rel_site": "medRxiv",
-        "rel_link": "https://medrxiv.org/cgi/content/short/2025.10.02.25337138",
-        "rel_abs": "Long COVID affects 10-40% of COVID-19 survivors, yet early detection remains challenging. We present TACO (TabPFN Augmented Causal Outcomes), a framework that uniquely combines causal inference with foundation models for presymptomatic Long COVID detection. TACO employs Differential Causal Effect (DCE) analysis to identify causally relevant genes, then utilizes TabPFN, a foundation model that does not require hyperparameter adjustment, to achieve consistent performance. In comprehensive benchmarking, TACO achieved superior precision using 18% fewer features than conventional approaches. Critically, TACO maintains consistent performance without any hyperparameter optimization, while benchmark models show variable results depending on the tuning. The causal genes of the framework provide biological interpretability, with 23.6% validated in the Long COVID literature (4.72-fold enrichment, p = 5.04 x 10-39), including regulators of viral entry (AR, TMPRSS2 ), immune response (TP53, CDKN1A), and tissue remodeling (SMAD2/3 ). By prioritizing causal mechanisms over statistical associations and eliminating the need for hyperparameter search, TACO offers a practical, interpretable solution for clinical deployment, transforming Long COVID management from reactive diagnosis to proactive prevention.",
-        "rel_num_authors": 9,
-        "rel_authors": [
-            {
-                "author_name": "Sindy Licette Pinero",
-                "author_inst": "University of South Australia"
-            },
-            {
-                "author_name": "Xiaomei Li",
-                "author_inst": "Commonwealth Scientific and Industrial Research Organisation"
-            },
-            {
-                "author_name": "Lin Liu",
-                "author_inst": "University of South Australia"
-            },
-            {
-                "author_name": "Jiuyong Li",
-                "author_inst": "University of South Australia"
-            },
-            {
-                "author_name": "Sang Hong Lee",
-                "author_inst": "University of South Australia"
-            },
-            {
-                "author_name": "Marnie Winter",
-                "author_inst": "University of South Australia"
-            },
-            {
-                "author_name": "Thin Nguyen",
-                "author_inst": "Deakin University"
-            },
-            {
-                "author_name": "Junpeng Zhang",
-                "author_inst": "Dali University"
-            },
-            {
-                "author_name": "Thuc Duy Le",
-                "author_inst": "University of South Australia"
-            }
-        ],
-        "version": "1",
-        "license": "cc_by_nc_nd",
-        "type": "PUBLISHAHEADOFPRINT",
-        "category": "genetic and genomic medicine"
-    },
-    {
-        "rel_doi": "10.1101/2025.09.28.25336743",
-        "rel_title": "SARS-CoV-2 cross-reactive B-cells outnumber seasonal coronavirus spike-specific clones at the end of the COVID-19 pandemic",
-        "rel_date": "2025-10-05",
-        "rel_site": "medRxiv",
-        "rel_link": "https://medrxiv.org/cgi/content/short/2025.09.28.25336743",
-        "rel_abs": "B-cell responses towards seasonal human coronaviruses (sHCoVs), particularly OC43, impacted those towards SARS-CoV-2 due to immune imprinting in severe COVID-19 patients. However, little is known on how widespread SARS-CoV-2 circulation and COVID-19 vaccination campaigns over the course of the pandemic affected immunity towards sHCoVs in the general population.\n\nTo explore potential differences in immune recognition of sHCoVs in immunocompetent adults, we compared two cross-sectional cohorts: one sampled between 2018 and 2019 (pre-pandemic), the other at the end of the pandemic (February - March 2023). We compared serum IgG and IgA titers, antibody cross-reactivity patterns at the clonal level, and specificity towards Spike (S) domains for all sHCoVs and dominant SARS-CoV-2 variants by B-cell analysis. Subsequently, we determined the OC43 neutralization potential of sera and monoclonal antibodies targeting different S domains.\n\nIn pre-pandemic individuals, SARS-CoV-2-reactive antibody and B-cell levels, and sHCoV/SARS-CoV-2 cross-reactivity were negligible. IgA and IgG reactivity against the S of sHCoVs was distributed over spike domain 1 and 2 (S1, S2). In end-pandemic donors, SARS-CoV-2-specific immune responses strongly dominated and the majority of sHCoV reactive clones cross-reacted with SARS-CoV-2. The SARS-CoV-2/sHCoVs cross-reactive clones accounted for higher NL63 S1- and OC43 S2-specific B-cell frequencies and matched higher serum antibody titers. For OC43, the immunodominance of SARS-CoV-2/OC43 cross-reactive IgG B-cells resulted in a strong bias towards S2. Serum OC43 neutralization titers were higher in end-pandemic donors and correlated with OC43 S1 and S2-specific IgG titers and reactive B-cells frequencies. However, the SARS-CoV-2/OC43 S2 cross-reactive IgG clones did not independently correlate with OC43 neutralization titers.\n\nWe conclude that the establishment of SARS-CoV-2-specific immune responses altered responses to sHCoVs in our cohort, particularly for OC43 and NL63. This could have implications for the immune protection and offers insights for the development of pan-coronavirus treatments and vaccines.",
-        "rel_num_authors": 13,
-        "rel_authors": [
-            {
-                "author_name": "Cristina Gonzalez Lopez",
-                "author_inst": "Department of Viroscience, Erasmus University Medical Center, Rotterdam, The Netherlands"
-            },
-            {
-                "author_name": "Muriel Aguilar-Bretones",
-                "author_inst": "Department of Viroscience, Erasmus University Medical Center, Rotterdam, The Netherlands"
-            },
-            {
-                "author_name": "Jingshu Zhang",
-                "author_inst": "Department of Viroscience, Erasmus University Medical Center, Rotterdam, The Netherlands"
-            },
-            {
-                "author_name": "Batuhan Bekki",
-                "author_inst": "Department of Viroscience, Erasmus University Medical Center, Rotterdam, The Netherlands"
-            },
-            {
-                "author_name": "Petra van den Doel",
-                "author_inst": "Department of Viroscience, Erasmus University Medical Center, Rotterdam, The Netherlands"
-            },
-            {
-                "author_name": "Eric C. van Gorp",
-                "author_inst": "Department of Viroscience, Erasmus University Medical Center, Rotterdam, The Netherlands"
-            },
-            {
-                "author_name": "P. Hugo M. van der Kuy",
-                "author_inst": "Department of Hospital Pharmacy, Erasmus University Medical Center, Rotterdam, the Netherlands"
-            },
-            {
-                "author_name": "Bart L. Haagmans",
-                "author_inst": "Department of Viroscience, Erasmus University Medical Center, Rotterdam, The Netherlands"
-            },
-            {
-                "author_name": "Corine H. GeurtsvanKessel",
-                "author_inst": "Department of Viroscience, Erasmus University Medical Center, Rotterdam, The Netherlands"
-            },
-            {
-                "author_name": "Marion P.G. Koopmans",
-                "author_inst": "Department of Viroscience, Erasmus University Medical Center, Rotterdam, The Netherlands"
-            },
-            {
-                "author_name": "Rory D. de Vries",
-                "author_inst": "Department of Viroscience, Erasmus University Medical Center, Rotterdam, The Netherlands"
-            },
-            {
-                "author_name": "Marit J. van Gils",
-                "author_inst": "Department of Medical Microbiology and Infection Prevention, Amsterdam University Medical Center, The Netherlands"
-            },
-            {
-                "author_name": "Gijsbert P. van Nierop",
-                "author_inst": "Department of Viroscience, Erasmus University Medical Center, Rotterdam, The Netherlands"
-            }
-        ],
-        "version": "1",
-        "license": "cc_by_nc_nd",
-        "type": "PUBLISHAHEADOFPRINT",
-        "category": "infectious diseases"
-    },
-    {
-        "rel_doi": "10.1101/2025.09.30.679491",
-        "rel_title": "Oral Microbiota Composition in Children and Adults During Spanish COVID-19 Lockdown: Impact of Home Self-Confinement and SARS-CoV-2 infection",
-        "rel_date": "2025-10-04",
-        "rel_site": "bioRxiv",
-        "rel_link": "https://biorxiv.org/cgi/content/short/2025.09.30.679491",
-        "rel_abs": "BackgroundThe COVID-19 pandemic changed societys habits and customs due to the social restrictions and health measures imposed during the first half of 2020. This study analyzes the composition of the oral microbiota in relation to age, household cohabitation, SARS-CoV-2 infection, and COVID-19 severity among children and adults under home confinement in Barcelona, Spain.\n\nMethodsA prospective study conducted involving children and adults confined during the COVID-19 pandemic in the Barcelona Metropolitan Area between April and June 2020 included multiple cases of several participants living within the same family household. Saliva samples were collected from all participants, and microbiota composition was characterized through 16S rRNA gene sequencing.\n\nResultsA total of 142 adults and 265 children living in 121 family households were included in the study. All 142 adults had a prior confirmed SARS-CoV-2 infection, and 20 (14.08%) of them had a history of severe COVID-19. SARS-CoV2 infection was detected in 58/265 (21.89%) of children; all of them were asymptomatic. Oral microbiota composition and diversity did not differ by SARS-CoV-2 infection status in children. In contrast, adults with severe COVID-19 exhibited lower microbiota diversity and distinct microbiota composition compared to those with mild disease symptoms. Age-related differences in oral microbiota composition were marked in the younger children groups. Additionally, cohabiting individuals shared more Amplicon Sequence Variants (ASVs) than non-cohabitants.\n\nConclusionsAge and cohabitation strongly influenced oral microbial composition. Our study demonstrates that oral microbiota composition in adults varies according to COVID-19 severity, whereas such microbial shifts are not observed in asymptomatic pediatric populations, regardless of infection status.",
-        "rel_num_authors": 13,
-        "rel_authors": [
-            {
-                "author_name": "Miguel Blanco-Fuertes",
-                "author_inst": "Centro de Investigacion Biomedica en Red"
-            },
-            {
-                "author_name": "Gerard Gonzalez-Colomino",
-                "author_inst": "Institut de Recerca Sant Joan de Déu"
-            },
-            {
-                "author_name": "Pedro Brotons",
-                "author_inst": "Institut de Recerca Sant Joan de Déu"
-            },
-            {
-                "author_name": "Aleix Lluansí",
-                "author_inst": "Institut de Recerca Sant Joan de Deu"
-            },
-            {
-                "author_name": "Rosauro Varo",
-                "author_inst": "ISGlobal, Hospital Clínic - Universitat de Barcelona"
-            },
-            {
-                "author_name": "Desiree Henares",
-                "author_inst": "University Hospital Sant Joan de Deu"
-            },
-            {
-                "author_name": "Cristian Launes",
-                "author_inst": "University Hospital Sant Joan de Deu"
-            },
-            {
-                "author_name": "Maria Cisneros",
-                "author_inst": "Institut de Recerca Sant Joan de Deu"
-            },
-            {
-                "author_name": "Mariona F. de Sevilla",
-                "author_inst": "Department of Surgery and Medical-Surgical Specialties. Faculty of Medicine and Health Sciences. University of Barcelona"
-            },
-            {
-                "author_name": "Juan-José García-García",
-                "author_inst": "Department of Surgery and Medical-Surgical Specialties. Faculty of Medicine and Health Sciences. University of Barcelona"
-            },
-            {
-                "author_name": "Álex Mira",
-                "author_inst": "Fundació per al Foment de la Investigació Sanitària i Biomèdica de la Comunitat Valenciana (Fisabio)"
-            },
-            {
-                "author_name": "Quique Bassat",
-                "author_inst": "Barcelona Institute for Global Health (ISGlobal)"
-            },
-            {
-                "author_name": "Carmen Muñoz-Almagro",
-                "author_inst": "Institut de Recerca Sant Joan de Deu, Hospital Sant Joan de Deu Barcelona"
-            }
-        ],
-        "version": "1",
-        "license": "cc_by_nc_nd",
-        "type": "new results",
-        "category": "microbiology"
-    },
-    {
-        "rel_doi": "10.1101/2025.09.22.677528",
-        "rel_title": "Computational Analysis of Silent Mutation Effects on SARS-CoV-2 RNA-Host RNA-Binding Protein Interactome",
-        "rel_date": "2025-10-03",
-        "rel_site": "bioRxiv",
-        "rel_link": "https://biorxiv.org/cgi/content/short/2025.09.22.677528",
-        "rel_abs": "Graphical Abstract\n\nO_FIG O_LINKSMALLFIG WIDTH=200 HEIGHT=138 SRC=\"FIGDIR/small/677528v1_ufig1.gif\" ALT=\"Figure 1\">\nView larger version (27K):\norg.highwire.dtl.DTLVardef@131df69org.highwire.dtl.DTLVardef@1429b6corg.highwire.dtl.DTLVardef@1ea0eacorg.highwire.dtl.DTLVardef@1696837_HPS_FORMAT_FIGEXP  M_FIG C_FIG AbstractRNA-Binding proteins (RBPs) play critical roles in host-virus interaction. They facilitate the regulation of viral RNA (vRNA) turnover by recognizing and forming complexes with the vRNA structure via specific RNA motifs-RNA binding domain interaction. However, due to consistent evolving nature of viruses, silent mutations in the viral genome can impact RBP-vRNA binding thereby altering the RNA processing. While efforts have been made in characterizing other forms of mutations leading to changes in amino acids sequence in SARS-CoV-2 variants, details on how silent mutations impact RBP-vRNA interaction remain limited. Here, we use extensive in silico mutagenesis to introduce silent mutations in the SARS-CoV-2 genome to generate four different synthetic variants and map the interaction of the variants and the wild-type with a catalogue of human RBPs. Our result shows variation in accumulation and reduction of the RBPs binding motifs in the variants compared to the virus reference sequence on a global scale and at the UTRs. The majority of the RBPs with AU-rich binding motifs are reduced in the variants, while RBPs with mostly GC-rich motifs accumulate more binding positions, suggesting that a single change from U/A to G/C and vice versa can impact RBP- viral interactions. Furthermore, we use structural analysis to show the interaction of the vRNA with PUF60 and KHDRBS3 proteins, two RBPs that have not been previously implicated in SARS-CoV- 2 interactome. Our findings show that loss to the conserved poly(U) in PUF60 binding motifs in some of the variants affects its interaction with the protein at the 5' end, which may disrupt the function of the protein as an anti-viral RNA regulator. We also predicted the key residues in KHDRBS3 interacting with its binding motif in the wild-type at the 3' end, while noting that the vRNA structural changes in the variants may contribute to the loss of this interaction. Overall, our predictions contribute to the insights into virus evolution and pathogenicity of potential new variants due to the impact of synonymous changes in the nucleotide sequences on protein-RNA interaction.",
-        "rel_num_authors": 15,
-        "rel_authors": [
-            {
-                "author_name": "Adebayo Joseph Bello",
-                "author_inst": "Department of Biological Sciences, Redeemers University, Ede, Osun State, Nigeria; Present Address: School of Pharmacy and Biomolecular Sciences, Liverpool John"
-            },
-            {
-                "author_name": "Onyeka S. Chukwudozie",
-                "author_inst": "La Jolla Institute for Immunology 9420 Athena Circle La Jolla, CA 92037. Department of Biological Science, University of California San Diego, CA 92161, USA."
-            },
-            {
-                "author_name": "Olajumoke B. Oladapo",
-                "author_inst": "Department of Cell Biology and Genetics, University of Lagos, Lagos, Nigeria. Present Address: Stephenson School of Biomedical Engineering, University of Oklaho"
-            },
-            {
-                "author_name": "Ayomide O. Omotuyi",
-                "author_inst": "Department of Cell Biology and Genetics, University of Lagos, Lagos, Nigeria."
-            },
-            {
-                "author_name": "Nnamdi A. Nzoniwu",
-                "author_inst": "Department of Cell Biology and Genetics, University of Lagos, Lagos, Nigeria."
-            },
-            {
-                "author_name": "Oluwafemi D. Amusa",
-                "author_inst": "Department of Cell Biology and Genetics, University of Lagos, Lagos, Nigeria."
-            },
-            {
-                "author_name": "Bodunrin O. Ottu",
-                "author_inst": "Department of Cell Biology and Genetics, University of Lagos, Lagos, Nigeria."
-            },
-            {
-                "author_name": "Ugochukwu Okeke",
-                "author_inst": "Department of Cell Biology and Genetics, University of Lagos, Lagos, Nigeria."
-            },
-            {
-                "author_name": "Abeebat O. Adewole",
-                "author_inst": "Arizona Department of Health Services State Laboratory, Arizona, Phoenix, AZ 85007, USA"
-            },
-            {
-                "author_name": "Ololade O. Akinnusi",
-                "author_inst": "Department of Microbiology, University of Lagos, Lagos, Nigeria."
-            },
-            {
-                "author_name": "Ayomikun E. Kade",
-                "author_inst": "Department of Microbiology, University of Lagos, Lagos, Nigeria."
-            },
-            {
-                "author_name": "Joseph B. Minari",
-                "author_inst": "Department of Cell Biology and Genetics, University of Lagos, Lagos, Nigeria"
-            },
-            {
-                "author_name": "Joy Okpuzor",
-                "author_inst": "Department of Cell Biology and Genetics, University of Lagos, Lagos, Nigeria."
-            },
-            {
-                "author_name": "Onikepe Folarin",
-                "author_inst": "Department of Biological Sciences, Redeemer's University, Ede, Osun State, Nigeria."
-            },
-            {
-                "author_name": "Mujeeb O. Shittu",
-                "author_inst": "Department of Biotechnical and Clinical Laboratory Science, Jacobs School of Medicine and Biomedical Sciences, University at Buffalo, Buffalo, New York, USA"
-            }
-        ],
-        "version": "1",
-        "license": "cc_by_nc",
-        "type": "new results",
-        "category": "bioinformatics"
     }
 ]

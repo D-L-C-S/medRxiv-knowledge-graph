@@ -9,13 +9,13 @@ cloudpathlib==0.23.0
 colorama==0.4.6
 comm==0.2.3
 confection==0.1.5
-conllu==6.0.0
 contourpy==1.3.3
 cycler==0.12.1
 cymem==2.0.11
 debugpy==1.8.17
 decorator==5.2.1
 en_ner_bc5cdr_md @ file:///D:/medRxiv%20knowledge%20graph/medRxiv-knowledge-graph/en_ner_bc5cdr_md-0.5.4.tar.gz#sha256=ffc73130a710edf851206199720cb2c744a043e032f5da6ba4bb36863deca778
+en_ner_bionlp13cg_md @ file:///D:/medRxiv%20knowledge%20graph/medRxiv-knowledge-graph/models/en_ner_bionlp13cg_md-0.5.4.tar.gz#sha256=d747ec2b3871d7f9187d4f4769e3f7014a48e804b01c18e3da9991a67024eae1
 executing==2.2.1
 filelock==3.20.0
 fonttools==4.60.1
@@ -45,7 +45,6 @@ murmurhash==1.0.13
 nest-asyncio==1.6.0
 networkx==3.5
 nltk==3.9.2
-nmslib-metabrainz==2.1.3
 numpy==1.26.4
 packaging==25.0
 pandas==2.3.3
@@ -54,30 +53,27 @@ pillow==12.0.0
 platformdirs==4.5.0
 preshed==3.0.10
 prompt_toolkit==3.0.52
-psutil==7.1.0
+psutil==7.1.1
 pure_eval==0.2.3
-pybind11==3.0.1
 pydantic==2.12.3
 pydantic_core==2.41.4
 Pygments==2.19.2
 pyparsing==3.2.5
-pysbd==0.3.4
 python-dateutil==2.9.0.post0
 pytz==2025.2
 pyvis==0.3.2
 PyYAML==6.0.3
 pyzmq==27.1.0
-regex==2025.9.18
+regex==2025.10.22
 requests==2.32.5
 rich==14.2.0
 safetensors==0.6.2
 scikit-learn==1.7.2
 scipy==1.16.2
-scispacy==0.6.2
 setuptools==80.9.0
 shellingham==1.5.4
 six==1.17.0
-smart_open==7.3.1
+smart_open==7.4.0
 spacy==3.7.5
 spacy-legacy==3.0.12
 spacy-loggers==1.0.5
@@ -92,7 +88,7 @@ tornado==6.5.2
 tqdm==4.67.1
 traitlets==5.14.3
 transformers==4.57.1
-typer==0.19.2
+typer==0.20.0
 typing-inspection==0.4.2
 typing_extensions==4.15.0
 tzdata==2025.2
@@ -100,4 +96,4 @@ urllib3==2.5.0
 wasabi==1.1.3
 wcwidth==0.2.14
 weasel==0.4.1
-wrapt==1.17.3
+wrapt==2.0.0
