@@ -42,7 +42,7 @@ medrxiv_knowledge_graph/
 │   ├── knowledge_graph_interactive.html  # Interactive HTML visualization of the knowledge graph
 │   └── triples_output.csv               # CSV format of the knowledge graph (nodes and edges)
 │
-└── README.md                          # Project documentation
+└── README.md                          # Documentation
 ```
 
 ---
